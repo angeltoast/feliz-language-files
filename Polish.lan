@@ -30,7 +30,7 @@ przydzielony do /root
 Przydziel rozmiar partycji swap
 Pozwól feliz na partycjonowanie całego dysku
 To co potrzeba tutaj, to ustalenie Twojej partycji /boot
-alternatywne ustawienia uruchomienia Twojego nowego systemu
+alternatywne ustawienie uruchomienia Twojego nowego systemu
 Alternatywnie, wybierz ' ' aby rozpocząć ponownie
 mimo, że możesz chcieć opuścić ustawienia dla partycji /swap
 i utwórz nową tablicę partycji z własnymi ustawieniami
@@ -51,10 +51,10 @@ Budowanie_Własnego
 Zbuduj swój własny system, przez wybranie
 lecz możesz przydzielić plik swap, jeśli chcesz
 Kalendarz & menadżer zadań
-nazywany 'archie' będzię ustawiony
+o nazwie 'archie' będzię wybrany
 Wybierz dowolną pozycję
 Wybierz z istniejących partycji
-Wybierz jeden lub Wyjście aby poszukać alternatywy
+Wybierz jedną lub Wyjście aby poszukać alternatywy
 Wybierz jeden lub ' ' aby poszukać alternatywy
 wybierz Strefę Światową swojej lokalizacji
 Wybierz jądro systemu
@@ -106,16 +106,16 @@ Bogato wyposażony klient poczty od Mozilla
 Skrypt instalacyjny Feliz - Arch Linux
 Feliz teraz oferuje Ci możliwość wyboru. Możesz ...
 FelizOB_pulpit
-Feliz - Testowanie
+Feliz - Testowy
 Feliz utworzy teraz nową tablicę partycji
 W końcu, musimy ustalić hasła
-Zakończenie instalacji za
+Instalacja ukończona w
 Najpierw powinieneś wybrać jedną do użycia dla EFI /boot
 czcionki
 '>' dla następnej strony
 '<' dla poprzedniej strony
 dla Twojego kraju lub języka lista będzie wyświetlona
-Bogato wyposażony, nowoczenesny DE
+Bogato wyposażony, nowoczesny DE
 Bogato wyposażony procesor tekstu
 W pełni użyteczny dock aplikacji
 Generowanie listy serwerów lustrzanych
@@ -131,7 +131,7 @@ z przewodnikiem
 Narzędzie ręcznego partycjonowania z przewodnikiem
 Poręczny kalkulator
 Poręczny, lekki edytor tekstu od LXDE
-masz listę serwerów lustrzanach Arch Linux. Można wybrać więcej niż jeden
+na liście serwerów lustrzanach Arch Linux. Można wybrać więcej niż
 To są dostępne partycje
 To jest lista dostępnych partycji
 Tutaj możesz ustalić rozmiar partycji i je sformatować
@@ -144,7 +144,7 @@ Jeśli masz wątpliwość, wybierz
 Jeśli masz wątpliwość, skonsultuj
 Jeśli tak, feliz może zainstalować Virtualbox guest
 Jeśli nie jesteś pewny partycjonowania, powinieneś zapoznać się z Arch Wiki
-Jeśli nic nie wybierzesz teraz, skrypt
+Jeśli nic nie wybierzesz teraz, przerwij skrypt
 Jeśli nie zainstalujsz menadżera wyświetlania, będziesz musiał
 Jeśli nie utworzysz nazwy użytkownika teraz, domyślny użytkownik
 Jeśli znasz kod układu swojej klawiatury, proszę wprowadź
@@ -176,7 +176,7 @@ Klawitura jest
 opuść
 Lekki, szybki i wszechstronny WM
 Lekka przeglądarka www
-Lekki i nowoczesny DE, bazujący na
+Lekki i nowoczesny DE, bazujący na Qt
 Lekki & konfigurowalny, stosowy WM
 Lekki, wysoce konfigurowalny DE
 Lekki, NETWM kompliant, panel pulpitu
@@ -186,9 +186,9 @@ Lekki X11 panel pulpitu (część pulpitu LXDE)
 ładowanie tłumacza
 Lokalizacja będzie ustawion na
 Średnio-lekki odtwarzacz wideo
-minuty
+minut
 Multimedia
-Następnie wybierzemy serwery lustrzane do pobrania Twójego systemu.
+Następnie wybierzemy serwery lustrzane do pobrania Twojego systemu.
 Nie
 Żaden Menadżer Wyświetlanie nie został wybrany
 Nie znaleziono żadnej klawiatury
@@ -199,7 +199,7 @@ Nie wprowadzono żadnych ustaleń dla swap
 Miej na uwadze, jeśli nie wybierzesz żadnego urządzenia, Grub
 Miej na uwadze, że nie będziesz w stanie
 Proszę teraz wybrać swój język z tej listy
-Teraz musimy znaleźć Twoją lakolizację w
+Teraz musimy znaleźć Twoją lokalizację w
 Teraz masz możliwość wybrania dodatków, takich jak przeglądarka www
 Biuro
 pozostała przestrzeń przeznaczona na
@@ -246,7 +246,7 @@ Proszę wybrać miasto z tej listy
 Proszę wybrać partycję aby ją użyć dla /root
 Proszę wybrać system plików dla
 Proszę spróbować ponownie
-Przygotowanie ukończone
+Przygotowania zakończone
 Przygotowywanie i montowanie partycji
 Przygotowywanie lokalnych usług
 Wciśnij dowolny klawisz
@@ -263,7 +263,7 @@ pozostałe, lub możesz przydzielić plik swap
 (Pamiętaj, to jest automatyczne partycjonowanie i wszystkie dane
 Ustawienia root i użytkownika
 partycja /root
-sekundy
+sekund
 zobacz hasła, które wprowadzasz
 Wybierz partycję dla swap z tych, które
 Wybierz urządzenie gdzie Grub zostanie zainstalowany
@@ -276,7 +276,7 @@ Prosty i potężny transkoder wideo
 Rozmiar
 Gładki, nowoczesny pulpit od zespołu Mint
 Małe i proste narzędzie do łączenia tekstu
-programy, które chcesz zainstalować
+programów, które chcesz zainstalować
 Przepraszam, nie znaleziono żadnej klawiatury bazującej na Twojej lokalizacji
 Arkusz kalkulacyjny od GNOME
 Stosowy menadżer okien dla X Window System
@@ -286,8 +286,8 @@ Swap może być dowolny od 512MiB w górę, lecz
 partycja /swap
 Parycja swap
 system nie będzie miał dostępu do tej parycji
-Pasek zadań
-przerwij aby umożliwić partycjonowanie w inny sposób
+Pasek_zadań
+aby umożliwić partycjonowanie w inny sposób
 Testowanie
 Wszystkie przygotowania zostały ukończone
 Menadżer plików od LXDE
@@ -318,7 +318,7 @@ To powinno być w formie /dev/sdx lub podobnej
 Zostaną wyczyszczone wszystkie dane na
 Kafelkowy menadżer okien, napisany całkowicie od początku
 Aby wrócić, zostaw puste
-aby ręcznie uruchomić swoje środowisko graficzne
+ręcznie uruchomić swoje środowisko graficzne
 Narzędzie do tworzenia/usuwania/zmiany rozmiaru partycji
 Zbyt wiele aby wyświetlić wszystko
 Aby ustawić zegar systemowy, proszę najpierw
@@ -327,17 +327,17 @@ Tradycyjny, lekki pulpit
 wymagane są dwie partycje - jedna dla EFI /boot oraz
 zrozumiałem, że nie sformatowanie /root
 Aktualizacja kluczy
-Użyj kursorów aby zaznaczyć. Enter aby wybrać
+Użyj kursora aby zaznaczyć. Enter aby wybrać
 Nazwa Użytkownika
 NazwaUżytkownika (obecnie
-narzędzia i dokonaj odpowiednich dla siebie ustawień
+i dokona odpowiednich dla Ciebie ustawień
 Wektorowy edytor grafiki
 moduły gościa virtualbox
 Ostrzeżenie: Btrfs nie posiada wsparcia dla plików swap
 Zaczynamy z
 Który chcesz użyć dla tej instalacji?
 podczas gdy najnowsze jądro posiada wszystkie najnowsze udogodnienia
-zostanie zainstalowane, a Ty musisz zrobić
+nie zostanie zainstalowany, a Ty będziesz musiał zrobić
 Menadżery_Okien
 Menadżer okien, który emuluje interfejs użytkownika NeXT
 Narzędzia Bezprzewodowe
@@ -359,9 +359,9 @@ Musisz dołączyć M lub G
 Teraz musisz
 Twoje urządzenie posiada
 Twoje urządzenie posiada tylko
-Twoje urządzenie w sieci. Jeśli nie podasz żadnego,
-Twoje najbliższe główne miasto
-Będziesz miał możliwość wybrania z listy krajów, które
+Twojego urządzenia w sieci. Jeśli nie podasz żadnego,
+Twojego najbliższego głównego miasta
+Będziesz miał możliwość wybrania z listy krajów, które znajdują się
 chcesz stworzyć. Kiedy bedziesz gotowy, Feliz wyczyści dysk
 Strefa/podStrefa będzie
 Afryka
