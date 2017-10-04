@@ -192,13 +192,13 @@ Em seguida, selecionaremos espelhos para baixar seu sistema.
 Não
 Nenhum gerenciador de exibição selecionado
 Nenhum teclado encontrado contendo
-Nenhum idioma foi encontrado para a sua localização.
+x
 Nenhum
 Nenhum_desses
 Nenhum provisão foi criada para o swap
 Observe que se você não selecionar um dispositivo, o Grub
 Observe que você não poderá
-Agora escolha o seu idioma a partir desta lista
+x
 Agora precisamos encontrar sua localização em
 Agora você tem a opção de adicionar extras, como um navegador de internet,
 Office
@@ -209,7 +209,7 @@ uma partição é necessária para o diretório root.
 Apenas digite um dispositivo, não inclua um número de partição
 Somente um gerenciador de exibição pode ser ativo
 Apenas um teclado encontrado com base na sua localização
-Somente um idioma encontrado para sua localização
+x
 no dispositivo escolhido será destruído)
 Abrir o cfdisk para que eu possa particionar manualmente
 Cliente BitTorrent de código aberto
@@ -268,7 +268,7 @@ ver as senhas ao inseri-las.
 Selecione uma partição para swap dos que
 Selecione o dispositivo onde o Grub deve ser instalado.
 Selecione seu teclado ou Sair para tentar novamente
-Devemos instalar com este idioma?
+x
 Desligar Reiniciar
 Dock simples e limpo do ambiente de trabalho do Pantheon
 Painel simples / barra de tarefas simples desenvolvido especificamente para o Openbox
@@ -342,7 +342,7 @@ Gerenciadores_de_Janela
 Gerenciador de janelas que emula a interface do usuário NeXT
 Ferramentas Wireless
 Gostaria de usar um dos seguintes?
-
+x
 Sim
 Você pode adicionar mais itens, ou selecionar itens para apagar
 Você pode optar pelo novo FelizOB Desktop, um
