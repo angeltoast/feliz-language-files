@@ -1,17 +1,17 @@
 English language file for Feliz
 by Elizabeth Audrey Mills (liz@feliz.one) 23 September 2017
 -----------------------------------------------------------
-Notes to translators (turn Line-numbers on in your text editor)
---------------------
+Notes to translators (use a text editor, such as notepad, and turn Line-numbers on)
+----------------------------------------------------------------------------------
 1) Please translate line #1 to say the translation language;
-2) Please translate line #2 to say your name and email address;
-   (it is your work and you deserve to be recognised for it)
+2) Please translate line #2 to say your name and email address ...
+   (it is your work and you deserve to be recognised for it);
 3) Translations start at line #19
-4) Please translate all lines at exactly the same line number,
-    and do not add or delete any lines (this is very important)
+4) Please translate all lines at exactly the same line number as in this file,
+    and do not add or delete any lines (this is very important);
 5) If any translated line will be over 80 characters, please re-phrase to make it shorter
 6) Save your file as <Language>.lan
-   (where <Language> is the native name of the language - for example: Español.lan)
+   (where <Language> is the English name of the language - for example: Spanish.lan)
 7) If you have any questions or problems, please email or contact me through Facebook
 -------------------------------------------------------------------------------------
 Thank you for your contribution to Feliz
@@ -192,13 +192,13 @@ Next we will select mirrors for downloading your system.
 No
 No Display Manager selected
 No keyboards found containing
-No language has been found for your location
+x
 None
 None_of_these
 No provision has been made for swap
 Note that if you do not select a device, Grub
 Note that you will not be able to
-Now please choose your language from this list
+x
 Now we need to find your location in
 Now you have the option to add extras, such as a web browser
 Office
@@ -209,7 +209,7 @@ one partition is needed for the root directory
 Only enter a device, do not include a partition number
 Only one display manager can be active
 Only one keyboard found based on your location
-Only one language found for your location
+x
 on the chosen device will be destroyed)
 Open cfdisk so I can partition manually
 Open source BitTorrent client
@@ -235,7 +235,7 @@ Passwords don't match
 Plasma 5 and accessories pack
 Please check them before Feliz begins the installation
 Please choose a country
-Please choose the language for the installed system
+Please choose the locale for the installed system
 Please choose your nearest location
 Please enter the desired size
 Please enter the first letter of
@@ -268,7 +268,7 @@ see passwords as you enter them
 Select a partition for swap from the ones that
 Select the device where Grub is to be installed
 Select your keyboard, or Exit to try again
-Shall we install with this language?
+x
 Shutdown Reboot
 Simple, clean dock from the Pantheon desktop environment
 Simple panel/taskbar developed specifically for Openbox
