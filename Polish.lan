@@ -192,14 +192,14 @@ Następnie wybierzemy serwery lustrzane do pobrania Twojego systemu.
 Nie
 Żaden Menadżer Wyświetlanie nie został wybrany
 Nie znaleziono żadnej klawiatury
-Nie znaleziono żadnego języka dla Twojej lokalizacji
+x
 Żaden
 Żaden_z_tych
 Nie wprowadzono żadnych ustaleń dla swap
 Miej na uwadze, jeśli nie wybierzesz żadnego urządzenia, Grub
 Miej na uwadze, że nie będziesz w stanie
-Proszę teraz wybrać swój język z tej listy
-Teraz musimy znaleźć Twoją lokalizację w
+Proszę wybrać swoją lokalizację w
+x
 Teraz masz możliwość wybrania dodatków, takich jak przeglądarka www
 Biuro
 pozostała przestrzeń przeznaczona na
@@ -209,7 +209,7 @@ jedna partycja jest wymagana dla głównego katalogu plików
 Wprowadź tylko urządzenie, nie podawaj numeru partycji
 Tylko jeden menadżer wyświetlania może byc aktywny
 Znaleziono tylko jedną klawiaturę dla Twojej lokalizacji
-Znaleziono tylko jeden język dla Twojej lokalizacji
+x
 na wybranym urządzeniu będzie zniszczone)
 Otwórz cfdisk aby partycjonować ręcznie
 Otwarto-źródłowy klient BitTorrent
@@ -235,7 +235,7 @@ Hasła nie pasują do siebie
 Plasma 5 i pakiet akcesorii
 Proszę sprawdzić zanim Feliz rozpocznie instalację
 Proszę wybrać kraj
-Proszę wybrać język dla instalowanego systemu
+Proszę wybrać lokalizację dla instalowanego systemu
 Proszę wybrać swoją najbliższą lokalizację
 Proszę wprowadzić pożądany rozmiar
 Proszę wprowadzić pierwszą literę
@@ -268,7 +268,7 @@ zobacz hasła, które wprowadzasz
 Wybierz partycję dla swap z tych, które
 Wybierz urządzenie gdzie Grub zostanie zainstalowany
 Wybierz swoją klawiaturę, lub Wyjście aby spróbować ponownie
-Czy zainstalować z tym językiem?
+x
 Wyłącz Restart
 Prosty, przejrzysty dock z środowiska graficznego Pantheon
 Prosty panel/menadżer zadań rozwijany specjalnie dla Openbox
@@ -321,7 +321,7 @@ Aby wrócić, zostaw puste
 ręcznie uruchomić swoje środowisko graficzne
 Narzędzie do tworzenia/usuwania/zmiany rozmiaru partycji
 Zbyt wiele aby wyświetlić wszystko
-Aby ustawić zegar systemowy, proszę najpierw
+Aby ustawić zegar systemowy, proszę
 Tradycyjny pulpit od zespołu Mint
 Tradycyjny, lekki pulpit
 wymagane są dwie partycje - jedna dla EFI /boot oraz
