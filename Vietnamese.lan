@@ -17,7 +17,7 @@ Notes to translators (use a text editor, such as notepad, and turn Line-numbers 
 Thank you for your contribution to Feliz
 ----------------------------------------
 Khởi tạo đồ hoạ 3D
-Phụ kiện
+Phụ_kiện
 thêm. Chọn quốc gia khác, hoặc ''
 Đã thêm
 Thêm codec
@@ -42,7 +42,7 @@ Bạn có ở bất kỳ nước nào trong số này?
 Bạn có chắc muốn tiếp tục không?
 Một GUI quét đơn giản
 gán một tập tin hoán đổi (swap). Đó là khuyến cáo để cho phép một số hoán đổi (swap)
-Tự động
+Tự_động
 sẵn có trên thiết bị đã chọn
 Arch_Linux_Cơ_Bản
 / phân vùng khởi động
@@ -65,7 +65,7 @@ Xin chúc mừng, cài đặt đã hoàn tất
 Nền tảng IDE cho Pascal Đối tượng
 Ứng dụng của tàu con thoi và ứng dụng tùy chỉnh
 tên máy chủ mặc định của 'arch-linux' sẽ được sử dụng
-Xóa bỏ
+Xóa_bỏ
 giao diện Desktop, vv, từ các kiểu sau
 Desktop_Giao_Diện
 Chương trình xuất bản trên máy tính
@@ -94,7 +94,7 @@ Nhập tên người dùng mới (hiện tại
 Nhập số cho dữ liệu để thay đổi
 Nhập đường dẫn mà Grub sẽ được cài đặt
 nhập '' để xem danh sách
-Lối thoát
+Lối_thoát
 Thoát để cho phép bạn phân vùng thiết bị
 Thoát để kết thúc
 Trình duyệt mở rộng từ Mozilla
@@ -111,7 +111,7 @@ Feliz sẽ tạo một bảng phân vùng mới
 Cuối cùng chúng ta cần phải đặt mật khẩu
 Hoàn thành cài đặt trong
 Trước tiên, bạn nên chọn một trong số để sử dụng cho EFI / boot
-phông chữ
+phông_chữ
 '>' cho trang tiếp theo
 '<' cho trang trước
 cho quốc gia hoặc ngôn ngữ của bạn và một danh sách sẽ được hiển thị
@@ -120,14 +120,14 @@ Bộ xử lý văn bản đầy đủ tính năng
 Ứng dụng dock đầy đủ
 Tạo mirrorlist
 Trình duyệt Gnome WebKitGTK + (aka Web)
-Đồ họa
+Đồ_họa
 Công cụ đồ họa
 Grub
 Grub sẽ được cài đặt vào
 Lối vào sane dựa trên GTK
 GTK + IDE với hỗ trợ plugin Python
 Ghi đĩa GUI
-hướng dẫn
+hướng_dẫn
 Công cụ phân chia hướng dẫn sử dụng hướng dẫn
 Giao diện Desktop tiện dụng
 Trình soạn thảo văn bản nhẹ gọn tiện dụng từ LXDE
@@ -137,7 +137,7 @@ Dưới đây là danh sách các phân vùng có sẵn
 Ở đây bạn có thể thiết lập kích thước và định dạng của phân vùng
 Trình quản lý cửa sổ có cấu hình cao, năng động
 / phân vùng nhà
-Tên máy chủ
+Tên_máy_chủ
 Tên máy chủ lưu trữ (hiện tại
 lý tưởng hơn, lên đến 20GiB
 Nếu nghi ngờ, chọn
@@ -155,7 +155,7 @@ Nếu bạn muốn giữ nhãn đó, hãy nhập 1
 Nếu bạn muốn sử dụng một, hãy chọn nó từ danh sách
 Trình xem hình ảnh và trình chỉnh sửa cơ bản
 cài đặt, nhưng bạn chỉ nên chọn ứng dụng ánh sáng
-Cài đặt
+Cài_đặt
 Cài đặt các tiện ích của khách Virtualbox?
 Môi trường phát triển tích hợp (IDE)
 Internet
@@ -173,7 +173,7 @@ Giữ
 Kernel
 hệ thống nhân và lõi
 Bàn phím là
-rời khỏi
+rời_khỏi
 Nhẹ, nhanh và linh hoạt WM
 Trình duyệt web nhẹ
 Nhẹ và hiện đại dựa trên Qt DE
@@ -193,7 +193,7 @@ Không
 Không có Trình quản lý hiển thị nào được chọn
 Không tìm thấy bàn phím nào
 x
-không ai
+không_ai
 Không có
 Không có khoản dự phòng cho hoán đổi (swap)
 Lưu ý rằng nếu bạn không chọn một thiết bị, Grub
@@ -201,7 +201,7 @@ Lưu ý rằng bạn sẽ không thể
 x
 Bây giờ, chúng tôi cần tìm vị trí của bạn trong
 Bây giờ, bạn có tùy chọn thêm tính năng bổ sung, chẳng hạn như trình duyệt web
-Văn phòng
+Văn_phòng
 không gian còn lại được phân bổ cho
 Được
 một, nhưng việc thêm quá nhiều sẽ làm chậm quá trình cài đặt của bạn
@@ -218,7 +218,7 @@ Bộ phần mềm văn phòng nguồn mở
 Hệ thống kiểm soát phiên bản mã nguồn mở
 trình điều khiển video mã nguồn mở
 Trình duyệt web mã nguồn mở từ Google
-hoặc là
+hoặc_là
 hoặc chọn Thoát để kết thúc phân vùng
 hoặc chọn Thoát để kết thúc phần này của thiết lập
 hoặc chọn Thoát để thoát khỏi nó vì nó là
@@ -252,7 +252,7 @@ Chuẩn bị các dịch vụ địa phương
 nhấn bất kỳ nút nào
 Nhấn Enter để tiếp tục
 Nhấn Enter để cài đặt với các cài đặt này, hoặc
-Lập trình
+Lập_trình
 Xếp hạng gương - vui lòng đợi ...
 Reader cho PDF và các định dạng tài liệu khác
 Nhập lại mật khẩu cho
@@ -273,7 +273,7 @@ Shutdown Reboot
 Đơn giản, sạch dock từ Pantheon giao diện Desktop
 Thanh công cụ đơn giản / thanh tác vụ được phát triển đặc biệt cho Openbox
 Bộ chuyển mã video đơn giản nhưng mạnh mẽ
-Kích thước
+Kích_thước
 Slick, giao diện Desktop từ bản phân phối Mint
 Công cụ trộn văn bản nhỏ và đơn giản
 phần mềm bạn muốn cài đặt
@@ -288,7 +288,7 @@ Phân vùng Swap
 hệ thống sẽ không còn có thể truy cập phân vùng
 Taskbars
 chấm dứt để cho phép bạn phân vùng theo một cách khác
-Thử nghiệm
+Thử_nghiệm
 Đó là tất cả các chuẩn bị được thực hiện
 Trình quản lý tập tin từ LXDE
 Các tính năng bổ sung sau đã được chọn
@@ -364,16 +364,16 @@ thành phố lớn gần nhất của bạn
 Bạn sẽ có thể chọn từ một danh sách các quốc gia
 bạn muốn tạo ra. Khi đã sẵn sàng, Feliz sẽ lau đĩa
 Zone / subZone sẽ được
-Châu phi
+Châu_phi
 Mỹ
-Nam Cực
-Bắc cực
-Châu Á
-Đại Tây Dương
-Châu Úc
-Châu Âu
-Ấn Độ Dương
-Thái Bình Dương
+Nam_Cực
+Bắc_cực
+Châu_Á
+Đại_Tây_Dương
+Châu_Úc
+Châu_Âu
+Ấn_Độ_Dương
+Thái_Bình_Dương
 UTC
-Nhập thủ công
+Nhập_thủ_công
 
