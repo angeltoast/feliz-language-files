@@ -1,0 +1,19 @@
+Additional Notes to translators
+-------------------------------
+Use a text editor, such as notepad, and turn Line-numbers on.
+
+Please translate all lines at exactly the same line number as in the English file.
+Do not add or delete any lines (this is very important).
+
+Some lines in the English file have the words linked with underscores.
+This is because they are used in simple, 'one-word' menus.
+So please make sure to also link the words on that line of your translation with underscores or hyphens.
+Also, if a line in the English file is only one word, and if your translation is more than one word, please link your words with underscores or hyphens.
+
+Tha Arch Linux console in which the installation of Feliz runs, is only 80 characters wide.
+So if any translated line will be over 80 characters, please re-phrase to make it shorter
+(preferably less than 70 characters, as some lines have to fit complex menus).
+
+If you have any questions or problems, please email me: liz@feliz.one or contact me through Facebook
+
+Thank you for your contribution to Feliz
