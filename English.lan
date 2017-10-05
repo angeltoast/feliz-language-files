@@ -192,13 +192,13 @@ Next we will select mirrors for downloading your system.
 No
 No Display Manager selected
 No keyboards found containing
-x
+Edit_locale.gen
 None
 None_of_these
 No provision has been made for swap
 Note that if you do not select a device, Grub
 Note that you will not be able to
-x
+Start Nano so you can manually uncomment locales?
 Now select your location in
 Now you have the option to add extras, such as a web browser
 Office
@@ -235,7 +235,7 @@ Passwords don't match
 Plasma 5 and accessories pack
 Please check them before Feliz begins the installation
 Please choose a country
-Please choose the locale for the installed system
+Choose the main locale for your system
 Please choose your nearest location
 Please enter the desired size
 Please enter the first letter of
