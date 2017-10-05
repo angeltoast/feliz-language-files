@@ -165,7 +165,7 @@ hiện đang được định dạng để
 Có vẻ như feliz đang chạy trong Virtualbox
 nó không phải là vượt quá 4GiB
 Không nên trộn hệ thống tập tin btrfs với những người khác
-nó bây giờ. Nếu không, hãy thử nhập một chữ cái viết tắt hai chữ cái
+nó bây giờ. Nếu không, hãy thử nhập hai chữ cái viết tắt
 Nó không được nhỏ hơn 512MiB và không được lớn hơn 1GiB
 Trình quản lý cửa sổ của Joe - quản lý cửa sổ nhẹ
 Chỉ cần cài đặt một Arch Linux cơ bản
