@@ -45,7 +45,7 @@ gán một tập tin hoán đổi (swap). Đó là khuyến cáo để cho phép
 Tự_động
 sẵn có trên thiết bị đã chọn
 Arch_Linux_Cơ_Bản
-/ phân vùng khởi động
+/ boot phân vùng khởi động
 Budgie là giao diện Desktop mặc định của Solus OS
 Xây_Dựng_Riêng_Cho_Bạn
 Xây dựng hệ thống của riêng bạn, bằng cách chọn
@@ -80,7 +80,7 @@ Bạn có muốn phân bổ một swapfile?
 Bạn có muốn thay đổi?
 Bạn có muốn định dạng lại?
 Trình quản lý cửa sổ trình bày động (yêu cầu trình biên dịch Haskell)
-Máy khách BitTorrent dễ sử dụng
+Trinh BitTorrent dễ sử dụng
 Trình chỉnh sửa video không tuyến tính dễ sử dụng
 Trình chỉnh sửa video dễ sử dụng
 Ứng dụng quản lý thư viện điện tử
@@ -174,12 +174,12 @@ Kernel
 hệ thống nhân (Kernel) và lõi hệ thống
 Bàn phím là
 rời_khỏi
-Nhẹ, nhanh và linh hoạt WM
+WM nhẹ, chạy nhanh
 Trình duyệt web nhẹ
-Nhẹ và hiện đại dựa trên Qt DE
+Giao diện Desktop nhẹ dựa trên Qt DE
 Stacking WM cấu hình đơn giản, nhẹ
-DE nhẹ, có cấu hình cao
-Nhẹ, bảng điều khiển màn hình phù hợp với NETWM
+DE nhẹ, dễ cài đặt cấu hình
+Bảng điều khiển màn hình gọn nhẹ phù hợp với NETWM
 Trình mô phỏng thiết bị đầu cuối cấu hình nhẹ từ LXDE
 Bảng điều khiển giao diện Desktop Lightweight X11 (một phần của giao diện Desktop LXDE)
 Tải
@@ -192,13 +192,13 @@ Tiếp theo, chúng ta sẽ chọn các mirrors cho việc tải xuống hệ th
 Không
 Không có Trình quản lý hiển thị nào được chọn
 Không tìm thấy bàn phím nào
-x
-không_ai
+Chỉnh_sửa_locale.gen 
+không_có
 Không có
 Không có khoản dự phòng cho hoán đổi (swap)
 Lưu ý rằng nếu bạn không chọn một thiết bị, Grub
 Lưu ý rằng bạn sẽ không thể
-x
+Sử dụng trinh Nano sửa
 Bây giờ, chúng tôi cần tìm vị trí của bạn trong
 Bây giờ, bạn có tùy chọn thêm tính năng bổ sung, chẳng hạn như trình duyệt web
 Văn_phòng
@@ -235,7 +235,7 @@ Mật khẩu không khớp
 Plasma 5 và phụ kiện gói
 Vui lòng kiểm tra chúng trước khi Feliz bắt đầu cài đặt
 Vui lòng chọn một quốc gia
-Vui lòng chọn ngôn ngữ cho hệ thống đã cài đặt
+Vui lòng chọn ngôn ngữ chính cho hệ thống đã cài đặt
 Vui lòng chọn vị trí gần nhất của bạn
 Vui lòng nhập kích thước mong muốn
 Vui lòng nhập chữ cái đầu tiên của
@@ -247,8 +247,8 @@ Hãy chọn một phân vùng để sử dụng cho / root
 Vui lòng chọn hệ thống tập tin cho
 Vui lòng thử lại
 Chuẩn bị xong
-Chuẩn bị và lắp đặt các phân vùng
-Chuẩn bị các dịch vụ địa phương
+Chuẩn bị và cài đặt các phân vùng
+Chuẩn bị các dịch vụ cần cài đặt
 nhấn bất kỳ nút nào
 Nhấn Enter để tiếp tục
 Nhấn Enter để cài đặt với các cài đặt này, hoặc
@@ -262,7 +262,7 @@ Sắp xếp lại nó sẽ thay đổi UUID, và nếu swap này
 còn lại, hoặc bạn có thể phân bổ một tập tin hoán đổi (swap)
 (Hãy nhớ rằng đây là phân vùng tự động và bất kỳ dữ liệu nào
 Cài đặt gốc và người dùng
-/ phân vùng gốc
+/ root phân vùng gốc
 giây
 xem mật khẩu khi bạn nhập chúng
 Chọn một phân vùng để hoán đổi (swap) từ những
@@ -275,15 +275,15 @@ Thanh công cụ đơn giản / thanh tác vụ được phát triển đặc bi
 Bộ chuyển mã video đơn giản nhưng mạnh mẽ
 Kích_thước
 Slick, giao diện Desktop từ bản phân phối Mint
-Công cụ trộn văn bản nhỏ và đơn giản
+Công cụ trộn văn bản nhỏ gọn và đơn giản
 phần mềm bạn muốn cài đặt
 Rất tiếc, không có bàn phím nào được tìm thấy dựa trên vị trí của bạn
 Chương trình bảng tính từ GNOME
 Trình quản lý cửa sổ xếp chồng cho hệ thống cửa sổ X
-Lắp bộ quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
-Sự thành công!
+Quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
+Thành công!
 Swap có thể là bất cứ thứ gì từ 512MiB trở lên nhưng
-/ phân vùng hoán đổi (swap)
+/swap phân vùng hoán đổi (swap)
 Phân vùng Swap
 hệ thống sẽ không còn có thể truy cập phân vùng
 Taskbars
@@ -310,11 +310,11 @@ Phân vùng / root không được nhỏ hơn 8GiB
 Phân vùng đã chọn
 Phân vùng đã chọn
 Cơ sở này được giới hạn trong việc tạo / root, / swap và / home
-Điều này là đủ cho
-Điều này chỉ là đủ cho một cơ bản
-Điều này không đủ để cài đặt
+Điều này đủ cho
+Chỉ là đủ cho sử dụng cơ bản
+Không đủ để cài đặt
 Đây phải là loại vfat, và có thể khoảng 512MiB
-Điều này nên ở dạng / dev / sdx hoặc tương tự
+Nên ở dạng / dev / sdx hoặc tương tự
 Thao tác này sẽ xóa mọi dữ liệu trên
 Trình quản lý cửa sổ trình bày, hoàn toàn được viết từ đầu
 Để trở lại, hãy để trống
@@ -332,7 +332,7 @@ Tên người dùng
 Tên đăng nhập (hiện tại
 tiện ích và cài đặt thích hợp cho bạn
 Trình biên tập đồ hoạ vector
-modules khách mời ảo
+modules khách mời ảo Virtualbox
 Cảnh báo: Btrfs không hỗ trợ các tâp tin Swap
 Chúng tôi bắt đầu với
 Bạn muốn sử dụng cho cài đặt này?
@@ -364,10 +364,10 @@ thành phố lớn gần nhất của bạn
 Bạn sẽ có thể chọn từ một danh sách các quốc gia
 bạn muốn tạo ra. Khi đã sẵn sàng, Feliz sẽ lau đĩa
 Zone / subZone sẽ được
-Châu_phi
-Mỹ
+Châu_Phi
+Châu_Mỹ
 Nam_Cực
-Bắc_cực
+Bắc_Cực
 Châu_Á
 Đại_Tây_Dương
 Châu_Úc
