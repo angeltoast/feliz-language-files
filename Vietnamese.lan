@@ -45,7 +45,7 @@ gán một tập tin hoán đổi (swap). Đó là khuyến cáo để cho phép
 Tự_động
 sẵn có trên thiết bị đã chọn
 Arch_Linux_Cơ_Bản
-/ phân vùng khởi động
+/ boot phân vùng khởi động
 Budgie là giao diện Desktop mặc định của Solus OS
 Xây_Dựng_Riêng_Cho_Bạn
 Xây dựng hệ thống của riêng bạn, bằng cách chọn
@@ -80,7 +80,7 @@ Bạn có muốn phân bổ một swapfile?
 Bạn có muốn thay đổi?
 Bạn có muốn định dạng lại?
 Trình quản lý cửa sổ trình bày động (yêu cầu trình biên dịch Haskell)
-Máy khách BitTorrent dễ sử dụng
+Trinh BitTorrent dễ sử dụng
 Trình chỉnh sửa video không tuyến tính dễ sử dụng
 Trình chỉnh sửa video dễ sử dụng
 Ứng dụng quản lý thư viện điện tử
