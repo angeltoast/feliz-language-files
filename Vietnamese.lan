@@ -262,7 +262,7 @@ Sắp xếp lại nó sẽ thay đổi UUID, và nếu swap này
 còn lại, hoặc bạn có thể phân bổ một tập tin hoán đổi (swap)
 (Hãy nhớ rằng đây là phân vùng tự động và bất kỳ dữ liệu nào
 Cài đặt gốc và người dùng
-/ phân vùng gốc
+/ root phân vùng gốc
 giây
 xem mật khẩu khi bạn nhập chúng
 Chọn một phân vùng để hoán đổi (swap) từ những
@@ -332,7 +332,7 @@ Tên người dùng
 Tên đăng nhập (hiện tại
 tiện ích và cài đặt thích hợp cho bạn
 Trình biên tập đồ hoạ vector
-modules khách mời ảo
+modules khách mời ảo Virtualbox
 Cảnh báo: Btrfs không hỗ trợ các tâp tin Swap
 Chúng tôi bắt đầu với
 Bạn muốn sử dụng cho cài đặt này?
