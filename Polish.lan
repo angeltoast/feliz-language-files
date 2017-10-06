@@ -54,7 +54,7 @@ Kalendarz & menadżer zadań
 o nazwie 'archie' będzię wybrany
 Wybierz dowolną pozycję
 Wybierz z istniejących partycji
-Wybierz jedną lub Wyjście aby poszukać alternatywy
+Wybierz jedną lub Wyjście aby spróbować ponownie
 Wybierz jeden lub ' ' aby poszukać alternatywy
 wybierz Strefę Światową swojej lokalizacji
 Wybierz jądro systemu
@@ -192,13 +192,13 @@ Następnie wybierzemy serwery lustrzane do pobrania Twojego systemu.
 Nie
 Żaden Menadżer Wyświetlanie nie został wybrany
 Nie znaleziono żadnej klawiatury
-x
+Edycja_locale.gen
 Żaden
 Żaden_z_tych
 Nie wprowadzono żadnych ustaleń dla swap
 Miej na uwadze, jeśli nie wybierzesz żadnego urządzenia, Grub
 Miej na uwadze, że nie będziesz w stanie
-Proszę wybrać swoją lokalizację w
+Uruchomić Nano aby ręcznie odkomentować lokalizacje?
 x
 Teraz masz możliwość wybrania dodatków, takich jak przeglądarka www
 Biuro
@@ -235,7 +235,7 @@ Hasła nie pasują do siebie
 Plasma 5 i pakiet akcesorii
 Proszę sprawdzić zanim Feliz rozpocznie instalację
 Proszę wybrać kraj
-Proszę wybrać lokalizację dla instalowanego systemu
+Wybierz domyślną lokalizację dla Twojego systemu
 Proszę wybrać swoją najbliższą lokalizację
 Proszę wprowadzić pożądany rozmiar
 Proszę wprowadzić pierwszą literę
