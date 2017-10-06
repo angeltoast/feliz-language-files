@@ -174,12 +174,12 @@ Kernel
 hệ thống nhân (Kernel) và lõi hệ thống
 Bàn phím là
 rời_khỏi
-Nhẹ, nhanh và linh hoạt WM
+WM nhẹ, chạy nhanh
 Trình duyệt web nhẹ
-Nhẹ và hiện đại dựa trên Qt DE
+Giao diện Desktop nhẹ dựa trên Qt DE
 Stacking WM cấu hình đơn giản, nhẹ
-DE nhẹ, có cấu hình cao
-Nhẹ, bảng điều khiển màn hình phù hợp với NETWM
+DE nhẹ, dễ cài đặt cấu hình
+Bảng điều khiển màn hình gọn nhẹ phù hợp với NETWM
 Trình mô phỏng thiết bị đầu cuối cấu hình nhẹ từ LXDE
 Bảng điều khiển giao diện Desktop Lightweight X11 (một phần của giao diện Desktop LXDE)
 Tải
@@ -281,7 +281,7 @@ Rất tiếc, không có bàn phím nào được tìm thấy dựa trên vị t
 Chương trình bảng tính từ GNOME
 Trình quản lý cửa sổ xếp chồng cho hệ thống cửa sổ X
 Quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
-Sự thành công!
+Thành công!
 Swap có thể là bất cứ thứ gì từ 512MiB trở lên nhưng
 /swap phân vùng hoán đổi (swap)
 Phân vùng Swap
