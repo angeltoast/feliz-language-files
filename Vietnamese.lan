@@ -247,8 +247,8 @@ Hãy chọn một phân vùng để sử dụng cho / root
 Vui lòng chọn hệ thống tập tin cho
 Vui lòng thử lại
 Chuẩn bị xong
-Chuẩn bị và lắp đặt các phân vùng
-Chuẩn bị các dịch vụ địa phương
+Chuẩn bị và cài đặt các phân vùng
+Chuẩn bị các dịch vụ cần cài đặt
 nhấn bất kỳ nút nào
 Nhấn Enter để tiếp tục
 Nhấn Enter để cài đặt với các cài đặt này, hoặc
@@ -275,15 +275,15 @@ Thanh công cụ đơn giản / thanh tác vụ được phát triển đặc bi
 Bộ chuyển mã video đơn giản nhưng mạnh mẽ
 Kích_thước
 Slick, giao diện Desktop từ bản phân phối Mint
-Công cụ trộn văn bản nhỏ và đơn giản
+Công cụ trộn văn bản nhỏ gọn và đơn giản
 phần mềm bạn muốn cài đặt
 Rất tiếc, không có bàn phím nào được tìm thấy dựa trên vị trí của bạn
 Chương trình bảng tính từ GNOME
 Trình quản lý cửa sổ xếp chồng cho hệ thống cửa sổ X
-Lắp bộ quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
+Quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
 Sự thành công!
 Swap có thể là bất cứ thứ gì từ 512MiB trở lên nhưng
-/ phân vùng hoán đổi (swap)
+/swap phân vùng hoán đổi (swap)
 Phân vùng Swap
 hệ thống sẽ không còn có thể truy cập phân vùng
 Taskbars
@@ -310,11 +310,11 @@ Phân vùng / root không được nhỏ hơn 8GiB
 Phân vùng đã chọn
 Phân vùng đã chọn
 Cơ sở này được giới hạn trong việc tạo / root, / swap và / home
-Điều này là đủ cho
-Điều này chỉ là đủ cho một cơ bản
-Điều này không đủ để cài đặt
+Điều này đủ cho
+Chỉ là đủ cho sử dụng cơ bản
+Không đủ để cài đặt
 Đây phải là loại vfat, và có thể khoảng 512MiB
-Điều này nên ở dạng / dev / sdx hoặc tương tự
+Nên ở dạng / dev / sdx hoặc tương tự
 Thao tác này sẽ xóa mọi dữ liệu trên
 Trình quản lý cửa sổ trình bày, hoàn toàn được viết từ đầu
 Để trở lại, hãy để trống
