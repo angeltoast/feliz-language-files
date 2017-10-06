@@ -192,13 +192,13 @@ Tiếp theo, chúng ta sẽ chọn các mirrors cho việc tải xuống hệ th
 Không
 Không có Trình quản lý hiển thị nào được chọn
 Không tìm thấy bàn phím nào
-x
+Chỉnh_sửa_locale.gen 
 không_ai
 Không có
 Không có khoản dự phòng cho hoán đổi (swap)
 Lưu ý rằng nếu bạn không chọn một thiết bị, Grub
 Lưu ý rằng bạn sẽ không thể
-x
+Sử dụng trinh Nano sửa
 Bây giờ, chúng tôi cần tìm vị trí của bạn trong
 Bây giờ, bạn có tùy chọn thêm tính năng bổ sung, chẳng hạn như trình duyệt web
 Văn_phòng
@@ -235,7 +235,7 @@ Mật khẩu không khớp
 Plasma 5 và phụ kiện gói
 Vui lòng kiểm tra chúng trước khi Feliz bắt đầu cài đặt
 Vui lòng chọn một quốc gia
-Vui lòng chọn ngôn ngữ cho hệ thống đã cài đặt
+Vui lòng chọn ngôn ngữ chính cho hệ thống đã cài đặt
 Vui lòng chọn vị trí gần nhất của bạn
 Vui lòng nhập kích thước mong muốn
 Vui lòng nhập chữ cái đầu tiên của
