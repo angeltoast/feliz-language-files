@@ -40,7 +40,7 @@ và bạn có thể chạy ra khỏi không gian trong khi cài đặt hoặc v�
 Phân vùng cần thiết cho / root
 Bạn có ở bất kỳ nước nào trong số này?
 Bạn có chắc muốn tiếp tục không?
-Một GUI quét đơn giản
+Một GUI đơn giản
 gán một tập tin hoán đổi (swap). Đó là khuyến cáo để cho phép một số hoán đổi (swap)
 Tự_động
 sẵn có trên thiết bị đã chọn
@@ -65,28 +65,28 @@ Xin chúc mừng, cài đặt đã hoàn tất
 Nền tảng IDE cho Pascal Đối tượng
 Ứng dụng của tàu con thoi và ứng dụng tùy chỉnh
 tên máy chủ mặc định của 'arch-linux' sẽ được sử dụng
-Xóa_bỏ
+Xóa
 giao diện Desktop, vv, từ các kiểu sau
-Desktop_Giao_Diện
+Giao_Diện_Desktop
 Chương trình xuất bản trên máy tính
-Thời gian để bàn và thông tin hệ thống
+Thời gian giao diện Desktop và thông tin hệ thống
 thiết bị có sẵn
 Ứng dụng ghi đĩa từ Gnome
 Trình quản lý Hiển thị
 Trình quản lý hiển thị đã được đặt là
 Hiển thị thông tin về phần cứng và hệ điều hành của bạn
-Bạn có muốn chấp nhận điều này? Chọn No để tìm kiếm các lựa chọn thay thế
+Bạn có muốn chấp nhận điều này? Chọn No (Không) để tìm kiếm các lựa chọn thay thế
 Bạn có muốn phân bổ một swapfile?
-Bạn có muốn thay đổi nó?
-Bạn có muốn định dạng lại nó?
+Bạn có muốn thay đổi?
+Bạn có muốn định dạng lại?
 Trình quản lý cửa sổ trình bày động (yêu cầu trình biên dịch Haskell)
 Máy khách BitTorrent dễ sử dụng
 Trình chỉnh sửa video không tuyến tính dễ sử dụng
 Trình chỉnh sửa video dễ sử dụng
 Ứng dụng quản lý thư viện điện tử
 Nhập 1, 2 hoặc nhãn mới
-Nhập tên máy chủ cho máy tính của bạn
-Nhập điểm lắp cho
+Nhập tên máy chủ (hostname) cho máy tính của bạn
+Nhập điểm mount cho
 Nhập tên cho người dùng chính của hệ thống mới
 Nhập mật khẩu cho
 Bước vào giai đoạn cài đặt tự động
@@ -126,7 +126,7 @@ Grub
 Grub sẽ được cài đặt vào
 Lối vào sane dựa trên GTK
 GTK + IDE với hỗ trợ plugin Python
-Ghi đĩa GUI
+Ghi đĩa CD
 hướng_dẫn
 Công cụ phân chia hướng dẫn sử dụng hướng dẫn
 Giao diện Desktop tiện dụng
@@ -136,12 +136,12 @@ có gương Arch Linux. Có thể chọn nhiều hơn
 Dưới đây là danh sách các phân vùng có sẵn
 Ở đây bạn có thể thiết lập kích thước và định dạng của phân vùng
 Trình quản lý cửa sổ có cấu hình cao, năng động
-/ phân vùng nhà
+/home phân vùng
 Tên_máy_chủ
 Tên máy chủ lưu trữ (hiện tại
 lý tưởng hơn, lên đến 20GiB
 Nếu nghi ngờ, chọn
-Nếu nghi ngờ, tư vấn
+Nếu nghi ngờ, tham khảo
 Nếu có, feliz có thể cài đặt Virtualbox guest
 Nếu bạn không chắc chắn về phân vùng, bạn nên đọc Arch Wiki
 Nếu bạn chọn không làm gì bây giờ, kịch bản sẽ
@@ -154,7 +154,7 @@ Nếu bạn muốn nhập một nhãn mới, gõ nó vào dấu nhắc
 Nếu bạn muốn giữ nhãn đó, hãy nhập 1
 Nếu bạn muốn sử dụng một, hãy chọn nó từ danh sách
 Trình xem hình ảnh và trình chỉnh sửa cơ bản
-cài đặt, nhưng bạn chỉ nên chọn ứng dụng ánh sáng
+cài đặt, nhưng bạn chỉ nên chọn ứng dụng nhẹ
 Cài_đặt
 Cài đặt các tiện ích của khách Virtualbox?
 Môi trường phát triển tích hợp (IDE)
@@ -163,32 +163,32 @@ Internet
 đã có trong danh sách mua sắm của bạn
 hiện đang được định dạng để
 Có vẻ như feliz đang chạy trong Virtualbox
-nó không phải là vượt quá 4GiB
-Không nên trộn hệ thống tập tin btrfs với những người khác
-nó bây giờ. Nếu không, hãy thử nhập hai chữ cái viết tắt
-Nó không được nhỏ hơn 512MiB và không được lớn hơn 1GiB
+không cần vượt quá 4GiB
+Không nên trộn hệ thống tập tin btrfs với những định dạng khác
+ngay bây giờ. Nếu không, hãy thử nhập hai chữ cái viết tắt
+Không được nhỏ hơn 512MiB và không được lớn hơn 1GiB
 Trình quản lý cửa sổ của Joe - quản lý cửa sổ nhẹ
 Chỉ cần cài đặt một Arch Linux cơ bản
 Giữ
 Kernel
-hệ thống nhân và lõi
+hệ thống nhân (Kernel) và lõi hệ thống
 Bàn phím là
 rời_khỏi
 Nhẹ, nhanh và linh hoạt WM
 Trình duyệt web nhẹ
 Nhẹ và hiện đại dựa trên Qt DE
-Cân nặng và định cấu hình WM
+Stacking WM cấu hình đơn giản, nhẹ
 DE nhẹ, có cấu hình cao
 Nhẹ, bảng điều khiển màn hình phù hợp với NETWM
-Trình mô phỏng thiết bị đầu cuối nhẹ từ LXDE
+Trình mô phỏng thiết bị đầu cuối cấu hình nhẹ từ LXDE
 Bảng điều khiển giao diện Desktop Lightweight X11 (một phần của giao diện Desktop LXDE)
 Tải
-Tải dịch giả
+Tải chương trình dịch
 Địa phương sẽ được đặt thành
 Trình phát video trung vị
 phút
 Đa phương tiện
-Tiếp theo, chúng ta sẽ chọn các gương cho việc tải xuống hệ thống của bạn.
+Tiếp theo, chúng ta sẽ chọn các mirrors cho việc tải xuống hệ thống của bạn.
 Không
 Không có Trình quản lý hiển thị nào được chọn
 Không tìm thấy bàn phím nào
@@ -202,7 +202,7 @@ x
 Bây giờ, chúng tôi cần tìm vị trí của bạn trong
 Bây giờ, bạn có tùy chọn thêm tính năng bổ sung, chẳng hạn như trình duyệt web
 Văn_phòng
-không gian còn lại được phân bổ cho
+không gian đĩa cứng còn lại được phân bổ cho
 Được
 một, nhưng việc thêm quá nhiều sẽ làm chậm quá trình cài đặt của bạn
 một phân vùng là cần thiết cho thư mục gốc
@@ -210,11 +210,11 @@ Chỉ nhập một thiết bị, không bao gồm một số phân vùng
 Chỉ có một trình quản lý hiển thị có thể hoạt động
 Chỉ tìm thấy một bàn phím dựa trên vị trí của bạn
 x
-trên thiết bị đã chọn sẽ bị phá hủy)
-Mở cfdisk để tôi có thể phân vùng một cách thủ công
-Máy khách BitTorrent nguồn mở
+trên thiết bị đã chọn sẽ bị xóa hoàn toàn)
+Mở cfdisk để có thể phân vùng một cách thủ công
+Trình BitTorrent mã nguồn mở
 Mã nguồn mở và nền tảng C / C ++ IDE
-Bộ phần mềm văn phòng nguồn mở
+Bộ phần mềm văn phòng mã nguồn mở
 Hệ thống kiểm soát phiên bản mã nguồn mở
 trình điều khiển video mã nguồn mở
 Trình duyệt web mã nguồn mở từ Google
@@ -253,8 +253,8 @@ nhấn bất kỳ nút nào
 Nhấn Enter để tiếp tục
 Nhấn Enter để cài đặt với các cài đặt này, hoặc
 Lập_trình
-Xếp hạng thư viện - vui lòng đợi ...
-Reader cho PDF và các định dạng tài liệu khác
+Xếp hạng mirrors - vui lòng đợi ...
+Trình đọc cho PDF và các định dạng tài liệu khác
 Nhập lại mật khẩu cho
 định dạng lại một phân vùng hiện có có thể có những hậu quả bất ngờ
 Sắp xếp lại nó sẽ thay đổi UUID, và nếu swap này
@@ -269,8 +269,8 @@ Chọn một phân vùng để hoán đổi (swap) từ những
 Chọn thiết bị nơi Grub sẽ được cài đặt
 Chọn bàn phím của bạn, hoặc Thoát để thử lại
 x
-Shutdown Reboot
-Đơn giản, sạch dock từ Pantheon giao diện Desktop
+Tắt_máy Khởi_động_lại
+Dock đơn giản của giao diện Desktop Pantheon
 Thanh công cụ đơn giản / thanh tác vụ được phát triển đặc biệt cho Openbox
 Bộ chuyển mã video đơn giản nhưng mạnh mẽ
 Kích_thước
