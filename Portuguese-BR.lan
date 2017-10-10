@@ -54,7 +54,7 @@ Calendário & Gerenciador de tarefas
 chamado 'archie' será configurado
 Escolha um item
 Escolha a partir de partições existentes
-Escolha um ou Sair para procurar uma alternativa
+Escolha um ou Sair tentar novamente
 Escolha uma ou ' ' para procurar uma alternativa
 escolha o fuso horário de sua localização
 Escolha o seu kernel
@@ -192,14 +192,14 @@ Em seguida, selecionaremos espelhos para baixar seu sistema.
 Não
 Nenhum gerenciador de exibição selecionado
 Nenhum teclado encontrado contendo
-x
+Editar_locale.gen
 Nenhum
 Nenhum_desses
 Nenhum provisão foi criada para o swap
 Observe que se você não selecionar um dispositivo, o Grub
 Observe que você não poderá
-x
-Agora precisamos encontrar sua localização em
+Iniciar o Nano para você possa descomentar manualmente os locales?
+Agora selecione sua localização em
 Agora você tem a opção de adicionar extras, como um navegador de internet,
 Office
 de espaço restante alocado para
@@ -235,7 +235,7 @@ As senhas não coincidem
 Plasma 5 e pacote de acessórios
 Por favor, verifique antes que o Feliz comece a instalação
 Por favor escolha um país
-Por favor, escolha o idioma para o sistema instalado
+Por favor, escolha o idioma principal para o seu sistema
 Escolha a sua localização mais próxima.
 Digite o tamanho desejado
 Digite a primeira letra da
