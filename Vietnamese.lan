@@ -209,7 +209,7 @@ một phân vùng là cần thiết cho thư mục gốc
 Chỉ nhập một thiết bị, không bao gồm một số phân vùng
 Chỉ có một trình quản lý hiển thị có thể hoạt động
 Chỉ tìm thấy một bàn phím dựa trên vị trí của bạn
-x
+Desktop Documents Downloads Music Pictures Public Templates Videos
 trên thiết bị đã chọn sẽ bị xóa hoàn toàn)
 Mở cfdisk để có thể phân vùng một cách thủ công
 Trình BitTorrent mã nguồn mở

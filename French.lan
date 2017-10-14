@@ -209,7 +209,7 @@ une partition est nécessaire pour le répertoire racine
 Entrez uniquement un périphérique, n'incluez pas un numéro de partition
 Un seul gestionnaire d'affichage peut être actif
 Un seul clavier trouvé en fonction de votre emplacement
-Une seule langue trouvée pour votre emplacement
+Desktop Documents Downloads Music Pictures Public Templates Videos
 sur le périphérique choisi sera détruit)
 Ouvrez cfdisk afin de pouvoir partitionner manuellement
 Client BitTorrent open source

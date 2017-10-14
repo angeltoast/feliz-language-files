@@ -209,7 +209,7 @@ one partition is needed for the root directory
 Only enter a device, do not include a partition number
 Only one display manager can be active
 Only one keyboard found based on your location
-x
+Desktop Documents Downloads Music Pictures Public Templates Videos
 on the chosen device will be destroyed)
 Open cfdisk so I can partition manually
 Open source BitTorrent client
