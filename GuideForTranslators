@@ -1,20 +1,33 @@
 Notes to translators
 --------------------
-Use a text editor, such as notepad, or a programmers' editor like Geany, and turn line-numbers on.
+Use a text editor, such as notepad, or a programmers' editor like Geany, and
+turn line-numbers on.
 
-Please translate all lines at exactly the same line number as in the English file, because that is how the translation system works. Do not add or delete any lines anywhere (this is very important).
+Make a copy of the English.lan file, named for your language eg: German.lan
 
-Some lines in the English file have the words linked with underscores; eg: Enter_Manually
-This is because they are used in simple, 'one-word-per-line' menus.
-So please make sure to also link the words on that line of your translation with underscores or hyphens.
-Also, for the same reason, if a line in the English file is only one word, and if your translation is more than one word, please link your words with underscores or hyphens.
+Please translate all lines at exactly the same line number as in the English.lan
+file, because that is how the translation system works. Do not add or delete
+any lines anywhere (this is very important).
 
-Tha Arch Linux console in which the installation of Feliz runs is only 80 characters wide.
-So if any translated line will be over 80 characters, please re-phrase to make it shorter
-(preferably less than 70 characters, as some lines have to fit complex menus).
+Some lines in the English file have the words linked with underscores - eg:
+     Enter_Manually
+This is because they are used in simple, 'one-word-per-line' menus, so please
+make sure to also link the words on that line of your translation with
+underscores or hyphens. Also, for the same reason, if a line in the English.lan
+file is only one word, and if your translation is more than one word, please
+link your words with underscores or hyphens.
+
+Tha Arch Linux console in which the installation of Feliz runs is only 80
+characters wide, so if any translated line will be over 80 characters, please
+re-phrase to make it shorter (preferably less than 70 characters, as some
+lines have to fit complex menus).
 
 You may edit this file to help each other.
 
-If you have any questions or problems, please email me: liz@feliz.one or contact me through Facebook
+If you have any questions or problems, please email me:
+    liz@feliz.one
+or contact me through Facebook.
 
 Thank you for your contribution to Feliz
+
+Elizabeth

@@ -1,378 +1,378 @@
-Deutsche language file for Feliz
-by Elizabeth Audrey Mills (liz@feliz.one) and Google Translate 23 September 2017
---------------------------------------------------------------------------------
-Notes to translators (turn Line-numbers on in your text editor)
---------------------
+German language file for Feliz
+by Björn Feber (feber70@gmail.com) 4 November 2017
+-----------------------------------------------------------
+Notes to translators (use a text editor, such as notepad, and turn Line-numbers on)
+----------------------------------------------------------------------------------
 1) Please translate line #1 to say the translation language;
-2) Please translate line #2 to say your name and email address;
-   (it is your work and you deserve to be recognised for it)
+2) Please translate line #2 to change from my name and email address to yours ...
+   (it is your work and you deserve to be recognised for it);
 3) Translations start at line #19
-4) Please translate all lines at exactly the same line number,
-    and do not add or delete any lines (this is very important)
+4) Please translate all lines at exactly the same line number as in this file,
+    and do not add or delete any lines (this is very important);
 5) If any translated line will be over 80 characters, please re-phrase to make it shorter
 6) Save your file as <Language>.lan
-   (where <Language> is the native name of the language - for example: Español.lan)
+   (where <Language> is the English name of the language - for example: Spanish.lan)
 7) If you have any questions or problems, please email or contact me through Facebook
 -------------------------------------------------------------------------------------
 Thank you for your contribution to Feliz
 ----------------------------------------
-3D-Grafik-Erstellungs-Suite
+3D-Grafikerstellungs-Programmpaket
 Zubehör
-hinzugefügt. Wähle ein anderes Land oder ''
-Bisher hinzugefügt
-Codecs hinzufügen
+hinzugefügt. Wählen Sie ein anderes Land, oder ' '
+Bisher hingefügt
+Kodierung hinzufügen
 Benutzer hinzufügen und Gruppen einrichten
-Ein Displaymanager stellt einen grafischen Anmeldebildschirm zur Verfügung
-Erweiterte Bildbearbeitungs-Suite
-Erweiterte Texteditor & IDE
-Zur Identifizierung wird ein eindeutiger Hostname benötigt
-zugewiesen / root
-Vergeben Sie die Größe Ihrer Auslagerungsdatei
-Erlaube feliz, das gesamte Gerät zu partitionieren
-Alles, was wir hier einstellen müssen, ist die Größe Ihrer / boot-Partition
-alternative Arrangements für das Booten Ihres neuen Systems
-Alternativ geben Sie '' erneut ein
-obwohl Sie vielleicht Raum für eine / Swap-Partition verlassen möchten
-und erstellen Sie eine neue Partitionstabelle mit Ihren Einstellungen
-und vielleicht auch eine / home-partition
-und richten Sie die Partitionen ein, die Sie definiert haben
-und du kannst bei der Installation oder später keinen Platz mehr haben
-Eine Partition wird für / root benötigt
-Sind Sie in einem dieser Staaten?
-Bist du sicher, dass du fortfahren möchtest?
-Eine einfache Scanner-GUI
-eine Swap-Datei zuordnen. Es wird empfohlen, einige Swap zuzulassen
-Auto
-auf dem gewählten Gerät verfügbar
-Grundlegende_Arch_Linux
-/ boot partition
-Budgie ist der Standard-Desktop von Solus OS
-Baue_meinen_eigenen
-Bauen Sie Ihr eigenes System, indem Sie die
-aber du kannst eine Auslagerungsdatei zuordnen, wenn du es wünschst
-Kalender & Task-Manager
-genannt 'archie' wird eingerichtet
-Wähle einen Gegenstand
-Wählen Sie aus vorhandenen Partitionen
-Wählen Sie eine oder beenden, um nach Alternativen zu suchen
-Wählen Sie eine, oder '', um nach Alternativen zu suchen
-wähle die Weltzone deines Ortes
-Wähle deinen Kernel
-cli werkzeuge
-Befehlszeilenbildmanipulation
-Komplettes Leichtbau-System auf Openbox gebaut
-Herzlichen Glückwunsch, die Installation ist abgeschlossen
-Plattformübergreifende IDE für Objekt Pascal
-Anpassbare Dock & Launcher Anwendung
-Standard-Hostname von 'arch-linux' wird verwendet
+Ein Display-Manager bietet einen grafischen Anmeldebildschirm
+Fortgeschrittenes Bildbearbeitungs-Programmpaket
+Fortgeschrittener Text-Editor & IDE
+Ein Hostname ist nötig. Es wird ein einzigartiger Name zum identifizieren sein
+zugewiesen zu /root
+Die Größe der Auslagerungsdatei (Swap) festlegen
+Feliz erlauben die gesamt Festplatte zu partitionieren?
+Alles was gebraucht wird ist die Größe der /boot Partition
+alternative Anordnung um Ihr neues System zu starten
+Andernfalls, geben Sie ' ' ein neu zu starten
+obwohl Sie villeicht noch Platz für eine /swap lassen wollen
+und erstellen eine neue Partitiontable mit Ihren Einstellungen
+und vielleicht auch eine /home Partition
+und einrichten der Partitionen die Sie festgelegt haben
+und Sie könnten während der Installation oder auch später wenig Speicher haben
+Es wird eine Partition gebraucht für /root
+Sind sie in einer dieser Staaten?
+Sind Sie sicher, Sie wollen fortfahren?
+Eine einfache grafische Benutzeroberfläche für Scanner
+legen Sie eine Auslagerungsdatei (Swap) fest. Es wird empfohlen Swap zuzuweisen
+automatisch
+verfügbar auf dem ausgewählten Gerät
+Enfaches_Arch_Linux
+/boot Partition
+Budgie ist die Standard Desktopumgebung von Solus OS
+Baue_Ein_Eigenes
+Bauen Sie Ihr eigenes System, indem sie auswählen
+aber sie können eine Auslagerungsdatei (swap) zuweisen, wenn sie wollen
+Kalendar & Task-Manager
+namens 'archie' wird eingerichtet
+Wählen Sie einen Menüpunkt
+Auswählen von existierenden Partitionen
+Wählen Sie einen oder Verlassen um erneut zu versuchen
+wählen Sie die Welt-Zone von ihrer
+Wählen Sie einen, oder ' ' um Alternativen zu suchen
+wählen Sie einen Kernel
+CLI-Werkzeuge
+Befehlszeilen-Bildbearbeitung
+komplettes, einfaches und schnells System mit Openbox
+Herzlichen Glückwunsch, die Installation ist fertig
+Plattformübergreifende IDE für Object Pascal
+Anpassbares Dock & Starter Anwendung
+Standard Hostname 'arch-linux' wird benutzt
 Löschen
-Desktop-Umgebung, etc., aus den folgenden Kategorien
-Desktop_Environments
-Desktop-Publishing-Programm
-Desktop-Zeit und Systeminformationen
-Geräte vorhanden
-Disc brennende Anwendung von Gnome
-Bildschirm Manager
-Display-Manager ist bereits als gesetzt
-Zeigt Informationen über Ihre Hardware und Betriebssystem an
-Wollen Sie das akzeptieren? Wählen Sie Nein, um nach Alternativen zu suchen
-Möchten Sie eine Swapfile zuordnen?
-Möchten Sie das ändern?
-Möchten Sie es neu formatieren?
-Dynamischer Fliesenfenstermanager (benötigt Haskell-Compiler)
-Einfach zu bedienender BitTorrent-Client
-Einfach zu bedienender, nichtlinearer Video-Editor
-Einfach zu bedienender Video-Editor
-E-Book-Bibliothek-Management-Anwendung
-Geben Sie 1, 2 oder ein neues Etikett ein
+Desktopumgebung, usw, von den folgenden Kategorien
+Desktopumgebungen
+Desktop Veröffentlichungsprogramm
+Desktop Zeit- und Systeminformation
+Geräte verfügbar
+Disk-Brennerprogramm von Gnome
+Display-Manager
+Display-Manager ist bereits festgelegt als
+Zeigt Informationen über Ihre Hardware und Betriebssystem
+Akzeptieren Sie dies? Wählen sie nein aus, um nach Alternativen zu suchen
+Wollen sie eine Auslagerungsdatei (swap) zuweisen?
+Wollen Sie dies ändern?
+Wollen sie dies neu formatieren?
+Dynamische teilende Fensterverwaltung (benötigt Haskell-Kompilierer)
+Einfach zu benutzender BitTorrent-Client
+Einfach zu benutzender, nicht-linearer Video-Editor
+Einfach zu benutzender Video-Editor
+E-Book Bibliotheksverwaltungs-Anwendung
+Geben Sie 1, 2 oder eine neue Bezeichnung ein
 Geben Sie einen Hostnamen für Ihren Computer ein
-Geben Sie einen Mountpunkt ein
-Geben Sie einen Namen für den primären Benutzer des neuen Systems ein
-Geben Sie ein Passwort ein
-Automatische Einbauphase eingeben
-Geben Sie einen neuen Benutzernamen ein (aktuell
-Geben Sie die Nummer für die zu ändernden Daten ein
-Geben Sie den Pfad ein, in dem Grub installiert werden soll
-Geben Sie '' ein, um eine Liste zu sehen
-Ausgang
-Verlassen, damit Sie das Gerät partitionieren können
-Ausfahrt
+Geben sie einen Einhängepunkt ein für
+Geben Sie einen Namen für den ersten Benutzer des Systems ein
+Geben Sie ein Passwort ein für
+Start der automatischen Installationsphase
+Geben Sie einen neuen Benutzernamen ein (momentan
+Geben Sie eine Nummer ein um Data zu ändern
+Geben sie den Pfad ein, in den Grub installiert werden soll
+geben Sie ' ' ein, um eine Liste zu sehen
+Beenden
+Beendet, um das Partitionieren des Geräts zu erlauben
+Beenden um abzuschließen
 Erweiterbarer Browser von Mozilla
-Erweiterbarer, anpassbarer Texteditor
-Schnelles und leichtes dynamisches Menü für X
-Schnelle und zuverlässige FTP, FTPS & SFTP Client
-Feature-reichen Audio-Player
-Feature-reicher E-Mail-Client von Mozilla
-Feliz - Arch Linux Installations-Skript
-Feliz bietet Ihnen jetzt eine Auswahl. Sie können ...
+Erweiterbarer, anpassbarer Text-Editor
+Schnelles und einfaches dynamiisches Menü für den X-Server
+Schneller & zuverlässiger FTP, FTPS und SFTP Client
+Funktionsreicher Audio-Player
+Funktionsreicher Email-Client von Mozilla
+Feliz - Arch Linux Installationsskript
+Feliz gibt Ihnen mehrere Möglichkeiten. Sie können ...
 FelizOB_desktop
-Feliz - Prüfung
-Feliz wird nun eine neue Partitionstabelle erstellen
-Schließlich müssen wir Passwörter setzen
-Fertigstellung in
-Zuerst sollten Sie eine für EFI / boot verwenden
+Feliz - Testing
+Feliz wird jetzt eine neue Partitionstabelle erstellen
+Letztendlich muss ein Passwort festgelegt werden
+Installation abgeschlossen in
+Zuerst sollten sie eine auswählen um sie für EFI /boot zu benutzen
 Schriftarten
 '>' für die nächste Seite
-'' 'für die vorherige Seite
-für Ihr Land oder Ihre Sprache und eine Liste wird angezeigt
-Voll ausgestattete, moderne DE
-Vollständige Textverarbeitung
-Vollständig dock Anwendung
-Spiegelliste erzeugen
-Gnome WebKitGTK + Browser (aka Web)
-Grafisch
-Grafik-Tools
-Roden
-Grub wird installiert
-GTK-basiertes Sane Frontend
-GTK + IDE mit Unterstützung für Python Plugins
-GUI CD-Brenner
+'<' für die vorherige Seite
+für Ihr Land oder Ihre SPrache und eine Liste wird angezeigt
+Komplett ausgestattete, moderne Desktopumgebung
+Komplett ausgestattete Textverarbeitung
+Vollständige Dock-Anwendung
+Generiere Spiegelserver-Liste
+Gnome WebKitGTK+ Browser (auch genannt Web)
+Grafische
+Grafikwerkzeuge
+Grub-Bootloader
+Grub wird installiert auf
+GTK-basiertes SANE-Program
+GTK+ IDE mit Support für Python-Zusatzmodule
+CD-Brenner mit Benutzeroberfläche
 geführt
-Geführte manuelle Trennwalze
-Handlicher Tischrechner
-Handlicher leichter Texteditor von LXDE
-haben Arch Linux spiegeln. Es ist möglich, mehr zu wählen
-Hier sind die verfügbaren Partitionen
-Hier ist eine Liste der verfügbaren Partitionen
-Hier können Sie die Größe und das Format der Partitionen einstellen
-Hochkonfigurierbarer, dynamischer Fenstermanager
-/ home-partition
+Geführtes manuelles Partitionswerkzeug
+Praktischer Desktop Rechner
+Einfacher und praktischer Text-Editor von LXDE
+haben Arch Linux Spiegelserver. Es ist möglich mehr als einen auszuwählen
+Hier sind die Partitionen die verfügbar sind
+Hier ist eine Liste von verfügbaren Partitionen
+Hier können sie die Größe und das Format der Partitionen festlegen
+Stark konfigurierbar, dynamische Fensterverwaltung
+/home Partition
 Hostname
-Hostname (derzeit
+Hostname (momentan
 idealerweise mehr, bis zu 20GiB
 Im Zweifelsfall wählen Sie
-Im Zweifelsfall konsultieren
-Wenn es so ist, kann feliz Virtualbox Gast installieren
-Wenn Sie sich bei der Partitionierung nicht sicher sind, lesen Sie das Arch Wiki
-Wenn du jetzt nichts machst, wird das Skript
-Wenn du keinen Displaymanager installierst, hast du
-Wenn Sie hier keinen Benutzernamen erstellen, ist ein Standardbenutzer
-Wenn Sie den Code für Ihr Tastaturlayout kennen, geben Sie bitte ein
-Wenn Sie diesen Schritt überspringen, wird kein Swap zugewiesen
-Wenn Sie das Etikett löschen möchten, geben Sie 2 ein
-Wenn Sie ein neues Label wünschen, geben Sie es an der Eingabeaufforderung ein
-Wenn Sie dieses Etikett behalten möchten, geben Sie 1 ein
-Wenn Sie einen verwenden möchten, wählen Sie ihn aus der Liste aus
-Bildbetrachter & Grundeditor
-Installation, aber Sie sollten nur leichte Anwendungen wählen
-Installieren
-Installiere Virtualbox-Dienstprogramme?
+Im Zweifelsfall fragen Sie
+Wenn es so ist, kann Feliz Virtualbox-Gast installien
+Sind Sie sich beim Partitionieren nicht sicher, schauen Sie im Arch-Wiki nach
+Wenn Sie jetzt nichts auswählen wird das Skript
+Wenn Sie keinen Display-Manager installieren, werden sie
+Wenn Sie hier keinen Benutzernamen festlegen, wird ein Standard-Benutzer
+Wenn Sie den Code für Ihr Tastatur-Layout wissen, geben Sie bitte ein
+Wenn Sie diesen Schritt überspringen wird kein Swap zugewiesen
+Wenn Sie die Bezeichnung löschen möchten, geben sie 2 ein
+Geben Sie eine neue Bezeichnung in der Aufforderung ein, um sie zu ändern
+Wenn Sie die Bezeichnung behalten wolleb, geben Sie 1 ein            
+Wenn Sie eine benutzen möchten, wählen Sie diese von der Liste
+Bild-Anzeige & Einfacher Editor
+Installation, aber sie sollten nur einfache Anwendungen wählen
+Installiere
+Virtualbox Gasterweiterungen installieren?
 Integrierte Entwicklungsumgebung (IDE)
 Internet
 ist bereits als Swap-Partition formatiert
-ist schon in deiner einkaufsliste
-ist aktuell formatiert
-Es scheint, dass Feliz in Virtualbox läuft
-Es ist nicht notwendig, 4GiB zu überschreiten
-Es wird nicht empfohlen, das btrfs-Dateisystem mit anderen zu mischen
-es jetzt. Wenn nicht, versuchen Sie, eine Zwei-Buchstaben-Abkürzung einzugeben
-Es sollte nicht weniger als 512MiB und muss nicht größer als 1GiB sein
-Joe's Window Manager - Federgewicht Fenster Manager
-Installiere einfach einen grundlegenden Arch Linux
+ist bereits in ihrer Einkaufsliste
+ist momentart formatiert zu
+Feliz läuft anscheinend in Virtualbox
+es werden nicht mehr als 4GiB benötigt
+Es ist nicht empfohlen das BTRFS Dateisystem mit anderen zu kombinieren
+es jetzt. Wenn nicht, versuchen Sie, ein zweistelliges Kürzel einzugeben
+Es sollten nicht weniger als 512MiB sein und auch nicht größer als 1GiB
+Joe's Window Manager - Federleichte Fensterverwaltung
+Nur ein grundlegendes Arch Linux installieren
 Behalten
 Kernel
-Kern- und Kernsysteme
+Kernel und Grundsysteme
 Tastatur ist
 verlassen
-Leichte, schnelle und vielseitige WM
-Licht Web-Browser
-Leichte und moderne Qt-basierte DE
-Leichte & konfigurierbare Stapelung WM
-Leichte, hochkonfigurierbare DE
+Leichte, schnelle und vielseitig verwendbare Fensterverwaltung
+Leichter Internetbrowser
+Leichte und moderne Qt-basierte Desktopumgebung
+Leichte & konfigurierbare, stapelnde Fensterverwaltung
+Leichte, Stark konfigurierbare Desktopumgebung
 Leichtes, NETWM-kompatibles Desktop-Panel
-Leichter Terminal-Emulator von LXDE
-Leichtes X11-Desktop-Panel (Teil des LXDE-Desktops)
-Laden
-Übersetzer laden
-Gebietsschema wird eingestellt
-Mittelgewicht Video-Player
-Protokoll
+Leichter Terminalemulator von LXDE
+Leichtes X11 Desktop-Panel (Teil vom LXDE desktop)
+Wird geladen
+Übersetzer wird geladen
+Sprach wird gesetzt auf
+Mittelschwerer Videoplayer
+Minuten
 Multimedia
-Als nächstes wählen wir Spiegel für das Herunterladen Ihres Systems.
+Als nächstes werden Spiegelserver zum Herunterladen des Systems ausgewählt.
 Nein
 Kein Display-Manager ausgewählt
-Keine Tastaturen gefunden
-Es wurde keine Sprache für Ihren Standort gefunden
-Keiner
-Keine_von_diesen
-Es wurde keine Vorkehrung getroffen
-Beachten Sie, dass, wenn Sie kein Gerät auswählen, Grub
-Beachten Sie, dass Sie nicht in der Lage sein werden
-Bitte wählen Sie bitte Ihre Sprache aus dieser Liste
-Jetzt müssen wir Ihren Standort finden
-Jetzt haben Sie die Möglichkeit, Extras hinzuzufügen, wie zB einen Webbrowser
+Keine Tastatur gefunden die folgendes enthält:
+locale.gen_bearbeiten
+Keine
+Keines_von_diesen
+Swapverpflichtungen nicht berücksichtigt
+Beachten Sie, dass wenn sie kein Gerät auswählen, Grub
+Beachten Sie, dass size nicht in der Lage sein werden,
+Nano Editor starten um manuell Kommentare bei Sprachen zu entfernen?
+Wählen Sie jetzt ihren Standort in
+Jetzt können Sie Extras hinzuzufügen, wie zum Beispiel ein Internetbrowser
 Büro
-des verbleibenden Platzes zugewiesen
-OK
-Eins, aber das Hinzufügen zu viel wird Ihre Installation verlangsamen
-Für das Stammverzeichnis wird eine Partition benötigt
-Geben Sie nur ein Gerät ein, geben Sie keine Partitionsnummer ein
-Es kann nur ein Displaymanager aktiv sein
-Nur eine Tastatur gefunden auf deinem Standort
-Desktop Documents Downloads Music Pictures Public Templates Videos
-auf dem gewählten Gerät wird zerstört)
-Öffnen Sie cfdisk so kann ich manuell partitionieren
-Open-Source-BitTorrent-Client
-Open Source & Cross-Plattform C / C ++ IDE
-Open-Source-Office-Software-Suite
-Open-Source-Versionskontrollsystem
-opensource videotreiber
-Open Source Webbrowser von Google
+von verlbleibendem Speicher zugewiesen zu
+Ok
+eines, aber zu viele verlangsamen die Installation
+eine Partition für das Wurzel-Verzeichniss (Root) wird benötigt
+Geben sie bitte ein Gerät ein, keine Nummer hinzufügen
+Es kann nur ein Display-Manager aktiv sein
+Nur eine Tastatur basierend auf Ihrem Standort gefunden
+Schreibtisch Dokumente Downloads Musik Bilder Öffentlich Vorlagen Videos
+auf dem gewähltem Gerät werden zerstört)
+cfdisk öffnen, um manuell zu partitionieren
+Quelloffener BitTorrent-Client
+Quelloffener & Plattformübergreifende C/C++ IDE
+Quelloffenes Büro-Programmpaket
+Quelloffenes Versionskontroll-System
+Quelloffene Videotreiber
+Quelloffene Internetbrowser von Google
 oder
-oder wählen Sie Beenden, um die Partitionierung zu beenden
-oder wählen Sie Beenden, um diesen Teil des Setups zu beenden
-oder wählen Sie Beenden, um es zu verlassen, wie es ist
-oder geben Sie '' ein, um eine Liste zu sehen:
-oder beenden, um es erneut zu versuchen
-oder um den restlichen Platz zuzuordnen, geben Sie ein
-oder '' zu beenden
-oder Sie können jetzt beenden, um ein externes Werkzeug zu verwenden
-Partition kann unerwartete Konsequenzen haben
+oder wählen Sie Verlassen um die Partitionierung abzuschließen
+oder wählen Sie Verlassen um diesen Teil der Einrichtung abzuschließen
+oder wählen Sie Verlassen um es so zu lassen wie es ist+
+oder geben Sie ' ' ein um eine Liste zu sehen:
+oder Verlassen um es erneut zu versuchen 
+oder, um all den übrigen Speicher zuzuweisen, geben Sie ein: 
+oder ' ' zum verlassen
+oder Sie können jetzt verlassen um ein externex Werkzeug zu benutzen
+Partition ungeahnte Folgen haben
 Partitionierung von
-Die Partition wird von einem anderen Betriebssystem verwendet
+Partition wird von einem anderen Betriebssystem benutzt, dass
 Passwörter können nicht leer sein
-Passwörter stimmen nicht überein
-Plasma 5 und Zubehör packen
-Bitte überprüfen Sie sie, bevor Feliz die Installation beginnt
+Passwörter sind nicht gleich
+Plasma 5 und Zubehörpaket
+Bitte überprüfen Sie diese bevor Feliz mit der Installation beginnt
 Bitte wählen Sie ein Land
-Bitte wählen Sie die Sprache für das installierte System
-Bitte wählen Sie Ihren nächsten Standort
+Wählen Sie die Hauptsprache für Ihr System
+Bitte wählen sie ihren nächsten Standort
 Bitte geben Sie die gewünschte Größe ein
-Bitte geben Sie den ersten Buchstaben ein
-Bitte geben Sie die Nummer Ihrer Auswahl ein
-Bitte drücken Sie eine beliebige Taste, um fortzufahren
-Bitte drücken Sie Enter, um fortzufahren
-Bitte wählen Sie eine Stadt aus dieser Liste aus
-Bitte wählen Sie eine Partition aus, die für / root verwendet werden soll
-Bitte wählen Sie das Dateisystem aus
-Bitte versuche es erneut
-Vorbereitungen abgeschlossen
-Vorbereitung und Montage von Trennwänden
-Vorbereiten der lokalen Dienstleistungen
-Drücke irgendeine Taste
-Drücken Sie Enter, um fortzufahren
-Drücken Sie die Eingabetaste, um mit diesen Einstellungen zu installieren
+Bitte geben Sie den ersten Buchstaben ein von
+Bitte geben Sie die Nummer von Ihrer Auswahl ein
+Bitte eine beliebige Taste zum fortfahren drücken
+Bitte dürcken sie Enter um fortzufahren
+Bitte wählen Sie eine Stadt von der Liste
+Bitte wählen Sie eine Partition für die Benutzung von /root
+Bitte wählen Sie das Dateisystem für
+Bitte versuchen sie es erneut
+Vorbereitungen fertig
+Partition werden vorbereitet und eingehängt
+Bereite lokale Dienste vor
+Drücken Sie eine Taste
+Drücken Sie Enter um fortzufahren
+Drücken Sie Enter um mit diesen Einstellungen zu installieren, oder
 Programmierung
-Ranking Mirror - bitte warten ...
-Leser für PDF & andere Dokumentenformate
-Geben Sie das Passwort erneut ein
-Das Formatieren einer vorhandenen Partition kann unerwartete Konsequenzen haben
-Reformieren wird die UUID ändern, und wenn diese tauschen
-Nach dem Neuformatieren werden alle aktuell vorhandenen Daten entfernt
-bleiben oder Sie können eine Auslagerungsdatei zuordnen
-(Denken Sie daran, dies ist Auto-Partition, und alle Daten
-Root- und Benutzereinstellungen
-/ Root-Partition
+Ordne Spiegelserver - bitte warten ...
+Reader für PDF & andere Dokumentformate
+Passwort erneut eingeben für
+neu formartieren einer existierenden Partition kann ungeahnte Folgen haben
+Durch eine Neuformatierung wird es die UUID ändern, und wenn dies Swap ist
+Eine Neuformatierung wird die gespeicherten Daten löschen
+dabei bleiben, sie können eine Auslagerungsdatei festlegen
+(Vergessen sie nicht, dies ist Auto-Partitionierung, und alle Daten
+Root und Benutzereinstellungen
+/root Pratition
 Sekunden
-sehen Sie Passwörter, wie Sie sie eingeben
-Wählen Sie eine Partition für den Swap aus
-Wählen Sie das Gerät aus, in dem Grub installiert werden soll
-Wählen Sie Ihre Tastatur aus, oder beenden, um es erneut zu versuchen
-Sollen wir mit dieser Sprache installieren?
-Herunterfahren Neustart
-Einfache, saubere Dock aus der Pantheon Desktop-Umgebung
-Einfache Panel- / Taskleiste speziell für Openbox entwickelt
-Einfacher, aber leistungsstarker Video-Transcoder
+das Passwort sehen während der Eingabe
+Wählen Sie eine Partition für Swap von denen, die
+Wählen sie das Gerät, auf dem der Grub-Bootloader installiert werden soll
+Wählen Sie Ihre Tastatur, oder Verlassen es um erneut zu versuchen
+x
+Herunterfahren Neustarten
+Einfaches, sauberes Dock von der Pantheon Desktopumgebung
+Einfaches Panel/Taskbar entwickelt speziell für Openbox
+Einfacher und leistungsfähiger Videotranscoder
 Größe
-Slick, moderner Desktop aus dem Mint Team
-Kleine und einfache Text-Merge-Tool
+Slick, moderner Desktop vom Mint Team
+Kleines und einfaches Tool zum Zusammenführen von Texten
 Software, die Sie installieren möchten
-Entschuldigung, keine Tastaturen, die auf deinem Standort gefunden wurden
-Spreadsheet-Programm von GNOME
-Stacking Fenstermanager für das X Window System
-Stacking Fenster Manager & Bibliotheken zu verwalten Desktop
-Erfolg!
-Swap kann alles von 512MiB nach oben sein aber
-/ Swap-Partition
-Swap-Partition
+Leider wurden keine Tastaturen basierend aufm Ihrem Standortes gefunden
+Tabellenkalkulationsprogramm von GNOME
+Stapelnde Fensterverwaltung für das X-Fenster-System
+Stapelnde Fensterverwaltung & Bibliotheken zur Verwaltung des Desktops
+Erfolgreich!
+Swap kann alles von 512MiB aufwärts sein, aber
+/swap Partition
+Swap Partition
 System kann nicht mehr auf die Partition zugreifen
-Taskbars
-beenden, um Ihnen zu erlauben, auf eine andere Weise zu partitionieren
+Taskleisten
+Beenden, damit Sie auf eine andere Weise partitionieren können
 Testen
-Das ist alles Vorbereitung
-Der Dateimanager von LXDE
+Das war die ganze Vorbereitung
+Der Datei-Manager von LXDE
 Folgende Extras wurden ausgewählt
 Folgende Partitionen stehen zur Verfügung
-Die folgenden Partitionen wurden ausgewählt
-die Insel oder die Gruppe, wo Sie sich befinden
-Der Long-Term-Support-Kernel (LTS) bietet Stabilty
-Die von Ihnen gewählte Partition ist beschriftet
-Es gibt
-Es gibt keine Partitionen für Swap
-Es gibt keine Trennwände auf dem Gerät und zumindest
-Es gibt eine geführte manuelle Partitionierung Option
-Es gibt nur Platz für ein
-Es gibt keinen Platz für eine / Swap-Partition, aber du kannst
-Es gibt Platz für ein
-Die / root-Partition sollte nicht kleiner als 8GiB sein
-Dies sind die verfügbaren Geräte
-Dies sind die Einstellungen, die Sie eingegeben haben.
+Folgende Partitionen wurden ausgewählt
+die Insel oder Gruppe, auf der Sie sich befinden
+Der Long-Term-Support Kernel (LTS) bietet Stabilität
+Die gewählte Partition ist bezeichnet
+Es sind
+Es sind keine Partitionen verfügbar für Swap
+Es gibt keine Partitionen auf dem Gerät, und mindestens
+Es gibt eine geführte manuelle Partitionierungsoption
+Es gibt nur Platz für eine
+Es gibt keinen Platz für eine /swap-Partition, aber Sie können
+Es gibt Platz für eine
+Die /root-Partition sollte nicht kleiner als 8GiB sein
+Folgende Geräte stehen zur Verfügung
+Diese Einstellungen haben Sie vorgenommen.
 Die ausgewählte Partition
 Die ausgewählte Partition
-Diese Einrichtung beschränkt sich auf das Erstellen / Root, / Swap und / Home
-Das ist genug für
-Das ist gerade genug für eine Basis
-Das reicht nicht für eine Installation
-Dies muss vom Typ vfat sein und kann etwa 512MiB sein
-Dies sollte in der Form / dev / sdx oder ähnlich sein
-Dadurch werden alle Daten gelöscht
-Kacheln Fenster Manager, komplett von Grund auf neu geschrieben
-Um zurückzukehren, lassen Sie leer
-um Ihre Desktop-Umgebung manuell zu starten
-Tool zum Erstellen / Löschen / Ändern von Partitionen
+Diese Funktion ist darauf beschränkt, /root, /swap und /home zu erstellen
+Dies reicht für eine
+Dies reicht für eine einfache
+Dies reicht für eine Installation nicht aus
+Dieses muss vom Typ vfat sein und kann ungefähr 512MiB sein
+Dies sollte in der Form /dev/sdx oder ähnlich sein
+Dies löscht alle Daten auf
+Gekachelte Fensterverwaltung, komplett von Grund auf neu geschrieben
+um zurück zu gehen, frei lassen
+um Ihre Desktopumgebung manuelll zu starten
+Werkzeug um Partitionen zu erstellen/löschen/die Größe anpassen
 Zu viele, um alle anzuzeigen
 Um die Systemuhr einzustellen, bitte zuerst
-Traditioneller Desktop aus dem Mint Team
+Traditioneller Desktop des Mint Teams
 Traditioneller, leichter Desktop
-Es werden zwei Trennwände benötigt - eine für EFI / boot und
-verstehen, dass nicht neu formatieren die / root
-Schlüssel aktualisieren
-Verwenden Sie die Pfeiltasten zu bewegen. Geben Sie zur Auswahl ein
+zwei Partitionen sind benötigt - eine für EFI /boot, und
+verstehen Sie, dass wenn /root nicht neu formatiert wird, 
+Aktualisierung von Tasten
+Mit den Pfeiltasten bewegen. Enter um auszuwählen
 Benutzername
-Benutzername (aktuell
-Dienstprogramme und passende Einstellungen für Sie
-Vektor-Grafik-Editor
-virtualbox guest modules
-Warnung: Btrfs unterstützt keine Swap-Dateien
-Wir beginnen mit dem
-Welches möchten Sie für diese Installation verwenden?
-während der neueste Kernel alle neuen Features hat
-wird nicht installiert sein, und du musst machen
-Window_Manager
-Window Manager, der die NeXT Benutzeroberfläche emuliert
+Benutzername (momentan
+Dienstprogramme und nimmt für Sie entsprechende Einstellungen vor
+Vektorgrafiken-Editor
+virtualbox gastmodule
+Warnung: Btrfs unterstützt keine Swap Dateien
+Wir beginnen mit der
+Welche möchten Sie für diese Installation verwenden?
+während der neueste Kernel alle neuen Features enthält
+wird nicht installiert, und Sie müssen folgendes vornehmen
+Fensterverwaltungen
+Fensterverwaltung, die eine NeXT Benutzeroberfläche emuliert
 Drahtlose Werkzeuge
-Möchten Sie eines der folgenden verwenden?
-
+Möchten Sie eine der folgenden Möglichkeiten nutzen?
+x
 Ja
-Sie können mehr hinzufügen oder Elemente löschen, die gelöscht werden sollen
-Sie können den neuen FelizOB Desktop auswählen
-Sie können wählen, es zu verlassen, wie es ist, aber sollte
-Du kannst es so lassen, wie es ist, indem du Exit auswählst, aber nicht
+Sie können weitere Einträge hinzufügen oder Einträge zum Löschen auswählen.
+Sie können den neuen FelizOB-Desktop auswählen, einen
+Sie können es so lassen, wie es ist, sollten aber trotzdem
+Sie können es so lassen, wie es ist, indem Sie Verlassen wählen, aber nicht
 Sie können nun aus einer der anderen Listen wählen
-Sie können den restlichen Platz auf dem Gerät nutzen, wenn Sie es wünschen
-Du hast
-Sie haben sich entschieden, den Pfad für Grub manuell einzugeben
-Vielleicht möchten Sie Platz für eine / home-Partition lassen
-Sie müssen einen gültigen Mountpunkt eingeben
-Sie müssen M, G oder%
-Du musst M oder G einschließen
-Sie haben jetzt
+Sie können den gesamten freien Speicher auf dem Gerät benutzen, wenn Sie wollen
+Sie haben
+Sie haben ausgewählt den Pfad für Grub manuell einzugegeben.
+Möglicherweise möchten Sie Platz für eine /home Partition lassen
+Sie müssen einen gültigen Einhängepunkt eingeben
+Sie müssen miteinschließen: M, G or %
+Sie müssen mit einschließen: M or G
+Sie haben
 Ihr Gerät hat
-Ihr Gerät hat nur
-Ihr Gerät in einem Netzwerk. Wenn du nicht eins eingibst,
-Ihre nächste Großstadt
+Ihr Gerät nur
+Ihr Geröt in einem Netzwerk. Wenn Sie keins eingeben, wird der
+Ihre nächstgelegene Großstadt
 Sie können aus einer Liste von Ländern wählen, die
-Sie wollen erstellen. Wenn es fertig ist, wird Feliz die Scheibe abwischen
-Zone / subZone wird sein
+die Sie anlegen möchten. Wenn Sie bereit sind, löscht Feliz die Festplatte.
+Zone/Teilzone wird sein
 Afrika
 Amerika
 Antarktis
 Arktis
 Asien
-atlantisch
+Atlantik
 Australien
 Europa
-indisch
+Indien
 Pazifik
-koordinierte Weltzeit
-Manuell_eintragen
+UTC
+Manuell_Eingeben
