@@ -308,7 +308,7 @@ The /root partition should not be less than 8GiB
 These are the available devices
 These are the settings you have entered.
 The selected partition
-The selected partition
+x
 This facility is restricted to creating /root, /swap and /home
 This is enough for
 This is just enough for a basic
