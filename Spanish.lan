@@ -286,7 +286,7 @@ Swap puede ser cualquier cosa de 512MiB hacia arriba pero
 / swap partition
 Intercambiar partición
 el sistema ya no podrá acceder a la partición
-Barras de tareas
+Barras_de_tareas
 terminar para permitir que usted partición de alguna otra manera
 Pruebas
 Esa es toda la preparación hecha
@@ -376,3 +376,13 @@ indio
 Pacífico
 UTC
 Ingresar_manualmente
+--------------
+Regreso
+idealmente más, hasta 20G
+Por favor elige uno
+Cancelar
+La partición / root no debe ser menor que 8G
+Terminado
+Comenzamos con el
+El último kernel tiene todas las características nuevas
+partition

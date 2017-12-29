@@ -308,7 +308,7 @@ The /root partition should not be less than 8GiB
 These are the available devices
 These are the settings you have entered.
 The selected partition
-x
+The selected partition
 This facility is restricted to creating /root, /swap and /home
 This is enough for
 This is just enough for a basic
@@ -376,3 +376,13 @@ Indian
 Pacific
 UTC
 Enter_Manually
+--------------
+Back
+ideally more, up to 20G
+Please choose one
+Cancel
+The /root partition should not be less than 8G
+Done
+We begin with the
+The Latest kernel has all the new features
+partition
