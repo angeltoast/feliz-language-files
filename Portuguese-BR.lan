@@ -51,7 +51,7 @@ Construir_Meu_Sistema
 Construir seu próprio sistema, escolhendo os
 mas se você pode alocar um arquivo de swap se desejar,
 Calendário & Gerenciador de tarefas
-chamado 'archie' será configurado
+usuário padrão chamado 'archie' será configurado
 Escolha um item
 Escolha a partir de partições existentes
 Escolha um ou Sair tentar novamente
@@ -146,7 +146,7 @@ Se for, o Feliz pode instalar os utilitários do Virtualbox
 Se você tem dúvidas quanto ao particionamento, você deve ler a Wiki do Arch
 Se você escolher não fazer nada agora, o script irá
 Se você não instalar um gerenciador de exibição, você terá
-Se você não criar um nome de usuário aqui, um usuário padrão
+Se você não criar um nome de usuário aqui, um
 Se você sabe o código do layout do seu teclado, por favor digite
 Se você pular este passo, nenhum swap será alocado
 Se você deseja apagar este rótulo, digite 2

@@ -51,7 +51,7 @@ Build_My_Own
 Costruisci il tuo sistema, scegliendo
 ma è possibile allocare un file di scambio, se lo si desidera
 Calendario e task manager
-verrà definito "archie"
+utente predefinito verrà definito "archie"
 Scegli un elemento
 Scegliere tra le partizioni esistenti
 Scegliere uno o Esci per cercare alternative
@@ -146,7 +146,7 @@ Se è così, feliz può installare Virtualbox guest
 Se non si è certi di partizionare, è necessario leggere l'Arch Wiki
 Se si sceglie di non fare nulla ora, lo script farà
 Se non si installa un gestore di visualizzazione, avrai
-Se non si crea qui un nome utente, un utente predefinito
+Se non si crea qui un nome utente, un
 Se conosci il codice per il layout della tastiera, inserisci
 Se salti questo passaggio, non verrà assegnato alcun swap
 Se si desidera eliminare l'etichetta, immettere 2

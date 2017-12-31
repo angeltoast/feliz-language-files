@@ -51,7 +51,7 @@ Build_My_Own
 Bouw je eigen systeem, door de
 maar u kunt een ruilbestand toewijzen, als u dat wenst
 Kalender en taakmanager
-genaamd 'archie' wordt opgericht
+een standaardgebruiker genaamd 'archie' wordt opgericht
 Kies een item
 Kies uit bestaande partities
 Kies een of Exit om te zoeken naar alternatieven
@@ -146,7 +146,7 @@ Als dat het geval is, kan Feliz Virtualbox-guest installeren
 Als u onzeker bent over partitie, moet u de Arch Wiki lezen
 Als u ervoor kiest om nu niets te doen, zal het script
 Als u geen beeldschermbeheerder installeert, heeft u het
-Als u hier geen gebruikersnaam aan maakt, is er een standaardgebruiker
+Als u hier geen gebruikersnaam aan maakt, is er
 Als u de code voor uw toetsenbordindeling kent, vul dan alstublieft in
 Als u deze stap overslaat, wordt er geen swap toegewezen
 Als u het label wilt verwijderen, voert u 2 in

@@ -51,7 +51,7 @@ Build_My_Own
 Build your own system, by picking the
 but you can allocate a swap file, if you wish
 Calendar & task manager
-called 'archie' will be set up
+default user called 'archie' will be set up
 Choose an item
 Choose from existing partitions
 Choose one or Exit to retry
@@ -146,7 +146,7 @@ If it is, feliz can install Virtualbox guest
 If you are uncertain about partitioning, you should read the Arch Wiki
 If you choose to do nothing now, the script will
 If you do not install a display manager, you will have
-If you don't create a username here, a default user
+If you don't create a username here, a
 If you know the code for your keyboard layout, please enter
 If you skip this step, no swap will be allocated
 If you wish to delete the label, enter 2

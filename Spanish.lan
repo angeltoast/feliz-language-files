@@ -51,7 +51,7 @@ Construir_mi_propio
 Construya su propio sistema, escogiendo el
 pero puede asignar un archivo de intercambio, si lo desea
 Calendario y administrador de tareas
-llamado "archie" se creará
+usuario predeterminado llamado "archie" se creará
 Elija un elemento
 Elija entre particiones existentes
 Seleccione uno o Salir para buscar alternativas
@@ -146,7 +146,7 @@ Si lo es, feliz puede instalar Virtualbox invitado
 Si no está seguro acerca de la partición, debe leer el Wiki Arch
 Si elige no hacer nada ahora, el script
 Si no instala un gestor de pantallas, tendrá
-Si no crea un nombre de usuario aquí, un usuario predeterminado
+Si no crea un nombre de usuario aquí, un
 Si conoce el código de la distribución del teclado, ingrese
 Si omite este paso, no se asignará ningún intercambio
 Si desea eliminar la etiqueta, introduzca 2

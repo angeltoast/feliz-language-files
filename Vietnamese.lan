@@ -51,7 +51,7 @@ Xây_Dựng_Riêng_Cho_Bạn
 Xây dựng hệ thống của riêng bạn, bằng cách chọn
 nhưng bạn có thể phân bổ một tập tin hoán đổi (swap), nếu bạn muốn
 Trình quản lý lịch và công việc
-được gọi là 'archie' sẽ được thiết lập
+dùng mặc định được gọi là 'archie' sẽ được thiết lập
 Chọn một mục
 Chọn từ các phân vùng hiện có
 Chọn một hoặc Thoát để tìm kiếm các lựa chọn thay thế
@@ -146,7 +146,7 @@ Nếu có, feliz có thể cài đặt Virtualbox guest
 Nếu bạn không chắc chắn về phân vùng, bạn nên đọc Arch Wiki
 Nếu bạn chọn không làm gì bây giờ, kịch bản sẽ
 Nếu bạn không cài đặt một trình quản lý hiển thị, bạn sẽ có
-Nếu bạn không tạo tên người dùng ở đây, một người dùng mặc định
+Nếu bạn không tạo tên người dùng ở đây, một người
 Nếu bạn biết mã cho bố cục bàn phím, hãy nhập
 Nếu bạn bỏ qua bước này, hoán đổi (swap) sẽ không được phân bổ
 Nếu bạn muốn xóa nhãn, hãy nhập 2

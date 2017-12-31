@@ -51,7 +51,7 @@ Build_My_Own
 Crie seu próprio sistema, escolhendo o
 mas você pode alocar um arquivo de troca, se desejar
 Gerenciador de calendário e tarefa
-chamado 'archie' será configurado
+usuário padrão chamado 'archie' será configurado
 Escolha um item
 Escolha das partições existentes
 Escolha um ou Sair para procurar alternativas
@@ -146,7 +146,7 @@ Se for, feliz pode instalar o convidado da Virtualbox
 Se você não tem dúvidas quanto ao particionamento, você deve ler o Wiki do Arco
 Se você optar por não fazer nada agora, o script será
 Se você não instalar um gerenciador de exibição, você terá
-Se você não criar um nome de usuário aqui, um usuário padrão
+Se você não criar um nome de usuário aqui, um
 Se você conhece o código para o layout do teclado, insira
 Se você ignorar este passo, nenhum swap será alocado
 Se você deseja excluir o rótulo, insira 2

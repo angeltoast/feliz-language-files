@@ -51,7 +51,7 @@ Faire mon propre bureau
 Construisez votre propre système, en choisissant
 mais vous pouvez allouer un fichier de swap, si vous le souhaitez
 Calendrier et gestionnaire de tâches
-appelé 'archie' sera mis en place
+utilisateur par défaut appelé 'archie' sera mis en place
 Choisissez un élément
 Choisissez parmi les partitions existantes
 Choisissez l'une ou la sortie pour rechercher des alternatives
@@ -146,7 +146,7 @@ Si c'est le cas, feliz peut installer l'invité de Virtualbox
 Si vous n'êtes pas sûr de partitionner, vous devez lire le Wiki d'Arch
 Si vous choisissez de ne rien faire maintenant, le script sera
 Si vous n'installez pas de gestionnaire d'affichage, vous aurez
-Si vous ne créez pas de nom d'utilisateur ici, un utilisateur par défaut
+Si vous ne créez pas de nom d'utilisateur ici, un
 Si vous connaissez le code de la disposition de votre clavier, entrez le
 Si vous ignorez cette étape, aucun swap ne sera attribué
 Si vous souhaitez supprimer l'étiquette, entrez 2

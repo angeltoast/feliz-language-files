@@ -51,7 +51,7 @@ Baue_Ein_Eigenes
 Bauen Sie Ihr eigenes System, indem sie auswählen
 aber sie können eine Auslagerungsdatei (swap) zuweisen, wenn sie wollen
 Kalendar & Task-Manager
-namens 'archie' wird eingerichtet
+Standard-Benutzer namens 'archie' wird eingerichtet
 Wählen Sie einen Menüpunkt
 Auswählen von existierenden Partitionen
 Wählen Sie einen oder Verlassen um erneut zu versuchen
@@ -146,7 +146,7 @@ Wenn es so ist, kann Feliz Virtualbox-Gast installien
 Sind Sie sich beim Partitionieren nicht sicher, schauen Sie im Arch-Wiki nach
 Wenn Sie jetzt nichts auswählen wird das Skript
 Wenn Sie keinen Display-Manager installieren, werden sie
-Wenn Sie hier keinen Benutzernamen festlegen, wird ein Standard-Benutzer
+Wenn Sie hier keinen Benutzernamen festlegen, wird ein
 Wenn Sie den Code für Ihr Tastatur-Layout wissen, geben Sie bitte ein
 Wenn Sie diesen Schritt überspringen wird kein Swap zugewiesen
 Wenn Sie die Bezeichnung löschen möchten, geben sie 2 ein
