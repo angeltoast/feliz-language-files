@@ -27,27 +27,27 @@ Suite d'édition d'image avancée
 Editeur de texte avancé et IDE
 Un nom d'hôte est nécessaire. Ce sera un nom unique pour identifier
 attribué à / root
-Affectez la taille de votre fichier de swap
-Permettez à feliz de partitionner l'ensemble du périphérique
+Allouer la taille de votre fichier de swap
+Permettre à feliz d'utiliser le disque entier
 Tout ce que nous devons définir ici est la taille de votre partition / boot
 Dispositions alternatives pour le démarrage de votre nouveau système
 Sinon, entre '' pour recommencer
-bien que vous souhaitiez laisser la place à une partition / swap
+même si vous souhaitiez laisser la place à une partition / swap
 et créez une nouvelle table de partition avec vos paramètres
 et peut-être aussi une partition / home
 et configurez les partitions que vous avez définies
 et vous risquez de manquer d'espace pendant l'installation ou à un moment ultérieur
 Une partition est nécessaire pour / root
-Êtes-vous dans l'un de ces états?
+Êtes-vous dans l'un de ces cas?
 Êtes-vous sûr de vouloir continuer?
-Une GUI d'analyse simple
-affectez un fichier de swap. Il est conseillé d'autoriser un échange
+Une interface graphique d'analyse simple
+affecter un fichier de swap. Il est conseillé d'autoriser un échange
 auto
 disponible sur le périphérique choisi
 Basic_Arch_Linux
 / partition de démarrage
 Budgie est le bureau par défaut de Solus OS
-Build_My_Own
+Faire mon propre bureau
 Construisez votre propre système, en choisissant
 mais vous pouvez allouer un fichier de swap, si vous le souhaitez
 Calendrier et gestionnaire de tâches
@@ -58,7 +58,7 @@ Choisissez l'une ou la sortie pour rechercher des alternatives
 Choisissez un, ou '' pour rechercher des alternatives
 choisissez la zone mondiale de votre emplacement
 Choisissez votre noyau
-outils cli
+outils en ligne de commande
 Manipulation d'image en ligne de commande
 Système léger complet intégré à Openbox
 Félicitations, l'installation est terminée
@@ -67,23 +67,23 @@ Application dock & launcher personnalisable
 Le nom d'hôte par défaut de 'arch-linux' sera utilisé
 Effacer
 environnement de bureau, etc., parmi les catégories suivantes
-Desktop_Environments
+Environnements de Bureau
 Programme de publication assistée par ordinateur
 Temps de bureau et informations système
 appareils disponibles
 Application de gravure de disque de Gnome
 Gestionnaire d'affichage
-Le gestionnaire d'affichage est déjà défini comme
+Le gestionnaire d'affichage est déjà défini comme étant
 Affiche des informations sur votre matériel et votre système d'exploitation
 Voulez-vous accepter ceci? Sélectionnez Non pour rechercher des alternatives
 Souhaitez-vous attribuer un fichier swap?
 Voulez-vous le changer?
 Voulez-vous reformater?
-Gestionnaire de fenêtre de carrelage dynamique (requiert le compilateur Haskell)
+Gestionnaire de fenêtre dynamique en tuiles (requiert le compilateur Haskell)
 Client BitTorrent facile à utiliser
 Éditeur vidéo non linéaire facile à utiliser
 Éditeur vidéo facile à utiliser
-E-book library management application
+Application de gestion libraire d'E-book
 Entrez 1, 2 ou une nouvelle étiquette
 Entrez un nom d'hôte pour votre ordinateur
 Entrez un point de montage pour
@@ -95,7 +95,7 @@ Entrez le numéro pour que les données changent
 Entrez le chemin d'accès auquel Grub doit être installé
 entre '' pour voir une liste
 Sortie
-Quitter pour vous permettre de partitionner l'appareil
+Quitter pour vous permettre de partitionner le disque
 Quitter pour terminer
 Navigateur extensible de Mozilla
 Éditeur de texte extensible et personnalisable
@@ -115,18 +115,18 @@ polices
 '>' pour la prochaine page
 '<' pour la page précédente
 pour votre pays ou votre langue et une liste sera affichée
-Plein écran, moderne DE
-Processeur de texte complet
-Application de quai intégralement embarquée
-Générer une liste de réflexion
+Plein écran, environnement de bureau moderne
+Editeur de texte complet
+Barre de lancement d'application intégralement embarquée
+Générer une liste de dépots
 Gnome WebKitGTK + navigateur (aka Web)
 Graphique
 Outils graphiques
-Ver
+Grub
 Grub sera installé sur
-Frontal Sane basé sur GTK
+Interface Sane basée sur GTK
 GTK + IDE avec support pour les plugins Python
-Graveur de CD GUI
+Interface graphique du Graveur de CD G
 guidé
 Outil de partitionnement manuel guidé
 Calculatrice de bureau pratique
@@ -141,24 +141,24 @@ Nom d'hôte
 Nom d'hôte (actuellement
 idéalement plus, jusqu'à 20GiB
 En cas de doute, choisissez
-En cas de doute, consulter
+En cas de doute, consultez
 Si c'est le cas, feliz peut installer l'invité de Virtualbox
-Si vous n'êtes pas sûr de partitionner, vous devez lire le Wiki de l'Arc
+Si vous n'êtes pas sûr de partitionner, vous devez lire le Wiki d'Arch
 Si vous choisissez de ne rien faire maintenant, le script sera
 Si vous n'installez pas de gestionnaire d'affichage, vous aurez
 Si vous ne créez pas de nom d'utilisateur ici, un utilisateur par défaut
-Si vous connaissez le code de la disposition de votre clavier, entrez
-Si vous ignorez cette étape, aucun échange ne sera attribué
+Si vous connaissez le code de la disposition de votre clavier, entrez le
+Si vous ignorez cette étape, aucun swap ne sera attribué
 Si vous souhaitez supprimer l'étiquette, entrez 2
 Si vous souhaitez entrer une nouvelle étiquette, saisissez-la à l'invite
 Si vous souhaitez conserver cette étiquette, entrez 1
 Si vous souhaitez en utiliser un, sélectionnez-le dans la liste
-Visionneuse d'images et éditeur de base
+Visionneuse d'images et éditeur basique
 installation, mais vous ne devez choisir que des applications légères
 Installation
 Installer les utilitaires invités de Virtualbox?
 Environnement de développement intégré (IDE)
-l'Internet
+Internet
 est déjà formé en tant que partition de swap
 est déjà dans votre liste de courses
 est actuellement formaté pour
@@ -171,17 +171,17 @@ Joe's Window Manager - gestionnaire de la fenêtre plume
 Installez simplement un Arch Linux basique
 Garder
 Noyau
-systèmes de noyau et noyau
+systèmes de noyau et kernel
 Le clavier est
-laisser
-WM léger, rapide et polyvalent
-Light navigateur web
-Unité légère et moderne basée à Qt
-Empilage léger et configurable WM
-Unité légère et hautement configurable
-Panneau de bureau léger, compatible NETWM
+quitter
+Gestionnaire de fenêtres léger, rapide et polyvalent
+Navigateur web léger
+Environnement de Bureau léger et moderne basé sur Qt
+Gestionnaire de fenêtres dynamique en tuiles léger et configurable 
+Environnement de Bureau  léger et hautement configurable
+Barre de tache légère, compatible NETWM
 Emulateur de terminal léger de LXDE
-Panneau de bureau léger X11 (partie du bureau LXDE)
+Barre de tache légère X11 (partie du bureau LXDE)
 Chargement
 Chargement du traducteur
 La localisation sera configurée pour
@@ -195,7 +195,7 @@ Aucun clavier trouvé contenant
 Aucune langue n'a été trouvée pour votre emplacement
 Aucun
 Aucun d'eux
-Aucune provision n'a été prévue pour le swap
+Aucune allocation n'a été prévue pour le swap
 Notez que si vous ne sélectionnez pas un périphérique, Grub
 Notez que vous ne pourrez pas
 Maintenant, choisissez votre langue dans cette liste
@@ -204,12 +204,12 @@ Maintenant, vous avez la possibilité d'ajouter des extras, par exemple un navig
 Bureau
 de l'espace restant alloué à
 D'accord
-un, mais en ajoutant trop, vous ralentirez votre installation
+un, mais en ajouter trop,  ralentira votre installation
 une partition est nécessaire pour le répertoire racine
 Entrez uniquement un périphérique, n'incluez pas un numéro de partition
 Un seul gestionnaire d'affichage peut être actif
 Un seul clavier trouvé en fonction de votre emplacement
-Desktop Documents Downloads Music Pictures Public Templates Videos
+Bureau Documents Téléchargement Musique Images Publique modèles Videos
 sur le périphérique choisi sera détruit)
 Ouvrez cfdisk afin de pouvoir partitionner manuellement
 Client BitTorrent open source
@@ -235,29 +235,29 @@ Les mots de passe ne correspondent pas
 Plasma 5 et pack d'accessoires
 Vérifiez-les avant que Feliz commence l'installation
 Choisissez un pays
-Choisissez la langue du système installé
-Choisissez votre lieu le plus proche
+Choisissez la langue du système à installer
+Choisissez votre position la plus proche
 Entrez la taille désirée
 Entrez la première lettre de
 Entrez le numéro de votre sélection
 Appuyez sur n'importe quelle touche pour continuer
-Appuyez sur Enter pour continuer
+Appuyez sur Entrée pour continuer
 Sélectionnez une ville dans cette liste
 Sélectionnez une partition à utiliser pour / root
 Sélectionnez le système de fichiers pour
 Veuillez réessayer
-Les préparatifs complètent
-Préparation et montage de cloisons
+Préparation terminées
+Préparation et montage des partitions
 Préparation des services locaux
-appuyez sur une touche
+Appuyez sur une touche
 Appuyez sur Entrée pour continuer
 Appuyez sur Entrée pour l'installer avec ces paramètres, ou
 La programmation
-Miroirs de classement - veuillez patienter ...
-Reader pour PDF et autres formats de document
+Classement des dépots  - veuillez patienter ...
+lecteur PDF et autres formats de document
 Re-saisissez le mot de passe pour
 le reformatage d'une partition existante peut avoir des conséquences inattendues
-En reformulant, il changera l'UUID, et si ce swap
+le reformatage changera l'UUID, et le swap
 En reformatant, il supprimera toutes les données actuellement disponibles
 reste ou vous pouvez allouer un fichier de swap
 (Rappelez-vous, c'est une partition automatique, et toutes les données
@@ -265,31 +265,31 @@ Paramètres racine et utilisateur
 / partition racine
 secondes
 voir les mots de passe lorsque vous les entrez
-Sélectionnez une partition pour l'échange de ceux qui
-Sélectionnez l'appareil sur lequel Grub doit être installé
+Sélectionnez une partition pour le swap depuis ceux qui
+Sélectionnez le disque sur lequel Grub doit être installé
 Sélectionnez votre clavier, ou Quittez pour réessayer
 Devons-nous installer avec cette langue?
-Arrêt de redémarrage
-Stationnement simple et propre de l'environnement de bureau Pantheon
-Panneau / barre de tâches simple développé spécifiquement pour Openbox
-Transacteur vidéo simple mais puissant
+Arrêt Redémarrage
+Barre de lancement simple et propre de l'environnement de bureau Pantheon
+Barre de tâches simple développé spécifiquement pour Openbox
+Transcodeur vidéo simple mais puissant
 Taille
-Bureau de bureau moderne et informel de l'équipe de la Monnaie
+Bureau moderne et peaufiné de l'équipe Mint
 Outil de fusion de texte petit et simple
 logiciel que vous souhaitez installer
 Désolé, aucun clavier n'a été trouvé en fonction de votre emplacement
-Schéma de calcul de GNOME
-Gestionnaire de fenêtres d'empilage pour le système X Window
-Empiler le gestionnaire de fenêtres et les bibliothèques pour gérer le bureau
-Succès!
-L'échange peut être n'importe quoi de 512MiB vers le haut, mais
+Tableur de GNOME
+Gestionnaire de fenêtres dynamique en tuiles pour le système X Window
+Gestionnaire de fenêtres dynamique en tuiles et ses bibliothèques pour gérer le bureau
+Installation terminée !
+Le swap peut être de 512MiB et plus, mais
 / partition de swap
 Partition Swap
-système ne sera plus incapable d'accéder à la partition
-Barres de tâches
-terminer pour vous permettre de partitionner d'une autre manière
-Essai
-C'est toute la préparation faite
+Le système ne sera plus capable d'accéder à la partition
+Barre de tâches
+Achever pour vous permettre de partitionner d'une autre manière
+Teste
+La préparation est terminée
 Le gestionnaire de fichiers de LXDE
 Les extras suivants ont été sélectionnés
 Les partitions suivantes sont disponibles
@@ -302,8 +302,8 @@ Il n'y a pas de partition disponible pour le swap
 Il n'y a pas de partition sur l'appareil, et au moins
 Il existe une option de partitionnement manuel guidé
 Il y a juste un espace pour
-Il n'y a pas d'espace pour une partition / swap, mais vous pouvez
-Il y a de l'espace pour un
+Il n'y a pas assez d'espace pour une partition / swap, mais vous pouvez
+Il y a assez d'espace pour un
 La partition / root ne doit pas être inférieure à 8GiB
 Ce sont les appareils disponibles
 Ce sont les paramètres que vous avez entrés.
@@ -314,15 +314,15 @@ C'est suffisant pour
 C'est suffisant pour une base
 Ce n'est pas suffisant pour une installation
 Cela doit être de type vfat, et peut être d'environ 512MiB
-Cela devrait être dans la forme / dev / sdx ou similaire
+Cela devrait être dans la forme /dev/sdX ou similaire
 Cela effacera toutes les données sur
-Gestionnaire de fenêtre de carrelage, entièrement écrit à partir de zéro
+Gestionnaire de fenêtre dynamique en tuiles, entièrement écrit à partir de zéro
 Pour revenir en arrière, laissez en blanc
 pour lancer votre environnement de bureau manuellement
 Outil pour créer / supprimer / redimensionner les partitions
-Trop d'afficher tous
+Trop nombreux pour afficher tout
 Pour régler l'horloge système, prière d'abord
-Ordinateur de bureau traditionnel de l'équipe de la Monnaie
+Bureau traditionnel de l'équipe Mint
 Bureau de style traditionnel et léger
 deux partitions sont nécessaires - une pour EFI / boot, et
 comprenez que ne pas reformater le / root
@@ -330,36 +330,36 @@ Mise à jour des clés
 Utilisez les touches fléchées pour se déplacer. Entrez pour sélectionner
 Nom d'utilisateur
 Nom d'utilisateur (actuellement
-utilitaires et vous faire des réglages appropriés
+utilitaires et vos réglages appropriés
 Éditeur graphique vectoriel
-modules invités de la boîte virtuelle
-Avertissement: Btrfs ne prend pas en charge les fichiers échangés
+modules invités de VirtualBox
+Avertissement: Btrfs ne prend pas en charge les fichiers d'échange (swap)
 Nous commençons par le
-Que souhaitez-vous utiliser pour cette installation?
+Lequel souhaitez-vous utiliser pour cette installation?
 tandis que le dernier noyau possède toutes les nouvelles fonctionnalités
 ne sera pas installé, et vous devrez faire
-Window_Managers
+Gestionnaire de fenêtres
 Gestionnaire de fenêtres qui émule l'interface utilisateur NeXT
-Outils sans fil
+Outils Wifi
 Souhaitez-vous utiliser l'un des éléments suivants?
 
 Oui
 Vous pouvez ajouter d'autres éléments ou sélectionner des éléments à supprimer
 Vous pouvez choisir le nouveau bureau FelizOB, un
-Vous pouvez choisir de le laisser tel quel, mais devrait
+Vous pouvez choisir de le laisser tel quel, mais devrez
 Vous pouvez choisir de le laisser tel quel, en sélectionnant Quitter, mais pas
 Vous pouvez maintenant choisir parmi les autres listes
 Vous pouvez utiliser tout l'espace restant sur l'appareil, si vous le souhaitez
 Tu as
 Vous avez choisi d'entrer manuellement le chemin pour Grub
-Vous voudrez peut-être laisser place à une partition / home
+Vous voudrez peut-être laisser place à une partition /home
 Vous devez entrer un point de montage valide
 Vous devez inclure M, G ou %
 Vous devez inclure M ou G
 Vous avez maintenant
 Votre appareil a
 Votre appareil a seulement
-votre appareil sur un réseau. Si vous ne saisissez pas un, le
+votre appareil et le réseau. Si vous n'en saisissez pas un, le
 la ville principale la plus proche
 Vous pourrez choisir parmi une liste de pays qui
 vous souhaitez créer. Quand il est prêt, Feliz effacera le disque
@@ -369,15 +369,15 @@ Amérique
 Antarctique
 Arctique
 Asie
-atlantique
+Atlantique
 Australie
-L'Europe
-Indien
+Europe
+Inde
 Pacifique
 UTC
 Entrer_manuellement
 --------------
-Régresser
+Retour
 idéalement plus, jusqu'à 20G
 Choisissez en un s'il vous plait
 Annuler
