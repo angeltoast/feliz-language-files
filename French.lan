@@ -67,7 +67,7 @@ Application dock & launcher personnalisable
 Le nom d'hôte par défaut de 'arch-linux' sera utilisé
 Effacer
 environnement de bureau, etc., parmi les catégories suivantes
-Environnements de Bureau
+Environnements_de_Bureau
 Programme de publication assistée par ordinateur
 Temps de bureau et informations système
 appareils disponibles
@@ -252,7 +252,7 @@ Préparation des services locaux
 Appuyez sur une touche
 Appuyez sur Entrée pour continuer
 Appuyez sur Entrée pour l'installer avec ces paramètres, ou
-La programmation
+La_programmation
 Classement des dépots  - veuillez patienter ...
 lecteur PDF et autres formats de document
 Re-saisissez le mot de passe pour
@@ -286,7 +286,7 @@ Le swap peut être de 512MiB et plus, mais
 / partition de swap
 Partition Swap
 Le système ne sera plus capable d'accéder à la partition
-Barre de tâches
+Barre_de_tâches
 Achever pour vous permettre de partitionner d'une autre manière
 Teste
 La préparation est terminée
@@ -338,7 +338,7 @@ Nous commençons par le
 Lequel souhaitez-vous utiliser pour cette installation?
 tandis que le dernier noyau possède toutes les nouvelles fonctionnalités
 ne sera pas installé, et vous devrez faire
-Gestionnaire de fenêtres
+Gestionnaire_de_fenêtres
 Gestionnaire de fenêtres qui émule l'interface utilisateur NeXT
 Outils Wifi
 Souhaitez-vous utiliser l'un des éléments suivants?
