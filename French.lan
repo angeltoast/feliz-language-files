@@ -28,7 +28,7 @@ Editeur de texte avancé et IDE
 Un nom d'hôte est nécessaire. Ce sera un nom unique pour identifier
 attribué à / root
 Affectez la taille de votre fichier de swap
-Permettez à feliz de partitionner l'ensemble du périphérique
+permettre a féliz d'utiliser le disque entier
 Tout ce que nous devons définir ici est la taille de votre partition / boot
 Dispositions alternatives pour le démarrage de votre nouveau système
 Sinon, entre '' pour recommencer
