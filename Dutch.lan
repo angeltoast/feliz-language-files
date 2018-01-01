@@ -25,7 +25,7 @@ Gebruikers toevoegen en groepen instellen
 Een beeldschermbeheerder geeft een grafisch aanmeldscherm
 Geavanceerde beeldbewerking suite
 Geavanceerde tekst editor & IDE
-Een hostnaam is nodig. Dit zal een unieke naam zijn om te identificeren
+Een hostnaam is nodig. Dit zal een unieke naam zijn om te
 toegewezen aan / root
 Geef de grootte van uw ruilbestand toe
 Laat feliz toe om het hele apparaat te partitioneren
@@ -64,7 +64,7 @@ compleet lichtgewicht systeem gebouwd op Openbox
 Gefeliciteerd, de installatie is voltooid
 Cross-platform IDE voor Object Pascal
 Aanpasbare dock & launcher applicatie
-standaard hostnaam van 'arch-linux' wordt gebruikt
+wordt de standaard hostnaam van 'arch-linux' wordt gebruikt
 Verwijder
 desktop omgeving, enz., uit de volgende categorieën
 Desktop_Environments
@@ -309,7 +309,7 @@ Dit zijn de beschikbare apparaten
 Dit zijn de instellingen die u hebt ingevoerd.
 De geselecteerde partitie
 De geselecteerde partitie
-Deze faciliteit is beperkt tot het creëren / wortelen, / swap en / home
+Deze faciliteit is beperkt tot het creëren
 Dit is genoeg voor
 Dit is gewoon genoeg voor een basis
 Dit is niet genoeg voor een installatie
@@ -359,7 +359,7 @@ Je moet M of G bevatten
 Je hebt nu
 Uw apparaat heeft
 Uw apparaat heeft alleen
-uw apparaat op een netwerk Als u niet één invoert, wordt de
+identificeren uw apparaat op een netwerk Als u niet één invoert,
 uw dichtstbijzijnde grote stad
 U kunt kiezen uit een lijst van landen die
 u wilt maken. Wanneer klaar, zal Feliz de schijf wissen

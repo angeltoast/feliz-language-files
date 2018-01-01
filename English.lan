@@ -25,7 +25,7 @@ Adding user and setting up groups
 A display manager provides a graphical login screen
 Advanced image editing suite
 Advanced text editor & IDE
-A hostname is needed. This will be a unique name to identify
+A hostname is needed. This will be a unique name to
 allocated to /root
 Allocate the size of your swap file
 Allow feliz to partition the whole device
@@ -64,7 +64,7 @@ complete lightweight system built on Openbox
 Congratulations, installation is complete
 Cross-platform IDE for Object Pascal
 Customizable dock & launcher application
-default hostname of 'arch-linux' will be used
+one, the default hostname of 'arch-linux' will be used
 Delete
 desktop environment, etc, from the following categories
 Desktop_Environments
@@ -145,7 +145,7 @@ If in doubt, consult
 If it is, feliz can install Virtualbox guest
 If you are uncertain about partitioning, you should read the Arch Wiki
 If you choose to do nothing now, the script will
-If you do not install a display manager, you will have
+If you do not install a display manager, you will
 If you don't create a username here, a
 If you know the code for your keyboard layout, please enter
 If you skip this step, no swap will be allocated
@@ -309,7 +309,7 @@ These are the available devices
 These are the settings you have entered.
 The selected partition
 The selected partition
-This facility is restricted to creating /root, /swap and /home
+This facility is restricted to creating
 This is enough for
 This is just enough for a basic
 This is not enough for an installation
@@ -318,7 +318,7 @@ This should be in the form /dev/sdx or similar
 This will erase any data on
 Tiling window manager, completely written from scratch
 To go back, leave blank
-to launch your desktop environment manually
+have to launch your desktop environment manually
 Tool to make/delete/resize partitions
 Too many to display all
 To set the system clock, please first
@@ -359,7 +359,7 @@ You must include M or G
 You now have
 Your device has
 Your device has only
-your device on a network. If you do not enter one, the
+identify your device on a network. If you do not enter
 your nearest major city
 You will be able to choose from a list of countries which
 you wish to create. When ready, Feliz will wipe the disk
