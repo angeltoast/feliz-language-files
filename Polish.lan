@@ -1,5 +1,5 @@
 Polish language file for Feliz
-by pavroo (pavroo@onet.eu) 24 September 2017
+by pavroo (pavroo@onet.eu) 31 grudzień 2017
 ------------------------------------------------------------------
 Notes to translators (turn Line-numbers on in your text editor)
 --------------------
@@ -342,7 +342,7 @@ Menadżery_Okien
 Menadżer okien, który emuluje interfejs użytkownika NeXT
 Narzędzia Bezprzewodowe
 Czy chcesz użyć jednego z wymienionych?
-x
+
 Tak
 Możesz dodać więcej pozycji, lub wybrać pozycje do usunięcia
 Możesz wybrać nowy pulpit FelizOB,
@@ -377,17 +377,17 @@ Pacyfik
 UTC
 Wprowadź_Ręcznie
 --------------
-Regres
+Powrót
 idealnie więcej, do 20G
-Prosze wybrac jeden
+Proszę wybrać jeden
 Anuluj
-Partycja / root nie powinna być mniejsza niż 8G
-Skończone
-Zaczynamy od
-Ostatnie jądro ma wszystkie nowe funkcje
-partition
-Feliz będzie
-utwórz nową tablicę partycji
-mają lustra Arch Linuksa
-Ranking lusterek
+Partycja /root nie powinna być mniejsza niż 8G
+Zrobione
+Zaczynamy z
+Najnowsze jądro posiada wszystkie nowe udogodnienia
+partycja
+Feliz
+utworzy nową tablicę partycji
+ma serwery lustrzane Arch Linux
+Ranking serwerów lustrzanych
 Anuluj instalację
