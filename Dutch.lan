@@ -1,393 +1,295 @@
-Engels taal bestand voor Feliz
-door Elizabeth Audrey Mills (liz@feliz.one) & Google Translate 31 December 2017
--------------------------------------------------- -----------------------------
-Opmerkingen aan vertalers (draai regelnummers in in uw tekstverwerker)
---------------------
-1) Vertal alstublieft lijn 1 om de vertaaltaal te zeggen;
-2) Vertel alstublieft lijn 2 om uw naam en e-mailadres te vermelden;
-(het is jouw werk en je verdient het daarvoor te erkennen)
-3) Vertalingen starten bij regel # 19
-4) Vermeld alstublieft alle lijnen op precies hetzelfde lijnnummer,
-en voeg geen lijnen toe of verwijder deze (dit is heel belangrijk)
-5) Als een vertaalde lijn meer dan 80 karakters is, kunt u het opnieuw formuleren om het korter te maken
-6) Sla uw bestand op als <Language> .lan
-(waar <Taal> de moedertaal van de taal is - bijvoorbeeld: Español.lan)
-7) Als u nog vragen of problemen hebt, kunt u mailen of contact met me opnemen via Facebook
--------------------------------------------------- -----------------------------------
-Bedankt voor uw bijdrage aan Feliz
-----------------------------------------
-3D grafische creatie suite
+# Dutch language file for Feliz
+# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# ---------------------------------------------------------------------------------
+# Notes to translators
+# Use a text editor, such as notepad, and turn Line-numbers on
+# ------------------------------------------------------------
+# 1) Please translate line #1 (above);
+# 2) Translate line #2 (above) to change from my name and email address to yours
+#     (it is your work and you deserve to be recognised for it);
+# 3) Translations start at line #20
+# 4) Please translate all lines at exactly the same line number as in this file,
+#     and do not add or delete any lines (this is very important);
+# 5) If any translated line is over 80 characters, please re-phrase to make it shorter
+# 6) Save your file as <Language>.lan
+#    (where <Language> is the English name of the language - for example: Spanish.lan)
+#7) If you have any questions or problems, please email or contact me through Facebook
+# -------------------------------------------------------------------------------------
+# Thank you for your contribution to Feliz
+# ----------------------------------------
+Creatief pakket voor 3D-afbeeldingen
 Accessoires
-toegevoegd. Kies een ander land, of ''
-Tot nu toe toegevoegd
-Codecs toevoegen
-Gebruikers toevoegen en groepen instellen
-Een beeldschermbeheerder geeft een grafisch aanmeldscherm
-Geavanceerde beeldbewerking suite
-Geavanceerde tekst editor & IDE
-Een hostnaam is nodig. Dit zal een unieke naam zijn om te
-toegewezen aan / root
-Geef de grootte van uw ruilbestand toe
-Laat feliz toe om het hele apparaat te partitioneren
-Alles wat we hier moeten instellen is de grootte van uw / boot partitie
-Alternatieve regelingen voor het opstarten van uw nieuwe systeem
-U kunt ook '' invoeren om opnieuw te beginnen
-hoewel u misschien ruimte wilt maken voor een / swap-partitie
-en maak een nieuwe partitie tabel met uw instellingen
-en misschien ook een / thuis partitie
-en stel de partities die u hebt gedefinieerd op
-en u loopt tijdens de installatie of op een later tijdstip uit de ruimte
-Een partitie is nodig voor / root
-Bent u in een van deze staten?
-Weet u zeker dat u wilt doorgaan?
-Een eenvoudige scanner GUI
-toewijzen van een swap-bestand. Het is geadviseerd om wat te ruilen
-auto
-beschikbaar op het gekozen apparaat
+Toegevoegd tot nu toe
+Gebruiker toevoegen en groepen instellen
+Een displaymanager biedt een grafisch inlogscherm.
+Geavanceerde beeldbewerkingssuite
+Geavanceerde teksteditor en IDE
+Een hostnaam is nodig. Dit wordt een unieke naam voor
+Laat Feliz het apparaat partitioneren
+alternatieve regelingen voor het opstarten van uw nieuwe systeem
+hoewel dit mogelijk langzamer is dan een lokale spiegel
+en maak een nieuwe partitietabel met uw instellingen
+en misschien ook een
+en je hebt mogelijk te weinig ruimte tijdens de installatie of op een later tijdstip
+Apache webserver
+Er is een partitie nodig voor / root
+Zit je in een van deze staten?
+Weet je zeker dat je wilt doorgaan?
+Een eenvoudige scanner-GUI
+Terug
 Basic_Arch_Linux
-/ boot partitie
-Budgie is het standaardbureaublad van Solus OS
+Budgie is de standaardbureaublad van Solus OS
 Build_My_Own
-Bouw je eigen systeem, door de
-maar u kunt een ruilbestand toewijzen, als u dat wenst
-Kalender en taakmanager
-een standaardgebruiker genaamd 'archie' wordt opgericht
+Bouw je eigen systeem door de
+maar u kunt een wisselbestand toewijzen
+Kalender en taakbeheer
+Annuleer
+Annuleer de installatie
 Kies een item
-Kies uit bestaande partities
-Kies een of Exit om te zoeken naar alternatieven
-Kies een of '' om alternatieven te zoeken
-kies de wereldzone van uw locatie
-Kies uw kernel
-cli tools
-Command-line beeldmanipulatie
+Kies er een of Exit om het opnieuw te proberen
+Kies de landinstelling voor uw systeem
+kies de wereldzone van je locatie
+Kies je kernel
+cli-tools
+Beeldbewerking op commandolijn
 compleet lichtgewicht systeem gebouwd op Openbox
-Gefeliciteerd, de installatie is voltooid
-Cross-platform IDE voor Object Pascal
-Aanpasbare dock & launcher applicatie
-wordt de standaard hostnaam van 'arch-linux' wordt gebruikt
-Verwijder
-desktop omgeving, enz., uit de volgende categorieën
+Platformonafhankelijke IDE voor Object Pascal
+Aanpasbare dock & launcher-applicatie
+standaard gebruiker genaamd 'archie' zal worden ingesteld
+Desktop Documenten Downloads Muziek Afbeeldingen Openbare Templates Video's
+bureaubladomgeving, enzovoort, uit de volgende categorieën
 Desktop_Environments
-Desktop publishing programma
-Desktop tijd en systeem informatie
+Desktop van het Deepin-project
+Desktop publishing-programma
+Desktoptijd en systeeminformatie
 apparaten beschikbaar
-Schijf branden applicatie van Gnome
+Applicatie voor het branden van schijven van Gnome
 Display Manager
-Display manager is al ingesteld als
-Geeft informatie over uw hardware en besturingssysteem weer
-Wilt u dit accepteren? Selecteer Nee om alternatieven te zoeken
-Wilt u een swapfile toewijzen?
-Wilt u het veranderen?
-Wilt u het opnieuw formatteren?
-Dynamic tiling window manager (vereist Haskell compiler)
-Eenvoudig te gebruiken BitTorrent-client
-Makkelijk te gebruiken niet-lineaire videoredacteur
-Makkelijk te gebruiken videoredacteur
-E-book bibliotheek management applicatie
-Voer 1, 2 of een nieuw label in
+Geeft informatie weer over uw hardware en besturingssysteem
+Geef het bestand 'partitioning' weer
+Gedaan
+download het Arch Linux-systeem en de applicaties
+Wil je dit accepteren? Selecteer Nee om naar alternatieven te zoeken
+Wenst u een swapbestand toe te wijzen?
+Wil je doorgaan?
+Dynamic tiling window manager (vereist Haskell-compiler)
+Eenvoudig te gebruiken niet-lineaire video-editor
+Eenvoudig te gebruiken video-editor
+Bibliotheekbeheertoepassing voor e-boeken
+EFI-partitie: 550MiB
+bijvoorbeeld: 'dvorak' of 'ons'
+English.lan
 Voer een hostnaam in voor uw computer
-Voer een bergpunt in voor
+Voer een mountpoint in voor
 Voer een naam in voor de primaire gebruiker van het nieuwe systeem
 Voer een wachtwoord in voor
-Automatische installatiefase invoeren
-Vul een nieuwe gebruikersnaam in (momenteel
-Voer nummer in voor de gegevens die u wilt wijzigen
-Voer het pad in waar Grub geïnstalleerd moet worden
-voer '' in om een ​​lijst te zien
+Invoeren van de automatische installatiefase
+Handmatig invoeren
+Voer het nummer in dat moet worden gewijzigd
 Uitgang
-Uittreksel om u toe te staan ​​om het apparaat te partitioneren
-Exit om af te maken
-Extensible browser van Mozilla
-Uitbreidbare, aanpasbare tekst editor
-Snel en lichtgewicht dynamisch menu voor X
-Snelle en betrouwbare FTP-, FTPS- en SFTP-client
-Feature-rijke audio-speler
-Eigenschaprijke e-mailclient van Mozilla
-Feliz - Arch Linux installatie script
-Feliz biedt u nu een keuze. Jij kan ...
+Verlaat Feliz naar de opdrachtregel
+Uitbreidbare browser van Mozilla
+Uitbreidbare, aanpasbare teksteditor
+Snel en licht dynamisch menu voor X
+Snelle en betrouwbare FTP-, FTPS & SFTP-client
+Veelzijdige audiospeler
+Veelzijdige e-mailclient van Mozilla
+Feliz heeft minstens één spiegel nodig
+Feliz biedt je nu een keuze. Jij kan ...
 FelizOB_desktop
-Feliz - Testing
-Feliz maakt nu een nieuwe partitie tabel
-Ten slotte moeten we wachtwoorden instellen
-Voltooid installeren in
-Eerst moet u een selecteren om te gebruiken voor EFI / boot
+Eindelijk moeten we wachtwoorden instellen
+Klaar met installeren in
+Eerst moet je er een kiezen om te gebruiken voor EFI / boot
 fonts
-'>' voor de volgende pagina
-'<' voor vorige pagina
 voor uw land of taal en een lijst wordt weergegeven
-Full-featured, modern DE
-Full-featured tekstverwerker
-Volledig gevulde dock applicatie
-Spiegellijst genereren
-Gnome WebKitGTK + browser (ook internet)
+Volledige, moderne DE
+Volledige tekstverwerker
+Volwaardige dock-applicatie
+Gnome WebKitGTK + browser (ook bekend als Web)
 grafisch
 Grafische hulpmiddelen
-Rooien
-Grub wordt geïnstalleerd op
-GTK-gebaseerde sane frontend
-GTK + IDE met ondersteuning voor Python plugins
+Grub wordt geïnstalleerd
+Op GTK-gebaseerde gezonde frontend
+GTK + IDE met ondersteuning voor Python-plug-ins
 GUI CD-brander
-geleide
-Begeleid handmatig partitie tool
-Handige desktop calculator
-Handige lichtgewicht tekst editor van LXDE
-heb Arch Linux spiegels. Het is mogelijk om meer dan te selecteren
+Handige desktopcalculator
+Handige lichtgewicht teksteditor van LXDE
+hebben Arch Linux-mirrors.
+moet uw bureaubladomgeving handmatig starten
 Hier zijn de partities die beschikbaar zijn
 Hier is een lijst met beschikbare partities
-Hier kunt u de grootte en het formaat van de partities instellen
-Zeer configurabele, dynamische vensterbeheerder
-/ home partitie
+Hier kunt u de grootte en indeling van de partities instellen
+Zeer configureerbare, dynamische vensterbeheerder
 hostname
-Hostnaam (momenteel
-ideaal meer, tot 20GiB
-Als u twijfelt, kies
-Als u twijfelt, raadpleeg
-Als dat het geval is, kan Feliz Virtualbox-guest installeren
-Als u onzeker bent over partitie, moet u de Arch Wiki lezen
-Als u ervoor kiest om nu niets te doen, zal het script
-Als u geen beeldschermbeheerder installeert, heeft u het
-Als u hier geen gebruikersnaam aan maakt, is er
-Als u de code voor uw toetsenbordindeling kent, vul dan alstublieft in
+idealiter meer, tot 20GiB
+identificeer uw apparaat op een netwerk. Als je niet binnenkomt
+Kies bij twijfel
+Raadpleeg bij twijfel de Arch Wiki
+Als u geen displaymanager installeert, doet u dat
+Als u er geen wilt gebruiken uit de lijst Arch
+Als u hier geen gebruikersnaam maakt,
+Als u de code voor uw toetsenbordindeling kent, voert u dit in
 Als u deze stap overslaat, wordt er geen swap toegewezen
-Als u het label wilt verwijderen, voert u 2 in
-Als u een nieuw label wilt invoeren, typt u het op de prompt
-Als u dat label wilt houden, voer dan 1 in
-Als u één wilt gebruiken, selecteert u het uit de lijst
-Beeldweergave & basisredacteur
-installatie, maar u moet alleen lichte toepassingen kiezen
+Als u er een wilt gebruiken, selecteert u deze in de lijst
+Afbeeldingsviewer en basiseditor
+installatie, maar u moet alleen voor lichte toepassingen kiezen
 installeren
-Installeer Virtuelebox gast utilities?
+Installeer je de guest-utilities van Virtualbox?
+Draadloze tools installeren?
 Geïntegreerde ontwikkelomgeving (IDE)
 internet
-is al geformatteerd als een swap partitie
-staat al in uw boodschappenlijst
-is momenteel geformatteerd naar
-Het lijkt erop dat feliz in Virtualbox draait
 het is niet nodig om 4GiB te overschrijden
-Het is niet aangeraden om het btrfs-bestandssysteem met anderen te mengen
-het nu. Zo niet, probeer een tweekortafkorting in te voeren
-Het moet niet minder dan 512MiB zijn en hoeft niet groter dan 1GiB te zijn
-Joe's Window Manager - veergewicht venster manager
-Installeer gewoon een basic Arch Linux
-Houden
+Het wordt niet aanbevolen om het btrfs-bestandssysteem met anderen te combineren
+het nu. Als dit niet het geval is, probeert u een afkorting van twee letters in te voeren
+Het zou niet minder moeten zijn dan
+Ik wil een adres typen
+Joe's Window Manager - vedergewicht vensterbeheerder
+Installeer gewoon een standaard Arch Linux
 pit
-kern- en kernsystemen
+kernel- en kernsystemen
 Toetsenbord is
-het verlof
 Lichte, snelle en veelzijdige WM
 Lichte webbrowser
-Lichtgewicht en modern Qt-based DE
-Lichtgewicht en configureerbaar stapelwerk WM
-Lichtgewicht, zeer configureerbare DE
-Lichtgewicht, NETWM-compatibel bureaublad
-Lichtgewicht terminal emulator van LXDE
-Lichtgewicht X11 desktop paneel (onderdeel van het LXDE desktop)
-het laden
-Loading vertaler
+Lichtgewicht en modern op Qt gebaseerd DE
+Lichtgewicht en configureerbare stapelbare WM
+Lichtgewicht, goed configureerbare DE
+Lichtgewicht, NETWM compliant desktoppaneel
+Lichtgewicht terminalemulator van LXDE
+Lichtgewicht X11-desktoppaneel (onderdeel van het LXDE-bureaublad)
+Bezig met laden
 Locale wordt ingesteld op
-Middengewicht videospeler
+Middleweight mediaspeler
 notulen
+spiegels
+M = Megabytes, G = Gigabytes [bijv .: 512M of 2G]
 multimedia
-Vervolgens zullen we spiegels selecteren voor het downloaden van uw systeem.
+N
+Vervolgens selecteren we mirrors voor het downloaden van uw systeem.
 Nee
 Geen Display Manager geselecteerd
-Geen toetsenborden gevonden die bevatten
-Er is geen taal gevonden voor uw locatie
+Geen toetsenborden gevonden met
 Geen
 Geen van deze
-Er is geen voorziening voor de swap gemaakt
+Er is geen voorziening getroffen voor swap
 Merk op dat als u geen apparaat selecteert, Grub
-Houd er rekening mee dat u niet in staat bent
-Kies nu uw taal uit deze lijst
-Nu moeten we uw locatie vinden in
-Nu kunt u extra's toevoegen, zoals een webbrowser
+Merk op dat u dit niet zult kunnen
+Selecteer nu uw locatie in
+Nu hebt u de mogelijkheid om extra's toe te voegen, zoals een webbrowser
 Kantoor
-van de resterende ruimte toegewezen aan
 OK
-een, maar het toevoegen van te veel zal uw installatie vertragen
-er is een partitie nodig voor de hoofdmap
-Voer alleen een apparaat in, sluit geen partitienummer in
-Alleen een weergave manager kan actief zijn
-Slechts één toetsenbord is gevonden op basis van uw locatie
-Desktop Documents Downloads Music Pictures Public Templates Videos
-op het gekozen apparaat wordt vernietigd)
-Open cfdisk zodat ik handmatig kan partitioneren
-Open source BitTorrent client
-Open source en cross-platform C / C ++ IDE
-Open-source kantoor software suite
-Open source versie besturingssysteem
-opensource video drivers
-Open source webbrowser van Google
-of
-of kies Afsluiten om partitie te beëindigen
-of kies Afsluiten om dit deel van de installatie af te ronden
-of kies Afsluiten om het te verlaten zoals het is
-of voer '' in om een ​​lijst te zien:
-of Exit om opnieuw te proberen
-of, om alle resterende ruimte toe te wijzen, voer dan in
-of '' om af te sluiten
-of u kunt nu afstappen om een ​​extern gereedschap te gebruiken
-partitie kan onverwachte gevolgen hebben
-Partitionering van
-partitie wordt gebruikt door een ander besturingssysteem, dat
-Wachtwoorden kunnen niet leeg zijn
+één, de standaard hostnaam van 'arch-linux' zal worden gebruikt
+Voer alleen een apparaat in, geen partitienummer
+Slechts één toetsenbord gevonden op basis van uw locatie
+Open source BitTorrent-client
+Open source en platformonafhankelijke C / C ++ IDE
+Open-source kantoorsoftwarepakket
+Open source versiecontrolesysteem
+opensource videodrivers
+Open source webbrowser
+Of u kunt een wisselbestand toewijzen
+tussenschot
+Wanden
+Wachtwoorden mogen niet leeg zijn
 Wachtwoorden komen niet overeen
 Plasma 5 en accessoirespakket
-Controleer ze alstublieft voordat Feliz de installatie begint
+Controleer ze voordat Feliz met de installatie begint
 Kies alstublieft een land
-Kies alstublieft de taal voor het geïnstalleerde systeem
-Kies alstublieft uw dichtstbijzijnde locatie
-Vul alstublieft de gewenste maat in
-Vul alstublieft de eerste letter van
-Vul alstublieft het nummer van uw selectie in
-Druk op een willekeurige toets om verder te gaan
-Druk op Enter om door te gaan
+Kies alstublieft een
+Voer de gewenste grootte in
+Lees het partitiebestand voor advies.
 Selecteer een stad uit deze lijst
-Selecteer een partitie die u wilt gebruiken voor / root
+Selecteer een partitie om te gebruiken voor / root
 Selecteer het bestandssysteem voor
 Probeer het opnieuw
-Voorbereidingen compleet
-Voorbereiden en monteren van partities
-Lokale diensten voorbereiden
-druk op een willekeurige toets
-Druk op Enter om verder te gaan
-Druk op Enter om met deze instellingen te installeren, of
+Voorbereidingen voltooid
+Lokale services voorbereiden
+Druk op Enter om te installeren met deze instellingen, of
 Programming
-Rangschikking spiegels - even geduld aub ...
-Reader voor PDF en andere documentformaten
-Voer het wachtwoord opnieuw in
-Het opnieuw formatteren van een bestaande partitie kan onverwachte gevolgen hebben
-Als u het opnieuw formatteert, verandert het UUID, en als dit ruilt
-Als u het opnieuw formatteert, worden alle gegevens die er op het moment zijn verwijderd, verwijderd
-blijven, of u kunt een ruilbestand toewijzen
-(Vergeet niet, dit is auto-partitie en alle gegevens
+Het rangschikken van spiegels - een ogenblik geduld
+Raster grafische editor van KDE
+Reader voor PDF- en andere documentindelingen
+Keer terug naar de lijst
 Root- en gebruikersinstellingen
-/ root partitie
 seconden
-zie wachtwoorden als u ze invoert
-Selecteer een partitie om te ruilen van degenen die
-Selecteer het apparaat waar Grub geïnstalleerd moet worden
-Selecteer uw toetsenbord of Exit om opnieuw te proberen
-Zullen we met deze taal installeren?
+zie wachtwoorden terwijl u ze invoert
+Selecteer een partitie voor
+Selecteer het apparaat waarop Grub moet worden geïnstalleerd
+Selecteer je toetsenbord of druk op Exit om het opnieuw te proberen
+Stel de grootte van uw wisselbestand in
 Shutdown Reboot
-Eenvoudig, schoon dock van de Pantheon desktop omgeving
+Sluit deze sessie af
+Eenvoudig, schoon dock vanuit de Pantheon-desktopomgeving
 Eenvoudig paneel / taakbalk speciaal ontwikkeld voor Openbox
 Eenvoudige maar krachtige video transcoder
 Grootte
-Slick, modern desktop van het Mint team
-Kleine en eenvoudige tekstfusie-tool
+Gladde, moderne desktop van het Mint-team
+Kleine en eenvoudige tekst samenvoeg tool
 software die u wilt installeren
-Sorry, geen toetsenborden gevonden op basis van uw locatie
-Spreadsheet programma van GNOME
-Stacking window manager voor het X Window System
-Stacking window manager en bibliotheken om het bureaublad te beheren
+Sorry, geen keyboards gevonden op basis van je locatie
+Spreadsheet-programma van GNOME
+Stackmanager voor het X Window-systeem
+Stapelen van windowmanager & bibliotheken om desktop te beheren
+Start Nano zodat u handmatig de localisatie kunt wijzigen?
 Succes!
-Swap kan iets zijn van 512MiB omhoog maar
-/ swap partitie
-Swap partitie
-systeem zal niet meer toegang hebben tot de partitie
+Swap kan van alles zijn vanaf 512MiB maar
 taakbalken
-beëindigen om u op een andere manier te verdelen
-testen
-Dat is al de voorbereiding gedaan
-De bestandsmanager van LXDE
+Tekstgebaseerde browser
+De bestandsbeheerder van LXDE
 De volgende extra's zijn geselecteerd
 De volgende partities zijn beschikbaar
 De volgende partities zijn geselecteerd
-het eiland of de groep waar u zich bevindt
-De Long-Term Support-kernel (LTS) biedt stabiliteit
-De partitie die u hebt gekozen is gemarkeerd
+De nieuwste kernel heeft alle nieuwe functies
+De langetermijn-ondersteunde kernel (LTS) biedt stabiliteit
 Er zijn
 Er zijn geen partities beschikbaar voor swap
-Er zijn geen partities op het apparaat, en in ieder geval
-Er is een begeleide handmatige partitie-optie
+Er zijn geen partities op het apparaat
 Er is alleen ruimte voor een
-Er is geen ruimte voor een / swap partitie, maar u kunt
+Er is geen ruimte voor a
 Er is ruimte voor een
-De / root partitie mag niet minder zijn dan 8GiB
-Dit zijn de beschikbare apparaten
-Dit zijn de instellingen die u hebt ingevoerd.
-De geselecteerde partitie
-De geselecteerde partitie
-Deze faciliteit is beperkt tot het creëren
+Dit zijn de instellingen die u hebt ingevoerd
 Dit is genoeg voor
-Dit is gewoon genoeg voor een basis
+Dit is net genoeg voor een basis
 Dit is niet genoeg voor een installatie
-Dit moet van type vfat zijn en kan ongeveer 512MiB bedragen
+Deze moet van het type vfat zijn en kan ongeveer 512M zijn
 Dit moet in de vorm / dev / sdx of vergelijkbaar zijn
-Dit zal alle gegevens wissen
-Tiling window manager, volledig afgeschreven
-Om terug te gaan, laat leeg
-om je desktop omgeving handmatig te starten
-Gereedschap om partities te maken / te verwijderen / te wijzigen
-Te veel om alles te tonen
-Om de systeemklok in te stellen, alsjeblieft eerst
-Traditioneel bureaublad van het Mint team
-Traditioneel, lichtgewicht bureaublad
-twee partities zijn nodig - één voor EFI / boot, en
-begrijp dat de / root niet wordt geformatteerd
-Toetsen bijwerken
-Gebruik pijltjestoetsen om te bewegen. Enter om te selecteren
+Hiermee worden alle gegevens gewist
+Tiling window manager, volledig vanuit het niets geschreven
+Hulpmiddel om partities te maken / verwijderen / van grootte te veranderen
+Stel eerst de systeemklok in
+Traditionele desktop van het Mint-team
+Traditionele, lichtgewicht desktop
+Kan lijst met mirrors van Arch Linux niet ophalen
+Gebruik een wereldwijde spiegel
+Gebruik de cursortoetsen omhoog / omlaag
+Gebruik Guided Manual Partitioning
 Gebruikersnaam
-Gebruikersnaam (momenteel
-utilities en maak de juiste instellingen voor u
+De lijst gebruiken die bij de Arch iso is geleverd
 Vector grafische editor
-virtuele box guest modules
-Waarschuwing: Btrfs ondersteunt geen swap-bestanden
-We beginnen met de
-Welke wilt u voor deze installatie gebruiken?
-terwijl de nieuwste kernel alle nieuwe functies heeft
-zal niet worden geïnstalleerd, en u zal moeten maken
+VirtualBox
+Waarschuwing: Btrfs biedt geen ondersteuning voor verwisselbare bestanden
+Welke wil je gebruiken voor deze installatie?
+Wifi-optie
+zal niet worden geïnstalleerd, en u zult moeten maken
 window_managers
-Window manager die de NeXT gebruikersinterface emuleert
-Draadloze gereedschappen
-Wilt u een van de volgende gebruiken?
-X
+Window-manager die de NeXT-gebruikersinterface emuleert
+Draadloze hulpmiddelen
+Y
 Ja
-U kunt meer items toevoegen of selecteer items die u wilt verwijderen
-U kunt het nieuwe FelizOB-bureaublad, a
-U kunt ervoor kiezen om het te verlaten zoals het is, maar moet
-U kunt ervoor kiezen om het te verlaten zoals het is, door af te sluiten, maar niet
+U kunt meer items toevoegen of items selecteren om te verwijderen
+U kunt een wisselbestand toewijzen
+U kunt de nieuwe FelizOB-desktop kiezen, a
+u kunt het adres van een spiegel handmatig invoeren, of
 U kunt nu kiezen uit een van de andere lijsten
-U kunt alle resterende ruimte op het apparaat gebruiken, indien gewenst
+U kunt desgewenst alle resterende ruimte op het apparaat gebruiken
+je kunt een van de wereldwijde Arch Linux-mirrors gebruiken
 Jij hebt
-U heeft ervoor gekozen om het pad voor Grub handmatig in te voeren
-U wilt mogelijk ruimte voor een / thuispartitie achterlaten
-U moet een geldig bevestigingspunt invoeren
-Je moet M, G of% bevatten
-Je moet M of G bevatten
-Je hebt nu
+U hebt ervoor gekozen om handmatig het pad voor Grub in te voeren
+Misschien wilt u ruimte laten voor een
+U moet M of G opnemen
+Je moet M of G of% opnemen
+Dat heb je nu
 Uw apparaat heeft
 Uw apparaat heeft alleen
-identificeren uw apparaat op een netwerk Als u niet één invoert,
-uw dichtstbijzijnde grote stad
-U kunt kiezen uit een lijst van landen die
-u wilt maken. Wanneer klaar, zal Feliz de schijf wissen
+U kunt kiezen uit een lijst met landen die
+je wilt creëren. Als hij klaar is, veegt Feliz de schijf schoon
 Zone / subzone zal zijn
-Afrika
-Amerika
-Antarctica
-Noordpoolgebied
-Azië
-Atlantische Oceaan
-Australië
-Europa
-Indiaas
-grote Oceaan
-UTC
-Handmatig_invoeren
---------------
-Regressie
-idealiter meer, tot 20G
-Kies alstublieft een
-Annuleer
-De / root-partitie mag niet kleiner zijn dan 8G
-Afgewerkt
-We beginnen met de
-De laatste kernel heeft alle nieuwe functies
-partition
-Feliz zal
-maak een nieuwe partitietabel
-hebben Arch Linux-mirrors
-Rankspiegels
-Annuleer de installatie

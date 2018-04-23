@@ -1,393 +1,295 @@
-Brazilian portuguese language file for Feliz
-by Fábio Nogueira (fnogueira@gnome.org) 31 dezembro 2017
-------------------------------------------------------------------
-Notes to translators
---------------------
-1) Please translate line #1 to say the translation language
-2) Please translate line #2 to say your name and email address
-   (it is your work and you deserve to be recognised for it);
-3) Translations start at line #19
-4) Please translate all lines at exactly the same line number, and do not add any lines
-   (this is very important);
-5) If any translated line will be over 80 characters, please re-phrase to make it shorter;
-6) Save your file as <Language>.lan
-   (where <Language> is the native name of the language - for example: Español.lan)
-7) If you have any questions or problems, please email or contact me through Facebook
--------------------------------------------------------------------------------------
-Thank you for your contribution to Feliz
-----------------------------------------
-Conjunto de criação de gráficos 3D
+# Portuguese language file for Feliz
+# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# --------------------------------------------------------------
+# Notes to translators
+# Use a text editor, such as notepad, and turn Line-numbers on
+# ------------------------------------------------------------
+# 1) Please translate line #1 (above);
+# 2) Translate line #2 (above) to change from my name and email address to yours
+#     (it is your work and you deserve to be recognised for it);
+# 3) Translations start at line #20
+# 4) Please translate all lines at exactly the same line number as in this file,
+#     and do not add or delete any lines (this is very important);
+# 5) If any translated line is over 80 characters, please re-phrase to make it shorter
+# 6) Save your file as <Language>.lan
+#    (where <Language> is the English name of the language - for example: Spanish.lan)
+#7) If you have any questions or problems, please email or contact me through Facebook
+# -------------------------------------------------------------------------------------
+# Thank you for your contribution to Feliz
+# ----------------------------------------
+Suíte de criação de gráficos 3D
 Acessórios
-adicionado. Escolha outro país, ou ' '
 Adicionado até agora
-Adicionando codecs
 Adicionando usuário e configurando grupos
 Um gerenciador de exibição fornece uma tela de login gráfica.
-Conjunto avançado de edição de imagem
-Editor de texto avançado & IDE
-Um nome da máquina é necessário. Este será um nome único para identificar
-alocado para /root
-Alocar o tamanho do seu arquivo de swap
-Permitir que o Feliz particione todo o dispositivo
-Tudo que precisamos é definir o tamanho da sua partição /boot
-arranjos alternativos para iniciar o seu novo sistema.
-Alternativamente, digite ' ' para iniciar novamente
-embora você pode querer deixar espaço para uma partição /swap
-e criar uma nova tabela de partição com suas configurações.
-e também uma partição /home.
-e configurar as partições que você definiu
-e você pode ficar sem espaço durante a instalação ou posteriormente
-Uma partição é necessária para o /root
-Você está em algum desses locais?
-Você tem certeza que deseja continuar?
-Um simples scanner gráfico
-atribua um arquivo de swap. É aconselhável permitir algum swap
-automático
-disponível no dispositivo escolhido
-Arch_Linux_Básico
-partição /boot
-Budgie é o desktop padrão do Solus OS
-Construir_Meu_Sistema
-Construir seu próprio sistema, escolhendo os
-mas se você pode alocar um arquivo de swap se desejar,
-Calendário & Gerenciador de tarefas
-usuário padrão chamado 'archie' será configurado
+Suíte de edição de imagens avançada
+Editor de texto avançado e IDE
+Um nome de host é necessário. Este será um nome exclusivo para
+Permitir que Feliz particione o dispositivo
+arranjos alternativos para inicializar seu novo sistema
+embora isso possa ser mais lento que um espelho local
+e crie uma nova tabela de partições com suas configurações
+e talvez também um
+e você pode ficar sem espaço durante a instalação ou em algum momento posterior
+Servidor web Apache
+Uma partição é necessária para / root
+Você está em algum desses estados?
+Tem certeza que deseja continuar?
+Um simples scanner GUI
+Costas
+Basic_Arch_Linux
+Budgie é a área de trabalho padrão do Solus OS
+Build_My_Own
+Construa seu próprio sistema, escolhendo o
+mas você pode atribuir um arquivo de swap
+Calendário e gerenciador de tarefas
+Cancelar
+Cancelar instalação
 Escolha um item
-Escolha a partir de partições existentes
-Escolha um ou Sair tentar novamente
-Escolha uma ou ' ' para procurar uma alternativa
-escolha o fuso horário de sua localização
-Escolha o seu kernel
+Escolha um ou Sair para tentar novamente
+Escolha o local principal para o seu sistema
+escolha a Zona Mundial da sua localização
+Escolha seu kernel
 ferramentas cli
-Manipulação de imagem via linha de comando
-sistema leve e completo construído no Openbox
-Parabéns, a instalação está completa!
-IDE multi-plataforma para Object Pascal
-Dock customizável & aplicativo lançador
-nome da máquina 'arch-linux' padrão será utilizado.
-Apagar
-ambiente de trabalho, etc, a partir das seguintes categorias:
-Ambientes_de_Trabalho
+Manipulação de imagens na linha de comando
+Completo sistema leve construído no Openbox
+IDE de plataforma cruzada para objeto Pascal
+Aplicativo personalizável de dock & launcher
+usuário padrão chamado 'archie' será configurado
+Desktop Documentos Downloads Música Fotos Modelos Públicos Vídeos
+ambiente de trabalho, etc., das seguintes categorias
+Desktop_Environments
+Desktop do projeto Deepin
 Programa de editoração eletrônica
-Tempo e informações do sistema
+Tempo de área de trabalho e informações do sistema
 dispositivos disponíveis
-Aplicativo de gravação de disco do GNOME
+Aplicativo de gravação de disco do Gnome
 Gerenciador de exibição
-O gerenciador de exibição já está definido como
-Exibe informações sobre seu hardware e Sistema operacional
-Você quer aceitar isso? Selecione Não para procurar alternativas
-Deseja alocar um arquivo de swap?
-Deseja alterar?
-Deseja reformatar?
-Gerenciador de janela de mosaico dinâmico (requer o compilador Haskell)
-Cliente BitTorrent fácil de usar
-Editor de vídeo non-linear fácil de usar
+Exibe informações sobre seu hardware e sistema operacional
+Exibir o arquivo 'particionamento'
+Feito
+baixar o sistema e os aplicativos do Arch Linux
+Você deseja aceitar isso? Selecione Não para procurar alternativas
+Você deseja alocar um arquivo de swap?
+Você deseja continuar?
+Gerenciador dinâmico de janelas lado a lado (requer o compilador Haskell)
+Editor de vídeo não linear e fácil de usar
 Editor de vídeo fácil de usar
-Aplicativo de gerenciamento de biblioteca de E-book
-Digite 1, 2 ou um novo rótulo
-Digite um nome da máquina para o seu computador
-Digite um ponto de montagem para
-Digite um nome para o usuário primário do seu novo sistema
-Digite uma senha para o
-Iniciando a fase de instalação automática
-Digite um novo nome de usuário (atualmente
-digite o número de dados a serem alterados
-Digite o caminho onde o Grub será instalado
-digite ' ' para ver uma lista
-Sair
-Sair para permitir particionar o dispositivo
-Sair para finalizar
-Navegador extensível do Mozilla
-Editor de texto customizável e extensível
-Menu dinâmico, leve e rápido para o X
-Cliente rápido e confiável de FTP, FTPS e SFTP
+Aplicativo de gerenciamento de biblioteca de e-book
+Partição EFI: 550MiB
+Por exemplo: 'dvorak' ou 'nos'
+English.lan
+Digite um nome de host para o seu computador
+Insira um ponto de montagem para
+Digite um nome para o usuário principal do novo sistema
+Digite uma senha para
+Entrando na fase de instalação automática
+Entre manualmente
+Digite o número de dados para alterar
+Saída
+Saia de Feliz para a linha de comando
+Navegador Extensível da Mozilla
+Editor de texto extensível e personalizável
+Menu dinâmico rápido e leve para X
+Cliente FTP, FTPS e SFTP rápido e confiável
 Leitor de áudio rico em recursos
-Cliente de e-mail do Mozilla rico em recursos
-Feliz - Script de instalação do Arch Linux
-Feliz agora oferece-lhe uma escolha. Você pode ...
-FelizOB_Desktop
-Feliz - Versão Teste
-Feliz irá agora criar uma nova tabela de partição
-Por fim, precisamos definir as senhas.
-Instalação concluída em
-Primeiro você deve selecionar uma para utilizar para /boot EFI
+Cliente de email rico em recursos do Mozilla
+Feliz precisa de pelo menos um espelho do qual
+Feliz agora oferece a você uma escolha. Você pode ...
+FelizOB_desktop
+Finalmente, precisamos definir senhas
+Concluída a instalação em
+Primeiro você deve selecionar um para usar para EFI / boot
 fontes
-'>' para a próxima página
-'<' para a página anterior
 para o seu país ou idioma e uma lista será exibida
-DE Completo e moderno
+DE completo, moderno DE
 Processador de texto completo
-Aplicativo de dock totalmente desenvolvido
-Gerando lista de espelhos
-Navegador WebKitGTK+ do GNOME (conhecido como Web)
+Aplicação doca totalmente desenvolvida
+Gnome WebKitGTK + navegador (também conhecido como Web)
 Gráfico
 Ferramentas gráficas
-Grub
 O Grub será instalado em
-Interface sane baseado em GTK
-IDE GTK+ com suporte para plug-ins Python
-Gravador gráfico de CD
-guiado
-Ferramenta de particionamento manual guiado
-Calculador acessível de desktop
-Editor de texto leve e acessível do LXDE
-tem espelhos do Arch Linux. É possível selecionar mais de
-Aqui estão as partições disponíveis
-Aqui está a lista de partições disponíveis:
-Aqui você pode definir o tamanho e o formato das partições
-Gerenciador de janelas altamente dinâmico e configurável
-partição /home
-Nome da máquina
-Nome da máquina (atualmente
-o ideal é ser maior até 20Gb.
-Em caso de dúvida, escolha o
-Em caso de dúvida, consulte
-Se for, o Feliz pode instalar os utilitários do Virtualbox
-Se você tem dúvidas quanto ao particionamento, você deve ler a Wiki do Arch
-Se você escolher não fazer nada agora, o script irá
-Se você não instalar um gerenciador de exibição, você terá
-Se você não criar um nome de usuário aqui, um
-Se você sabe o código do layout do seu teclado, por favor digite
-Se você pular este passo, nenhum swap será alocado
-Se você deseja apagar este rótulo, digite 2
-Se você deseja entrar com um novo rótulo, digite-o no prompt
-Se você deseja manter este rótulo, digite 1            
+Front-end sane baseado em GTK
+GTK + IDE com suporte para plugins Python
+Gravador de CD GUI
+Calculadora de mesa acessível
+Editor de texto leve e prático do LXDE
+tem espelhos do Arch Linux.
+tem que iniciar seu ambiente de desktop manualmente
+Aqui estão as partições que estão disponíveis
+Aqui está uma lista de partições disponíveis
+Aqui você pode definir o tamanho e formato das partições
+Gerenciador de janelas dinâmico altamente configurável
+nome de anfitrião
+o ideal é mais, até 20GiB
+identificar seu dispositivo em uma rede. Se você não entrar
+Em caso de dúvida, escolha
+Em caso de dúvida, consulte o Arch Wiki
+Se você não instalar um gerenciador de exibição,
+Se você não quiser usar um da lista do Arch
+Se você não criar um nome de usuário aqui,
+Se você souber o código do layout do seu teclado, digite
+Se você pular este passo, nenhuma troca será alocada
 Se você deseja usar um, selecione-o na lista
-Visualizador de imagem & editor básico
-instalação, mas você deve escolher somente aplicativos leves
+Visualizador de imagens e editor básico
+instalação, mas você deve escolher apenas aplicativos leves
 Instalando
-Instalar os utilitários do Virtualbox guest?
-Ambiente integrado de desenvolvimento (IDE)
+Instalar utilitários convidados do Virtualbox?
+Instalar ferramentas sem fio?
+Ambiente de desenvolvimento integrado (IDE)
 Internet
-já está formatado como uma partição swap
-já está na sua lista de compras
-está atualmente formatado para
-Parece que o Feliz está em execução no VirtualBox.
-não é necessário exceder 4Gb
+não é necessário exceder 4GiB
 Não é recomendado misturar o sistema de arquivos btrfs com outros
-isso agora. Caso contrário, tente inserir uma abreviatura de duas letras
-Não deve ser inferior a 512Mb e não precisa ser maior do que 1Gb
-Gerenciador de janela do Joe - gerenciador de janelas super leve
-Apenas instalar um Arch Linux básico.
-Manter
-Kernel
-kernel e sistemas principais
+Isso agora. Se não, tente digitar uma abreviação de duas letras
+Não deve ser inferior a
+Quero digitar um endereço
+Joe's Window Manager - gerenciador de janelas pena
+Basta instalar um Arch Linux básico
+Núcleo
+sistemas kernel e core
 O teclado é
-deixar
 WM leve, rápido e versátil
-Navegador leve de internet
-DE leve e moderno baseado em Qt
-WM leve e empilhamento configurável
-DE leve e altamente configurável
-Painel de desktop leve e compatível com NETWM
-Emulador de terminal leve para o LXDE
-Painel desktop X11 leve (parte do desktop LXDE)
+Navegador da web leve
+Leve e moderno baseado em Qt DE
+Empilhamento leve e configurável WM
+Leve, altamente configurável DE
+Painel de mesa leve e compatível com NETWM
+Emulador de terminal leve do LXDE
+Painel de área de trabalho leve X11 (parte da área de trabalho do LXDE)
 Carregando
-Carregando tradução
-Localidade será configurada para
-Reprodutor de video meio pesado
+O local será configurado para
+Media player médio
 minutos
+Espelhos
+M = Megabytes, G = Gigabytes [por exemplo: 512M ou 2G]
 Multimídia
-Em seguida, selecionaremos espelhos para baixar seu sistema.
+N
+Em seguida, vamos selecionar espelhos para baixar seu sistema.
 Não
 Nenhum gerenciador de exibição selecionado
 Nenhum teclado encontrado contendo
-Editar_locale.gen
 Nenhum
-Nenhum_desses
-Nenhum provisão foi criada para o swap
-Observe que se você não selecionar um dispositivo, o Grub
-Observe que você não poderá
-Iniciar o Nano para você possa descomentar manualmente os locales?
+Nenhum desses
+Nenhuma provisão foi feita para swap
+Observe que, se você não selecionar um dispositivo, o Grub
+Note que você não será capaz de
 Agora selecione sua localização em
-Agora você tem a opção de adicionar extras, como um navegador de internet,
-Office
-de espaço restante alocado para
-Ok
-um, mas adicionar muitos desacelerá sua instalação.
-uma partição é necessária para o diretório root.
-Apenas digite um dispositivo, não inclua um número de partição
-Somente um gerenciador de exibição pode ser ativo
+Agora você tem a opção de adicionar extras, como um navegador da web
+Escritório
+Está bem
+um, o nome de host padrão de 'arch-linux' será usado
+Apenas insira um dispositivo, não inclua um número de partição
 Apenas um teclado encontrado com base na sua localização
-Área_de_trabalho Documentos Downloads Música Imagens Público Modelos Vídeos
-no dispositivo escolhido será destruído)
-Abrir o cfdisk para que eu possa particionar manualmente
-Cliente BitTorrent de código aberto
-IDE de código aberto e cross-platform C/C++
+Cliente de código aberto BitTorrent
+Código aberto e plataforma C / C ++ IDE
 Conjunto de software de escritório de código aberto
 Sistema de controle de versão de código aberto
-drivers de vídeo de código aberto
-Navegador de internet de código aberto do Google
-ou
-ou escolha Sair para terminar o particionamento
-ou escolha Sair para finalizar esta parte da configuração
-ou escolha Sair para deixá-lo como está
-ou digite ' ' para ver uma lista:
-ou Sair para tentar outra vez
-ou, para alocar todo o espaço restante, digite
-ou ' ' para sair
-ou você pode sair agora para usar uma ferramenta externa
-a partição pode ter consequências inesperadas
-Particionamento de
-a partição é usada por outro sistema operacional, que
-As senhas não podem ser em branco
-As senhas não coincidem
+drivers de vídeo opensource
+Navegador da Web de código aberto
+Ou você pode atribuir um arquivo de swap
+partição
+Partições
+As senhas não podem ficar em branco
+Senhas não combinam
 Plasma 5 e pacote de acessórios
-Por favor, verifique antes que o Feliz comece a instalação
+Por favor, verifique antes de Feliz começar a instalação
 Por favor escolha um país
-Por favor, escolha o idioma principal para o seu sistema
-Escolha a sua localização mais próxima.
-Digite o tamanho desejado
-Digite a primeira letra da
-Digite o número da sua seleção
-Por favor, pressione qualquer tecla para continuar
-Por favor, pressione Enter para continuar
-Selecione uma cidade desta lista
-Selecione uma partição a ser usada para /root
-Selecione o sistema de arquivos para
-Por favor tente novamente
-Preparações finalizadas
-Preparando e montando partições
-Preparando os serviços locais
-Pressione qualquer tecla
-Pressione Enter para continuar
-Pressione Enter para instalar com essas configurações, ou
+Por favor escolha um
+Por favor insira o tamanho desejado
+Por favor, leia o arquivo 'particionamento' para conselhos.
+Por favor selecione uma cidade desta lista
+Por favor, selecione uma partição para usar / root
+Por favor, selecione o sistema de arquivos para
+Por favor, tente novamente
+Preparações completas
+Preparando serviços locais
+Pressione Enter para instalar com essas configurações ou
 Programação
-Classificando os espelhos - aguarde ...
+Espelhos de classificação - por favor aguarde
+Editor de gráficos raster do KDE
 Leitor para PDF e outros formatos de documentos
-Digite novamente a senha para o
-reformatar uma partição existente pode ter consequências inesperadas
-Reformatar mudará o UUID, e se esse swap
-Reformatar irá remover todos os dados atualmente nele
-permanece, ou você pode alocar um arquivo swap
-(Lembre-se, isso é particionamento automático e qualquer dado
-Configurações do Root e usuário
-partição /root
+Voltar para a lista
+Configurações raiz e usuário
 segundos
-ver as senhas ao inseri-las.
-Selecione uma partição para swap dos que
-Selecione o dispositivo onde o Grub deve ser instalado.
-Selecione seu teclado ou Sair para tentar novamente
-x
-Desligar Reiniciar
-Dock simples e limpo do ambiente de trabalho do Pantheon
-Painel simples / barra de tarefas simples desenvolvido especificamente para o Openbox
-Simples, mas poderoso decodificador de vídeo
+veja senhas conforme você as digita
+Selecione uma partição para
+Selecione o dispositivo onde o Grub deve ser instalado
+Selecione o seu teclado ou Sair para tentar novamente
+Definir o tamanho do seu arquivo de troca
+Reinicialização de desligamento
+Encerre esta sessão
+Dock simples e limpo do ambiente de desktop Pantheon
+Painel simples / barra de tarefas desenvolvido especificamente para o Openbox
+Simples, mas poderoso transcodificador de vídeo
 Tamanho
-Desktop limpe e moderno time Mint
+Área de trabalho moderna e elegante da equipe Mint
 Ferramenta de mesclagem de texto pequena e simples
-programas que deseja instalar
+software que você deseja instalar
 Desculpe, nenhum teclado encontrado com base na sua localização
-Programa de planilha do GNOME
-Gerenciador de janela em empilhamento para o sistema de janela X
-Gerenciador de janela em empilhamento & bibliotecas para genrenciar o desktop
+Programa de planilhas do GNOME
+Gerenciador de janela de empilhamento para o sistema X Window
+Empilhando gerenciador de janelas e bibliotecas para gerenciar a área de trabalho
+Iniciar o Nano para que você possa manualmente remover o comentário das localidades?
 Sucesso!
-O swap pode ser qualquer coisa de 512Mb pra cima, mas
-partição /swap
-Partição Swap
-o sistema não poderá mais acessar a partição
-Barras_de_tarefa
-encerrar para deixar que você particione de alguma outra maneira.
-Teste
-Isso é toda a preparação feita
-O gerenciador de arquivo do LXDE
+O swap pode ser de 512MiB para cima, mas
+Barras de Tarefas
+Navegador baseado em texto
+O gerenciador de arquivos do LXDE
 Os seguintes extras foram selecionados
 As seguintes partições estão disponíveis
 As seguintes partições foram selecionadas
-a ilha ou grupo onde você está localizado
+O kernel mais recente tem todos os novos recursos
 O kernel de suporte a longo prazo (LTS) oferece estabilidade
-A partição que você escolheu é rotulada
-Tem
-Não há partições disponíveis para swap
-Não há partições no dispositivo, e pelo menos
-Existe uma opção de particionamento manual guiado
+tem
+Não há partições disponíveis para troca
+Não há partições no dispositivo
 Há apenas espaço para um
-Não há espaço para uma partição /swap, mas você pode
+Não há espaço para um
 Há espaço para um
-A partição /root não deve ser inferior a 8Gb
-Estes são os dispositivos disponíveis
-Estas são as configurações que você digitou.
-A partição selecionada
-As partições selecionadas
-Esta facilidade é restrita a criação de
-Isso é o suficiente para
-Isso é o suficiente apenas para uma instalação básica
+Estas são as configurações que você digitou
+Isso é suficiente para
+Isso é apenas o suficiente para uma base
 Isso não é suficiente para uma instalação
-Isso deve ser do tipo vfat e pode ser cerca de 512Mb
-Isso deve estar na forma /dev/sdX ou similar
-Isto irá apagar qualquer dado em
-Gerenciador de janelas em 'ladrilhos', escrito completamente do zero
-Para voltar, deixe em branco
-que iniciar o seu ambiente de trabalho manualmente.
-Ferramenta para criar/apagar/redimensionar partições
-Muitos para exibir todos
-Para configurar o relógio do sistema, primeiro
-Desktop tradicional do time Mint
-Desktop leve e tradicional
-duas partições são necessárias - uma para o /boot EFI, e
-entenda que não reformatamos o /root
-Atualizando as chaves
-Use as setas para mover. E <Enter> para selecionar
-Nome do usuário
-Nome do usuário (atualmente
-guest e fazer as configurações apropriadas para você.
+Isso deve ser do tipo vfat e pode ser de cerca de 512M
+Isso deve estar no formato / dev / sdx ou similar
+Isso apagará todos os dados
+Gerenciador de janelas lado a lado, completamente escrito do zero
+Ferramenta para fazer / excluir / redimensionar partições
+Para definir o relógio do sistema, por favor, primeiro
+Área de trabalho tradicional da equipe Mint
+Desktop tradicional e leve
+Não é possível buscar a lista de espelhos do Arch Linux
+Use um espelho mundial
+Use as teclas de cursor para cima / baixo
+Use o particionamento manual orientado
+Nome de usuário
+Usando a lista fornecida com o Arch iso
 Editor de gráficos vetoriais
-Módulos do virtualbox guest
-Aviso: O btrfs não suporta arquivos swap
-Começamos com o
+VirtualBox
+Aviso: o Btrfs não suporta arquivos de troca
 Qual você deseja usar para esta instalação?
-enquanto o último kernel possui todos os novos recursos.
-não será instalado e você tera que fazer
-Gerenciadores_de_Janela
-Gerenciador de janelas que emula a interface do usuário NeXT
-Ferramentas Wireless
-Gostaria de usar um dos seguintes?
-x
-Sim
-Você pode adicionar mais itens, ou selecionar itens para apagar
-Você pode optar pelo novo FelizOB Desktop, um
-Você pode optar por deixá-lo como está, mas deve
-Você pode optar por deixá-lo como está, selecionando Sair, mas não
-Agora você pode escolher dentre as listas abaixo
-Você pode usar todo o espaço restante no dispositivo se desejar,
+Opção Wifi
+não será instalado, e você terá que fazer
+Window_Managers
+Gerenciador de janelas que emula a interface do usuário do NeXT
+Ferramentas sem fio
+Y
+sim
+Você pode adicionar mais itens ou selecionar itens para excluir
+Você pode atribuir um arquivo de troca
+Você pode escolher o novo desktop FelizOB, um
+você pode inserir o endereço de um espelho manualmente ou
+Agora você pode escolher qualquer uma das outras listas
+Você pode usar todo o espaço restante no dispositivo, se desejar
+você pode usar um dos espelhos do Arch Linux em todo o mundo
 Você tem
-Você optou por inserir manualmente o caminho para Grub
-Você pode querer deixar espaço para uma partição /home
-Você deve digitar um ponto de montagem válido
-Você deve incluir M, G ou %
+Você escolheu inserir manualmente o caminho para o Grub
+Você pode querer deixar espaço para um
 Você deve incluir M ou G
-Agora você tem
+Você deve incluir M ou G ou%
+Você tem agora
 Seu dispositivo tem
-Seu dispositivo tem somente
-seu dispositivo numa rede. Se você não inserir um, o
-sua cidade principal mais próxima
-Você poderá escolher entre uma lista de países que
-que deseja criar. Quando estiver pronto, o Feliz vai limpar o disco
-Zona/subZona serão
-África
-América
-Antártica
-Ártico
-Ásia
-Atlântico
-Austrália
-Europa
-India
-Pacífico
-UTC
-Entrar_Manualmente
---------------
-Regress
-idealmente mais, até 20G
-Escolha um
-Cancelar
-A partição / root não deve ser inferior a 8G
-Acabado
-Começamos com o
-O último kernel possui todos os novos recursos
-partition
-Feliz vai
-crie uma nova tabela de partição
-tem os reflexos do Arch Linux
-Espelhos de classificação
-Cancelar a instalação
+Seu dispositivo tem apenas
+Você poderá escolher em uma lista de países que
+você deseja criar. Quando pronto, Feliz limpará o disco
+Zona / subzona será

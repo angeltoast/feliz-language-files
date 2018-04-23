@@ -1,393 +1,295 @@
-Italian language file for Feliz
-by Elizabeth Audrey Mills (liz@feliz.one) and Google Translate 31 dicembre 2017
-------------------------------------------------------------------
-Notes to translators (turn Line-numbers on in your text editor)
---------------------
-1) Please translate line #1 to say the translation language;
-2) Please translate line #2 to say your name and email address;
-   (it is your work and you deserve to be recognised for it)
-3) Translations start at line #19
-4) Please translate all lines at exactly the same line number,
-    and do not add or delete any lines (this is very important)
-5) If any translated line will be over 80 characters, please re-phrase to make it shorter
-6) Save your file as <Language>.lan
-   (where <Language> is the native name of the language - for example: Español.lan)
-7) If you have any questions or problems, please email or contact me through Facebook
--------------------------------------------------------------------------------------
-Thank you for your contribution to Feliz
-----------------------------------------
+# Italian language file for Feliz
+# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# --------------------------------------------------------------
+# Notes to translators
+# Use a text editor, such as notepad, and turn Line-numbers on
+# ------------------------------------------------------------
+# 1) Please translate line #1 (above);
+# 2) Translate line #2 (above) to change from my name and email address to yours
+#     (it is your work and you deserve to be recognised for it);
+# 3) Translations start at line #20
+# 4) Please translate all lines at exactly the same line number as in this file,
+#     and do not add or delete any lines (this is very important);
+# 5) If any translated line is over 80 characters, please re-phrase to make it shorter
+# 6) Save your file as <Language>.lan
+#    (where <Language> is the English name of the language - for example: Spanish.lan)
+#7) If you have any questions or problems, please email or contact me through Facebook
+# -------------------------------------------------------------------------------------
+# Thank you for your contribution to Feliz
+# ----------------------------------------
 Suite di creazione grafica 3D
 Accessori
-aggiunto. Scegli un altro paese, o ''
 Aggiunto finora
-Aggiunta di codec
 Aggiunta di utenti e impostazione di gruppi
-Un gestore di visualizzazione fornisce una schermata di accesso grafica
-Suite di editing di immagini avanzate
+Un display manager fornisce una schermata di accesso grafica.
+Suite di editing avanzato di immagini
 Editor di testo avanzato e IDE
-È necessario un nome host. Questo sarà un nome univoco da identificare
-assegnato a / root
-Assegnare la dimensione del file di swap
-Consenti a feliz di dividere l'intero dispositivo
-Tutto ciò che dobbiamo impostare qui è la dimensione della tua partizione / boot
-alternative per l'avvio del nuovo sistema
-In alternativa, entra '' per ricominciare
-anche se si desidera lasciare spazio per una partizione / swap
-e creare una nuova tabella delle partizioni con le impostazioni
-e forse anche una partizione / home
-e impostare le partizioni che hai definito
-e potresti perdere spazio durante l'installazione o in un momento successivo
+È necessario un nome host. Questo sarà un nome univoco a
+Permetti a Feliz di partizionare il dispositivo
+disposizioni alternative per l'avvio del nuovo sistema
+anche se questo potrebbe essere più lento di uno specchio locale
+e crea una nuova tabella delle partizioni con le tue impostazioni
+e forse anche a
+e potresti esaurire lo spazio durante l'installazione o in un secondo momento
+Server Web Apache
 Una partizione è necessaria per / root
 Sei in uno di questi stati?
 Sei sicuro di voler continuare?
-Una semplice GUI di scanner
-assegnare un file di scambio. Si consiglia di concedere alcuni scambi
-auto
-disponibile sul dispositivo scelto
+Una semplice interfaccia grafica per scanner
+Indietro
 Basic_Arch_Linux
-/ partizione di avvio
 Budgie è il desktop predefinito di Solus OS
 Build_My_Own
-Costruisci il tuo sistema, scegliendo
-ma è possibile allocare un file di scambio, se lo si desidera
+Costruisci il tuo sistema, scegliendo il
+ma puoi assegnare un file di scambio
 Calendario e task manager
-utente predefinito verrà definito "archie"
-Scegli un elemento
-Scegliere tra le partizioni esistenti
-Scegliere uno o Esci per cercare alternative
-Scegli uno o '' per cercare alternative
-scegliete la Zona Mondiale della tua posizione
+Annulla
+Annulla l'installazione
+Scegli un oggetto
+Scegli uno o Esci per riprovare
+Scegli le impostazioni internazionali principali per il tuo sistema
+scegli la zona del mondo della tua posizione
 Scegli il tuo kernel
 strumenti cli
-Manipolazione dell'immagine a riga di comando
-sistema leggero completo costruito su Openbox
-Complimenti, l'installazione è completa
-Cross-platform IDE per Object Pascal
-Applicazione personalizzabile per dock e lanciatore
-verrà utilizzato il nome host predefinito di 'arch-linux'
-Elimina
-ambiente desktop, ecc, dalle seguenti categorie
+Manipolazione delle immagini da riga di comando
+completo sistema leggero costruito su Openbox
+IDE multipiattaforma per Object Pascal
+Applicazione dock & launcher personalizzabile
+verrà impostato l'utente predefinito chiamato 'archie'
+Documenti desktop Download Music Pictures Modelli pubblici Video
+ambiente desktop, ecc., dalle seguenti categorie
 Desktop_Environments
-Programma di pubblicazione desktop
-Ora del desktop e informazioni sul sistema
+Desktop del progetto Deepin
+Programma di desktop publishing
+Tempo del desktop e informazioni di sistema
 dispositivi disponibili
-Applicazione di masterizzazione da Gnome
+Applicazione per masterizzare dischi da Gnome
 Display Manager
-Il gestore di visualizzazione è già impostato come
 Visualizza le informazioni sull'hardware e sul sistema operativo
-Vuoi accettarlo? Selezionare No per cercare alternative
-Vuoi assegnare uno swapfile?
-Vuoi cambiarlo?
-Vuoi riformattare?
-Gestione finestra di tiling dinamico (richiede il compilatore Haskell)
-BitTorrent facile da usare
-Editor video non lineare di facile utilizzo
+Mostra il file 'partizionamento'
+Fatto
+scarica il sistema e le applicazioni Arch Linux
+Vuoi accettare questo? Selezionare No per cercare alternative
+Desiderate assegnare uno swapfile?
+Vuoi continuare?
+Gestione dinamica delle finestre di piastrellatura (richiede il compilatore Haskell)
+Editor video non lineare facile da usare
 Editor video facile da usare
-Applicazione per la gestione della libreria di libri elettronici
-Immettere 1, 2 o una nuova etichetta
-Immettere un nome host per il computer
-Inserisci un punto di montaggio per
-Immettere un nome per l'utente primario del nuovo sistema
-Inserisci una password per
-Inserimento della fase di installazione automatica
-Inserisci nuovo nome utente (attualmente
+Applicazione per la gestione di librerie di libri elettronici
+Partizione EFI: 550MiB
+es .: 'dvorak' o 'noi'
+English.lan
+Inserisci un nome host per il tuo computer
+Inserire un punto di montaggio per
+Immettere un nome per l'utente principale del nuovo sistema
+Inserire una password per
+Entrando nella fase di installazione automatica
+Enter_Manually
 Immettere il numero per i dati da modificare
-Immettere il percorso in cui deve essere installato Grub
-entra '' per visualizzare un elenco
 Uscita
-Esci per consentire la partizione del dispositivo
-Uscire per finire
+Esci da Feliz alla riga di comando
 Browser estensibile da Mozilla
-Editore di testo estensibile e personalizzabile
+Editor di testo estensibile e personalizzabile
 Menu dinamico veloce e leggero per X
-Rapido e affidabile client FTP, FTPS e SFTP
+Client FTP, FTPS e SFTP veloce e affidabile
 Lettore audio ricco di funzionalità
-Client email ricco di funzionalità da Mozilla
-Feliz - Arch Linux script di installazione
+Client email ricco di funzionalità di Mozilla
+Feliz ha bisogno di almeno uno specchio da cui a
 Feliz ora ti offre una scelta. Puoi ...
 FelizOB_desktop
-Feliz - Test
-Feliz creerà ora una nuova tabella delle partizioni
-Infine dobbiamo impostare le password
-Finito l'installazione in
-In primo luogo dovresti selezionare quello da utilizzare per EFI / boot
+Finalmente abbiamo bisogno di impostare le password
+Installazione terminata in
+Per prima cosa dovresti selezionarne uno da utilizzare per EFI / boot
 font
-'>' per la prossima pagina
-'<' per la pagina precedente
-per il paese o la lingua e verrà visualizzato un elenco
-Grande funzionalità, moderna DE
-Processore di parole completo
-Applicazione completa del bacino
-Generazione di mirrorlist
-Gnome WebKitGTK + browser (aka Web)
+per il tuo paese o lingua e verrà visualizzato un elenco
+DE moderno e completo
+Elaboratore di testi completo
+Applicazione dock completa
+Gnome WebKitGTK + browser (ovvero Web)
 grafico
 Strumenti grafici
-larva
-Grub verrà installato
-Frontend sana di GTK
-GTK + IDE con supporto per i plugin Python
-Bruciatore CD GUI
-guidato
-Utensile manuale di partizionamento guidato
-Calcolatrice pratica del tavolo
-Editore di testo pratico leggero da LXDE
-hanno Arch Linux specchi. È possibile selezionare più di
+Grub sarà installato su
+Frontend sano basato su GTK
+GTK + IDE con supporto per plugin Python
+Masterizzatore di GUI per CD
+Pratico calcolatore da tavolo
+Comodo editor di testo leggero da LXDE
+avere i mirror di Arch Linux.
+avviare manualmente l'ambiente desktop
 Ecco le partizioni disponibili
-Ecco un elenco delle partizioni disponibili
-Qui è possibile impostare la dimensione e il formato delle partizioni
-Altamente configurabile, gestore di finestra dinamico
-/ partition home
+Ecco un elenco di partizioni disponibili
+Qui puoi impostare la dimensione e il formato delle partizioni
+Window manager dinamico altamente configurabile
 hostname
-Nome host (attualmente
-idealmente più, fino a 20GiB
-Se è in dubbio, scegli
-In caso di dubbi, consultare
-Se è così, feliz può installare Virtualbox guest
-Se non si è certi di partizionare, è necessario leggere l'Arch Wiki
-Se si sceglie di non fare nulla ora, lo script farà
-Se non si installa un gestore di visualizzazione, avrai
-Se non si crea qui un nome utente, un
+idealmente di più, fino a 20GiB
+identifica il tuo dispositivo su una rete. Se non si entra
+In caso di dubbio, scegli
+In caso di dubbi, consulta Arch Wiki
+Se non si installa un display manager, lo si farà
+Se non si desidera utilizzarne uno dall'elenco Arch
+Se non si crea un nome utente qui, a
 Se conosci il codice per il layout della tastiera, inserisci
 Se salti questo passaggio, non verrà assegnato alcun swap
-Se si desidera eliminare l'etichetta, immettere 2
-Se si desidera immettere una nuova etichetta, digitarlo al prompt
-Se si desidera mantenere tale etichetta, immettere 1
-Se si desidera utilizzare uno, selezionarlo dall'elenco
-Visualizzatore di immagini e editor di base
-installazione, ma dovresti scegliere solo applicazioni di tipo light
+Se si desidera utilizzarne uno, selezionarlo dall'elenco
+Visualizzatore di immagini ed editor di base
+installazione, ma è consigliabile scegliere solo applicazioni leggere
 Installazione
-Installare Utility Virtualbox Utility?
+Installare i programmi di utilità guest di Virtualbox?
+Installa strumenti wireless?
 Ambiente di sviluppo integrato (IDE)
 Internet
-è già formattato come una partizione di swap
-è già nella tua lista di shopping
-è attualmente formattato
-Sembra che feliz sia in esecuzione in Virtualbox
 non è necessario superare 4GiB
-Non è consigliabile mescolare il file system btrfs con altri
-adesso. In caso contrario, provare a inserire un'abbreviazione a due lettere
-Deve essere non inferiore a 512MiB e non deve essere più grande di 1GiB
-Joe Window Manager - gestore di finestre piuma
-Installare semplicemente un Arch Linux di base
-Mantieni
+Non è raccomandato mescolare il file system btrfs con altri
+adesso In caso contrario, prova ad inserire un'abbreviazione di due lettere
+Non dovrebbe essere inferiore a
+Voglio digitare un indirizzo
+Joe's Window Manager - gestore di finestre piuma
+Basta installare un Arch Linux di base
 nocciolo
 kernel e sistemi core
 La tastiera è
-partire
-Semplice, veloce e versatile WM
-Web browser leggero
-Leggera e moderna DE basata su Qt
-Stacking leggero e configurabile WM
-Leggero, altamente configurabile DE
-Lightweight, pannello desktop compatibile con NETWM
-Emulatore terminale leggero da LXDE
-Pannello desktop leggero X11 (parte del desktop LXDE)
+WM leggero, veloce e versatile
+Browser web leggero
+DE leggero e moderno basato su Qt
+Impilatura leggera e configurabile WM
+DE leggero e altamente configurabile
+Pannello desktop leggero e conforme a NETWM
+Emulatore di terminale leggero da LXDE
+Pannello desktop X11 leggero (parte del desktop LXDE)
 Caricamento in corso
-Caricamento del traduttore
-Il locale sarà impostato su
-Lettore video medio
+Le impostazioni internazionali saranno impostate su
+Media player multimediale
 minuti
+specchi
+M = Megabyte, G = Gigabyte [es .: 512M o 2G]
 Multimedia
-Successivamente selezioneremo gli specchi per scaricare il sistema.
+N
+Quindi selezioneremo i mirror per scaricare il tuo sistema.
 No
-Nessun gestore di visualizzazione è stato selezionato
+Nessun gestore display selezionato
 Nessuna tastiera trovata contenente
-Non è stata trovata alcuna lingua per la tua località
 Nessuna
 Nessuna di queste
-Non sono previste disposizioni per lo scambio
+Nessuna disposizione è stata presa per lo scambio
 Si noti che se non si seleziona un dispositivo, Grub
-Si noti che non sarà possibile
-Adesso scegli la tua lingua da questa lista
-Ora dobbiamo trovare la tua ubicazione
-Ora hai la possibilità di aggiungere extra, ad esempio un browser web
+Nota che non sarai in grado di
+Ora seleziona la tua posizione in
+Ora hai la possibilità di aggiungere extra, come un browser web
 Ufficio
-dello spazio rimanente destinato a
 Ok
-uno, ma aggiungendo troppi rallenterà l'installazione
-una partizione è necessaria per la directory principale
-Inserisci solo un dispositivo, non includere un numero di partizione
-Solo un gestore di visualizzazione può essere attivo
-Solo una tastiera trovata sulla base della tua posizione
-Desktop Documents Downloads Music Pictures Public Templates Videos
-sul dispositivo scelto verrà distrutto)
-Apri cfdisk in modo da poter partizionare manualmente
+uno, verrà utilizzato il nome host predefinito di 'arch-linux'
+Immettere solo un dispositivo, non includere un numero di partizione
+Trovata una sola tastiera in base alla tua posizione
 Client BitTorrent open source
-Open source e cross-platform C / C ++ IDE
-Suite software open source per l'ufficio
-Sistema di controllo delle versioni open source
+IDE C / C ++ open source e multipiattaforma
+Suite software per ufficio open source
+Sistema di controllo della versione open source
 driver video opensource
-Browser open source di Google
-o
-oppure scegliere Esci per completare la partizione
-oppure scegliere Esci per terminare questa parte dell'installazione
-o scegliere Esci per lasciarlo come è
-oppure entra '' per visualizzare un elenco:
-o Esci per riprovare
-oppure, per assegnare tutto lo spazio rimanente, immettere
-o '' per uscire
-oppure è possibile uscire ora per utilizzare uno strumento esterno
-la partizione può avere conseguenze impreviste
-Partizionamento di
-la partizione viene utilizzata da un altro sistema operativo, che
+Browser web open source
+Oppure puoi assegnare un file di scambio
+partizione
+partizioni
 Le password non possono essere vuote
 Le password non corrispondono
-Plasma 5 e pacchetti di accessori
-Controlli prego prima che Feliz avvia l'installazione
-Scegli un paese
-Scegliere la lingua per il sistema installato
-Scegli la tua posizione più vicina
-Inserisci la dimensione desiderata
-Inserisci la prima lettera di
-Inserisci il numero della tua selezione
-Premere qualsiasi tasto per continuare
-Premere Invio per continuare
-Seleziona una città da questo elenco
-Selezionare una partizione da utilizzare per / root
-Seleziona il file system per
-Riprova
-I preparativi completati
-Preparazione e montaggio delle partizioni
+Plasma 5 e pacchetto di accessori
+Si prega di controllarli prima che Feliz inizi l'installazione
+Si prega di scegliere un paese
+Per favore scegline uno
+Si prega di inserire la dimensione desiderata
+Si prega di leggere il file 'partizionamento' per un consiglio.
+Si prega di selezionare una città da questo elenco
+Si prega di selezionare una partizione da utilizzare per / root
+Si prega di selezionare il file system per
+Per favore riprova
+Preparativi completati
 Preparazione dei servizi locali
-premere un tasto qualsiasi
-Premere Invio per continuare
-Premere Invio per installare con queste impostazioni oppure
+Premere Invio per installare con queste impostazioni, o
 Programmazione
-Ranking specchi - attendere ...
+Specchi di classifica - per favore aspetta
+Editor di grafica raster di KDE
 Reader per PDF e altri formati di documenti
-Inserisci nuovamente la password per
-riformattazione di una partizione esistente può avere conseguenze inaspettate
-La riformattazione cambierà l'UUID e se questo scambio
-La riformattazione rimuoverà tutti i dati attualmente in esso contenuti
-rimanere o è possibile assegnare un file di swap
-(Ricorda, questa è la partizione automatica e tutti i dati
-Impostazioni di root e utente
-/ root
+Ritorna alla lista
+Impostazioni root e utente
 secondi
-vedere le password durante l'inserimento
-Selezionare una partizione per il swap da quelle che
-Selezionare il dispositivo in cui deve essere installato Grub
-Seleziona la tua tastiera, oppure esci per riprovare
-Installeremo con questa lingua?
-Riavvio di arresto
-Semplice e pulito dock dall'ambiente desktop Pantheon
-Pannello / taskbar semplice sviluppato appositamente per Openbox
-Trascoder video semplice ma potente
+vedi le password mentre le inserisci
+Seleziona una partizione per
+Seleziona il dispositivo su cui installare Grub
+Seleziona la tastiera o Esci per riprovare
+Imposta la dimensione del file di scambio
+Arresto riavvio
+Chiudi questa sessione
+Dock semplice e pulito dall'ambiente desktop Pantheon
+Pannello semplice / barra delle applicazioni sviluppata appositamente per Openbox
+Trasduttore video semplice ma potente
 Dimensione
-Slick, desktop moderno della squadra Mint
-Piccolo e semplice strumento di fusione di testo
-software che si desidera installare
-Spiacenti, nessuna tastiera trovata sulla base della tua posizione
-Programma di fogli di calcolo da GNOME
-Stacking window manager per il sistema X Window
-Stacking window manager e librerie per gestire il desktop
+Slick, desktop moderno dal team di Mint
+Strumento di fusione di testo piccolo e semplice
+software che desideri installare
+Spiacenti, nessuna tastiera trovata in base alla tua posizione
+Programma di fogli di calcolo di GNOME
+Gestore di finestre impilabile per il sistema X Window
+Gestione delle finestre e librerie impilabili per la gestione del desktop
+Avvia Nano in modo da poter decommentare manualmente le impostazioni locali?
 Successo!
-Lo swap può essere qualsiasi cosa da 512MiB verso l'alto ma
-/ swap partizione
-Partizione swap
-il sistema non sarà più in grado di accedere alla partizione
+Swap può essere qualsiasi cosa da 512MiB verso l'alto ma
 barre delle applicazioni
-terminare per consentire la partizione in un altro modo
-analisi
-Questa è tutta la preparazione fatta
+Browser basato su testo
 Il file manager di LXDE
 Sono stati selezionati i seguenti extra
 Sono disponibili le seguenti partizioni
 Sono state selezionate le seguenti partizioni
-l'isola o il gruppo dove si trova
-Il kernel di supporto a lungo termine (LTS) offre la stabilità
-La partizione che hai scelto è etichettata
+Il kernel più recente ha tutte le nuove funzionalità
+Il kernel di supporto a lungo termine (LTS) offre stabilità
 Ci sono
-Non ci sono partizioni disponibili per il swap
-Non ci sono partizioni sul dispositivo, e almeno
-Esiste un'opzione di partizionamento manuale guidata
-C'è solo spazio per un
-Non c'è spazio per una partizione / swap, ma puoi
-C'è spazio per un
-La partizione / root non dovrebbe essere inferiore a 8GiB
-Questi sono i dispositivi disponibili
-Queste sono le impostazioni immesse.
-La partizione selezionata
-La partizione selezionata
-Questa funzione è limitata alla creazione
-Questo è sufficiente
+Non ci sono partizioni disponibili per lo scambio
+Non ci sono partizioni sul dispositivo
+C'è solo spazio per a
+Non c'è spazio per a
+C'è spazio per a
+Queste sono le impostazioni che hai inserito
+Questo è abbastanza per
 Questo è sufficiente per una base
-Questo non è sufficiente per un'installazione
-Questo deve essere di tipo vfat e può essere di circa 512MiB
+Questo non è abbastanza per un'installazione
+Questo deve essere di tipo vfat e può essere di circa 512 M
 Questo dovrebbe essere nella forma / dev / sdx o simile
-Questo cancellerà tutti i dati
-Gestore delle finestre a piastrelle, completamente scritto da zero
-Per tornare, lasciare vuoto
-per avviare manualmente l'ambiente desktop
-Strumento per eseguire / eliminare / ridimensionare le partizioni
-Troppi per visualizzare tutti
-Per impostare l'orologio di sistema, per favore
-Tavolo tradizionale dal team Mint
+Questo cancellerà qualsiasi dato
+Gestore di finestre di piastrellatura, completamente scritto da zero
+Strumento per creare / eliminare / ridimensionare le partizioni
+Per impostare l'orologio di sistema, per prima cosa
+Desktop tradizionale dal team di Mint
 Desktop tradizionale e leggero
-sono necessarie due partizioni: uno per EFI / boot e
-capire che non riformatta la / root
-Aggiornamento delle chiavi
-Utilizzare i tasti freccia per spostarsi. Entra per selezionare
+Impossibile recuperare l'elenco dei mirror da Arch Linux
+Utilizzare uno specchio in tutto il mondo
+Usa i tasti cursore su / giù
+Utilizzare il partizionamento manuale guidato
 Nome utente
-Nome utente (attualmente
-utilities e impostare le impostazioni appropriate per te
-Editor grafico vettoriale
-moduli guestbox virtuali
-Attenzione: Btrfs non supporta i file di swap
-Cominciamo con la
-Quale desiderate utilizzare per questa installazione?
-mentre il kernel Ultimo ha tutte le nuove funzionalità
-non sarà installato, e dovrai fare
+Utilizzando l'elenco fornito con Arch iso
+Editor di grafica vettoriale
+VirtualBox
+Attenzione: Btrfs non supporta i file di scambio
+Quale desideri utilizzare per questa installazione?
+Opzione Wifi
+non verrà installato e dovrai farlo
 Window_Managers
-Gestore di finestre che emula l'interfaccia utente di NeXT
+Window manager che emula l'interfaccia utente NeXT
 Strumenti wireless
-Vuoi utilizzare uno dei seguenti?
-x
+Y
 sì
-È possibile aggiungere altri elementi o selezionare gli elementi da eliminare
+È possibile aggiungere più elementi o selezionare elementi da eliminare
+È possibile assegnare un file di scambio
 È possibile scegliere il nuovo desktop FelizOB, a
-Puoi scegliere di lasciarlo come è, ma dovresti
-Puoi scegliere di lasciarlo come è, selezionando Exit, ma no
-Ora puoi scegliere tra le altre liste
-Se lo si desidera, è possibile utilizzare tutto lo spazio rimanente sul dispositivo
+è possibile inserire manualmente l'indirizzo di un mirror o
+Ora puoi scegliere da una qualsiasi delle altre liste
+Puoi utilizzare tutto lo spazio rimanente sul dispositivo, se lo desideri
+puoi usare uno dei mirror di Arch Linux in tutto il mondo
 Hai
-Hai scelto di immettere manualmente il percorso per Grub
-Potresti voler lasciare spazio per una partizione / home
-È necessario immettere un mountpoint valido
-È necessario includere M, G o%
-È necessario includere M o G
-Adesso hai
+Hai scelto di inserire manualmente il percorso per Grub
+Si consiglia di lasciare spazio per a
+Devi includere M o G
+Devi includere M o G o%
+Ora hai
 Il tuo dispositivo ha
-Il dispositivo è solo
-il tuo dispositivo in una rete. Se non si inserisce uno, il
-la tua città più vicina
-Potrai scegliere tra un elenco di paesi che
-si desidera creare. Quando è pronto, Feliz cancellerà il disco
-Zona / subZone sarà
-Africa
-America
-Antartide
-artico
-Asia
-atlantico
-Australia
-Europa
-indiano
-Pacifico
-UTC
-Enter_Manually
---------------
-Regredire
-idealmente di più, fino a 20G
-Per favore scegline uno
-Annulla
-La partizione / root non dovrebbe essere inferiore a 8G
-Finito
-Iniziamo con il
-L'ultimo kernel ha tutte le nuove funzionalità
-partition
-Feliz lo farà
-crea una nuova tabella delle partizioni
-avere i mirror di Arch Linux
-Classifica specchi
-Annulla l'installazione
+Il tuo dispositivo ha solo
+Sarai in grado di scegliere da un elenco di paesi che
+tu desideri creare. Una volta pronto, Feliz pulirà il disco
+Zone / subZone sarà

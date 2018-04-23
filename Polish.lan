@@ -1,393 +1,295 @@
-Polish language file for Feliz
-by pavroo (pavroo@onet.eu) 31 grudzień 2017
-------------------------------------------------------------------
-Notes to translators (turn Line-numbers on in your text editor)
---------------------
-1) Please translate line #1 to say the translation language;
-2) Please translate line #2 to say your name and email address;
-   (it is your work and you deserve to be recognised for it)
-3) Translations start at line #19
-4) Please translate all lines at exactly the same line number,
-    and do not add or delete any lines (this is very important)
-5) If any translated line will be over 70 characters, please re-phrase to make it shorter
-6) Save your file as <Language>.lan
-   (where <Language> is the native name of the language - for example: Español.lan)
-7) If you have any questions or problems, please email or contact me through Facebook
--------------------------------------------------------------------------------------
-Thank you for your contribution to Feliz
-----------------------------------------
-Pakiet do tworzenia grafiki 3D
+# Polish language file for Feliz
+# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# --------------------------------------------------------------
+# Notes to translators
+# Use a text editor, such as notepad, and turn Line-numbers on
+# ------------------------------------------------------------
+# 1) Please translate line #1 (above);
+# 2) Translate line #2 (above) to change from my name and email address to yours
+#     (it is your work and you deserve to be recognised for it);
+# 3) Translations start at line #20
+# 4) Please translate all lines at exactly the same line number as in this file,
+#     and do not add or delete any lines (this is very important);
+# 5) If any translated line is over 80 characters, please re-phrase to make it shorter
+# 6) Save your file as <Language>.lan
+#    (where <Language> is the English name of the language - for example: Spanish.lan)
+#7) If you have any questions or problems, please email or contact me through Facebook
+# -------------------------------------------------------------------------------------
+# Thank you for your contribution to Feliz
+# ----------------------------------------
+Zestaw do tworzenia grafiki 3D
 Akcesoria
-dodano. Wybierz inny kraj lub ' '
-Jak na razie dodano
-Dodawanie kodeków
-Dodawanie użytkownika i konfiguracja grup
-Menadżer wyświetlania dostarcza graficzny ekran logowania
+Dodano do tej pory
+Dodawanie użytkownika i konfigurowanie grup
+Menedżer wyświetlania udostępnia graficzny ekran logowania.
 Zaawansowany pakiet do edycji obrazów
-Zaawansowany edytor tekstu & IDE
-Nazwa hosta jest wymagana. Będzie to unikalna nazwa do identyfikacji
-przydzielony do /root
-Przydziel rozmiar partycji swap
-Pozwól feliz na partycjonowanie całego dysku
-To co potrzeba tutaj, to ustalenie Twojej partycji /boot
-alternatywne ustawienie uruchomienia Twojego nowego systemu
-Alternatywnie, wybierz ' ' aby rozpocząć ponownie
-mimo, że możesz chcieć opuścić ustawienia dla partycji /swap
-i utwórz nową tablicę partycji z własnymi ustawieniami
-i także partycję domową /home
-i ustaw partycje, które już zdefiniowałeś
-a podczas instalacji lub w późniejszym czasie może zabraknąć miejsca
-Wymagana jest partycja /root
-Czy znajdujesz się w którymś z tych stanów?
-Czy jesteś pewny, że chcesz kontynuować?
-Prosty skaner z graficznym interfejsem
-przydzielić plik swap. Zalecane jest przydzielenie trochę swap
-auto
-dostępne na wybranym urządzeniu
-Podstawowy_Arch_Linux
-partycja /boot
-Budgie jest domyślnym pulpitem Solus
-Budowanie_Własnego
-Zbuduj swój własny system, przez wybranie
-lecz możesz przydzielić plik swap, jeśli chcesz
-Kalendarz & menadżer zadań
-użytkownik o nazwie 'archie' będzię wybrany
-Wybierz dowolną pozycję
-Wybierz z istniejących partycji
-Wybierz jedną lub Wyjście aby spróbować ponownie
-Wybierz jeden lub ' ' aby poszukać alternatywy
-wybierz Strefę Światową swojej lokalizacji
-Wybierz jądro systemu
-narzędzia tekstowe
-Edytor grafiki z linii komend
-kompletny, lekki system zbudowany na Openbox
-Gratulacje, instalacja została zakończona
-Wieloplatformowy IDE dla obiektowego języka Pascal
-Konfigurowalny dock & uruchamiacz aplikacji
-zostanie użyta domyślna nazwa hosta 'arch-linux'
-Usuń
-środowisko graficzne, etc, z następujących kategorii
-Środowiska_Graficzne
-Programy do komputerowego przygotowania do druku DTP
-Czas i informacje o systemie
+Zaawansowany edytor tekstu i IDE
+Nazwa hosta jest potrzebna. To będzie unikalna nazwa dla
+Pozwól Felizowi na podział urządzenia
+alternatywne sposoby uruchamiania nowego systemu
+chociaż może to być wolniejsze niż lokalne lustro
+i utwórz nową tablicę partycji wraz z ustawieniami
+i być może także
+i może zabraknąć miejsca podczas instalacji lub w późniejszym czasie
+Serwer WWW Apache
+Partycja jest potrzebna dla / root
+Czy jesteś w którymś z tych krajów?
+Czy na pewno chcesz kontynuować?
+Prosty GUI skanera
+Plecy
+Basic_Arch_Linux
+Budgie jest domyślnym pulpitem systemu operacyjnego Solus
+Build_My_Own
+Zbuduj swój własny system, wybierając
+ale możesz przypisać plik wymiany
+Kalendarz i menedżer zadań
+Anuluj
+Anuluj instalację
+Wybierz przedmiot
+Wybierz jedną lub Wyjdź, aby spróbować ponownie
+Wybierz główne ustawienia regionalne dla twojego systemu
+wybierz Strefę Świata swojej lokalizacji
+Wybierz swoje jądro
+Narzędzia cli
+Modyfikowanie obrazu w linii poleceń
+kompletny lekki system zbudowany na Openbox
+Wieloplatformowe IDE dla Object Pascal
+Konfigurowalna aplikacja do dokowania i uruchamiania
+zostanie ustawiony domyślny użytkownik o nazwie "archie"
+Dokumenty pulpitu Pliki do pobrania Obrazy muzyczne Szablony publiczne Filmy
+środowisko graficzne itp. z następujących kategorii
+Desktop_Environments
+Pulpit projektu Deepin
+Desktop Publishing program
+Czas pracy i informacje o systemie
 dostępne urządzenia
-Nagrywarka płyt od Gnome
-Menadżer wyświetlania
-Menadżer wyświetlania jest już ustawiony na
-Wyświetlanie informacji o sprzęcie i systemie operacyjnym
-Czy chcesz to zaakceptować? Wybierz Nie aby poszukać alternatywy
-Czy chcesz przydzielić plik swap?
-Czy chcesz to zmienić?
-Czy chcesz to sformatować?
-Dynamiczny stosowy menadżer okien (wymagany kompilator Haskell)
-Prosty w użyciu klient BitTorrent
-Prosty w użyciu nielinearny edytor wideo
-Prosty w użyciu edytor wideo
-Aplikacja do zarządzania biblioteką E-książek
-Wprowadź 1, 2 lub nową etykietę
-Wprowadź nazwę hosta swojego komputera
-Wprowadź punkt montowania dla
-Wprowadź nazwę podstawowego użytkownika nowego systemu
+Aplikacja do nagrywania płyt z Gnome
+Menedżer wyświetlania
+Wyświetla informacje o twoim sprzęcie i systemie operacyjnym
+Wyświetl plik "partycjonowania"
+Gotowe
+pobierz system Arch Linux i aplikacje
+Czy chcesz to zaakceptować? Wybierz opcję Nie, aby wyszukać alternatywy
+Czy chcesz przydzielić plik wymiany?
+Czy chcesz kontynuować?
+Dynamiczne układanie okien w oknie (wymaga kompilatora Haskell)
+Łatwy w obsłudze nieliniowy edytor wideo
+Łatwy w użyciu edytor wideo
+Aplikacja do zarządzania bibliotekami e-książek
+Partycja EFI: 550 MB
+np .: "dvorak" lub "nas"
+English.lan
+Wprowadź nazwę hosta dla swojego komputera
+Wprowadź punkt podłączenia dla
+Wprowadź nazwę głównego użytkownika nowego systemu
 Wprowadź hasło dla
-Faza wprowadzenia automatycznej instalacji
-Wprowadź nową nazwę użytkownika (obecna
-Wprowadź liczbę przypisaną do danych, które chcesz zmienić
-Wprowadź ścieżkę, gdzie Grub zostanie zainstalowany
-wprowadź ' ' aby zobaczyć listę
+Wejście w fazę automatycznej instalacji
+Wprowadzić ręcznie
+Wprowadź numer dla danych do zmiany
 Wyjście
-Wyjście w celu umożliwienia partycjonowania urządzenia
-Wyjdź aby zakończyć
-Rozszerzalna przeglądarka od Mozilla
-Rozszerzalny, dostosowywalny edytor tekstu
+Wyjdź z Feliz do linii poleceń
+Rozszerzalna przeglądarka Mozilli
+Rozszerzalny, konfigurowalny edytor tekstu
 Szybkie i lekkie dynamiczne menu dla X
-Szybki i niezawodny klient FTP, FTPS & SFTP
-Bogato wyposażony odtwarzacz audio
-Bogato wyposażony klient poczty od Mozilla
-Skrypt instalacyjny Feliz - Arch Linux
-Feliz teraz oferuje Ci możliwość wyboru. Możesz ...
-FelizOB_pulpit
-Feliz - Testowy
-Feliz utworzy teraz nową tablicę partycji
-W końcu, musimy ustalić hasła
-Instalacja ukończona w
-Najpierw powinieneś wybrać jedną do użycia dla EFI /boot
+Szybki i niezawodny klient FTP, FTPS i SFTP
+Bogaty w funkcje odtwarzacz audio
+Bogaty w funkcje klient poczty z Mozilli
+Feliz potrzebuje co najmniej jednego lustra, z którego można
+Feliz oferuje teraz wybór. Możesz ...
+FelizOB_desktop
+Wreszcie musimy ustawić hasła
+Zakończono instalowanie w
+Najpierw wybierz jeden do użycia dla EFI / boot
 czcionki
-'>' dla następnej strony
-'<' dla poprzedniej strony
-dla Twojego kraju lub języka lista będzie wyświetlona
-Bogato wyposażony, nowoczesny DE
-Bogato wyposażony procesor tekstu
-W pełni użyteczny dock aplikacji
-Generowanie listy serwerów lustrzanych
-Przeglądarka Gnome WebKitGTK+ (aka Web)
-Grafika
+dla Twojego kraju lub języka i wyświetlona zostanie lista
+W pełni funkcjonalny, nowoczesny DE
+W pełni funkcjonalny procesor tekstu
+W pełni funkcjonalna aplikacja dokowa
+Gnome WebKitGTK + przeglądarka (aka Web)
+Graficzny
 Narzędzia graficzne
-Grub
 Grub zostanie zainstalowany na
-Bazujący na GTK interfejs graficzny dla sane
-GTK+ IDE ze wsparciem dla wtyczek Pythona
-Graficzna nagrywarka CD
-z przewodnikiem
-Narzędzie ręcznego partycjonowania z przewodnikiem
-Poręczny kalkulator
-Poręczny, lekki edytor tekstu od LXDE
-na liście serwerów lustrzanach Arch Linux. Można wybrać więcej niż
-To są dostępne partycje
-To jest lista dostępnych partycji
-Tutaj możesz ustalić rozmiar partycji i je sformatować
-Wysoce konfigurowalny, dynamiczny menadżer okien
-partycja /home
+Oparty na GTK frontend
+GTK + IDE z obsługą wtyczek Python
+GUI nagrywarka CD
+Poręczny kalkulator biurkowy
+Poręczny lekki edytor tekstu z LXDE
+mają lustra Arch Linuksa.
+musisz ręcznie uruchomić środowisko pulpitu
+Oto dostępne partycje
+Oto lista dostępnych partycji
+Tutaj możesz ustawić rozmiar i format partycji
+Wysoce konfigurowalny, dynamiczny menedżer okien
 Nazwa hosta
-Nazwa hosta (obecna
-idealnie więcej, do 20GiB
-Jeśli masz wątpliwość, wybierz
-Jeśli masz wątpliwość, skonsultuj
-Jeśli tak, feliz może zainstalować Virtualbox guest
-Jeśli nie jesteś pewny partycjonowania, powinieneś zapoznać się z Arch Wiki
-Jeśli nic nie wybierzesz teraz, przerwij skrypt
-Jeśli nie zainstalujsz menadżera wyświetlania, będziesz musiał
-Jeśli nie utworzysz nazwy użytkownika teraz, domyślny
-Jeśli znasz kod układu swojej klawiatury, proszę wprowadź
-Jeśli pominiesz ten krok, swap nie zostanie przedzielony
-Jeśli chcesz usunąć tą etykietę, wprowadź 2
-Jeśli chcesz chcesz użyć inną etykietę, wpisz ją
-Jeśli chcesz zachować tą etykietę, wprowadź 1           
-Jeśli chcesz użyć jednego, wybierz go z listy
-Przeglądarka grafki & podstawowy edytor
-instalacja, lecz powinieneś wybrać tylko lekkie aplikacje
+najlepiej więcej, do 20GiB
+zidentyfikuj swoje urządzenie w sieci. Jeśli nie wejdziesz
+W razie wątpliwości wybierz
+W razie wątpliwości zapoznaj się z Arch Wiki
+Jeśli nie zainstalujesz menedżera wyświetlania, zrobisz to
+Jeśli nie chcesz użyć jednego z listy Arch
+Jeśli nie utworzysz tutaj nazwy użytkownika, a
+Jeśli znasz kod układu klawiatury, wprowadź
+Jeśli pominiesz ten krok, żadna akcja nie zostanie przydzielona
+Jeśli chcesz go użyć, wybierz go z listy
+Przeglądarka zdjęć i podstawowy edytor
+instalacji, ale powinieneś wybrać tylko lekkie aplikacje
 Instalowanie
-Zainstalować narzędzia gościa Virtualbox?
-Zintegrowane środowisko deweloperskie (IDE)
+Zainstaluj narzędzia gościnne Virtualbox?
+Zainstalować narzędzia bezprzewodowe?
+Zintegrowane środowisko programistyczne (IDE)
 Internet
-jest już sforamtowana jako partycja swap
-jest już na Twojej liście
-jest obecnie sformatowana na
-Zdaje się, że feliz działa w środowisku Virtualbox
-nie jest konieczne aby przekraczać 4GiB
-Nie jest zalecane aby mieszać system plików btrfs z innymi
-to teraz. Jeśli nie, spróbuj wprowadzić skrót dwu-literowy
-Powinna być nie mniejsza niż 512MiB oraz nie większa niż 1GiB
-Joe's Window Manager - lekki jak piórko menadżer okien
-Zainstaluj tylko system podstawowy Arch Linux
-Zatrzymaj
+nie jest konieczne przekraczanie 4GiB
+Nie zaleca się mieszania systemu plików btrfs z innymi
+teraz. Jeśli nie, spróbuj wpisać dwuliterowy skrót
+Nie powinno być mniej niż
+Chcę wpisać adres
+Joe's Window Manager - menedżer okien w wadze piórkowej
+Wystarczy zainstalować podstawowy Arch Linux
 Jądro
-jądro i system podstawowy
-Klawitura jest
-opuść
+systemy jądra i podstawowe
+Klawiatura jest
 Lekki, szybki i wszechstronny WM
-Lekka przeglądarka www
-Lekki i nowoczesny DE, bazujący na Qt
-Lekki & konfigurowalny, stosowy WM
+Lekka przeglądarka internetowa
+Lekki i nowoczesny DE oparty na Qt
+Lekki i konfigurowalny stacking WM
 Lekki, wysoce konfigurowalny DE
-Lekki, NETWM kompliant, panel pulpitu
+Lekki, zgodny z NETWM pulpit
 Lekki emulator terminala od LXDE
-Lekki X11 panel pulpitu (część pulpitu LXDE)
-Ładowanie
-ładowanie tłumacza
-Lokalizacja będzie ustawion na
-Średnio-lekki odtwarzacz wideo
-minut
+Lekki pulpit komputera X11 (część pulpitu LXDE)
+Ładuję
+Ustawienia regionalne zostaną ustawione na
+Średniej wagi odtwarzacz multimedialny
+minuty
+Lustra
+M = Megabajty, G = gigabajty [np .: 512M lub 2G]
 Multimedia
-Następnie wybierzemy serwery lustrzane do pobrania Twojego systemu.
+N
+Następnie wybieramy zwierciadła do pobrania twojego systemu.
 Nie
-Żaden Menadżer Wyświetlanie nie został wybrany
-Nie znaleziono żadnej klawiatury
-Edycja_locale.gen
+Nie wybrano Menedżera wyświetlania
+Nie znaleziono żadnych klawiatur zawierających
 Żaden
-Żaden_z_tych
-Nie wprowadzono żadnych ustaleń dla swap
-Miej na uwadze, jeśli nie wybierzesz żadnego urządzenia, Grub
-Miej na uwadze, że nie będziesz w stanie
-Uruchomić Nano aby ręcznie odkomentować lokalizacje?
-x
-Teraz masz możliwość wybrania dodatków, takich jak przeglądarka www
-Biuro
-pozostała przestrzeń przeznaczona na
+Żaden z tych
+Nie dokonano żadnego przepisu dotyczącego zamiany
+Pamiętaj, że jeśli nie wybierzesz urządzenia, Grub
+Pamiętaj, że nie będziesz w stanie
+Teraz wybierz swoją lokalizację w
+Teraz możesz dodać dodatki, takie jak przeglądarka internetowa
+Gabinet
 Ok
-jeden, lecz dodanie zbyt wielu spowolni instalację
-jedna partycja jest wymagana dla głównego katalogu plików
-Wprowadź tylko urządzenie, nie podawaj numeru partycji
-Tylko jeden menadżer wyświetlania może byc aktywny
-Znaleziono tylko jedną klawiaturę dla Twojej lokalizacji
-Pulpit Dokumenty Pobrane Muzyka Obrazy Publiczny Szkice Wideo
-na wybranym urządzeniu będzie zniszczone)
-Otwórz cfdisk aby partycjonować ręcznie
-Otwarto-źródłowy klient BitTorrent
-Otwarto-źródłowy & wielo-platformowy C/C++ IDE
-Otwarto-źródłowy pakiet biurowy
-Otwarto-źdódłowy system kontroli wersji
-otwarto-źródłowe sterowniki wideo
-Otwarto-źródłowa przeglądarka www od Google
-lub
-lub wybierz Wyjście aby zakończyć partycjonowanie
-lub wybierz Wyjście aby zakończyć tą cześć ustawień
-lub wybierz Wyjście aby zostawić to tak jak jest
-lub wprowadź ' ' aby zobaczyć listę:
-lub Wyjscie aby spróbować ponownie
-lub, aby przydzielić całą niewykorzystaną przestrzeń, wprowadź
-lub ' ' aby wyjść
-lub możesz wyjść teraz aby użyć innego narzędzia
-partycjonowanie może doprowadzić na nieoczekiwanych konsekwencji
-Partycjonowanie
-partycja jest używana przez inny system operacyjny, który
+jeden, używana będzie domyślna nazwa hosta "arch-linux"
+Wprowadzaj tylko urządzenie, nie podawaj numeru partycji
+Znaleziono tylko jedną klawiaturę na podstawie Twojej lokalizacji
+Klient BitTorrent o otwartym kodzie źródłowym
+Open source i wieloplatformowe IDE C / C ++
+Pakiet oprogramowania biurowego typu open source
+System kontroli wersji Open Source
+sterowniki wideo opensource
+Otwarta przeglądarka internetowa
+Możesz także przypisać plik wymiany
+przegroda
+Partycje
 Hasła nie mogą być puste
 Hasła nie pasują do siebie
-Plasma 5 i pakiet akcesorii
-Proszę sprawdzić zanim Feliz rozpocznie instalację
-Proszę wybrać kraj
-Wybierz domyślną lokalizację dla Twojego systemu
-Proszę wybrać swoją najbliższą lokalizację
-Proszę wprowadzić pożądany rozmiar
-Proszę wprowadzić pierwszą literę
-Proszę wprowadzić liczbę swojego wyboru
-Proszę użyć dowolnego klawiawisza aby kontynuować
-Proszę użyć kalwisza Enter any kontynuować
-Proszę wybrać miasto z tej listy
-Proszę wybrać partycję aby ją użyć dla /root
-Proszę wybrać system plików dla
-Proszę spróbować ponownie
+Plazma 5 i pakiet akcesoriów
+Sprawdź je, zanim Feliz rozpocznie instalację
+Wybierz kraj
+Prosze wybrac jeden
+Proszę podać żądany rozmiar
+Przeczytaj plik "partycjonowanie", aby uzyskać poradę.
+Wybierz miasto z tej listy
+Wybierz partycję do użycia dla / root
+Wybierz system plików dla
+Proszę spróbuj ponownie
 Przygotowania zakończone
-Przygotowywanie i montowanie partycji
-Przygotowywanie lokalnych usług
-Wciśnij dowolny klawisz
-Wciśnij Enter aby kontynuować
-Wciśnij Enter aby zainstalować z tymi ustawieniami lub
+Przygotowanie lokalnych usług
+Naciśnij klawisz Enter, aby zainstalować za pomocą tych ustawień, lub
 Programowanie
-Zestawienie serwerów lustrzanych - proszę czekać ...
-Czytnik PDF & i innych dokumentów
-Wprowadź ponownie hasło dla
-Formatowanie istniejącej partycji może mieć nieoczekiwane konsekwencje
-Formatowanie zmieni UUID, jeśli swap
-Formatowanie usunie wszystkie dane znajdujące się na urządzeniu
-pozostałe, lub możesz przydzielić plik swap
-(Pamiętaj, to jest automatyczne partycjonowanie i wszystkie dane
-Ustawienia root i użytkownika
-partycja /root
-sekund
-zobacz hasła, które wprowadzasz
-Wybierz partycję dla swap z tych, które
-Wybierz urządzenie gdzie Grub zostanie zainstalowany
-Wybierz swoją klawiaturę, lub Wyjście aby spróbować ponownie
-x
-Wyłącz Restart
-Prosty, przejrzysty dock z środowiska graficznego Pantheon
-Prosty panel/menadżer zadań rozwijany specjalnie dla Openbox
-Prosty i potężny transkoder wideo
+Ranking lusterek - proszę czekać
+Edytor grafiki rastrowej z KDE
+Czytnik plików PDF i innych formatów dokumentów
+Wróć do listy
+Ustawienia root i user
+sekundy
+zobacz hasła podczas ich wprowadzania
+Wybierz partycję dla
+Wybierz urządzenie, w którym Grub ma zostać zainstalowany
+Wybierz klawiaturę lub Wyjdź, aby spróbować ponownie
+Ustaw rozmiar pliku wymiany
+Shutdown Reboot
+Zamknij tę sesję
+Prosty, czysty dock ze środowiska graficznego Pantheon
+Prosty panel / pasek zadań opracowany specjalnie dla Openbox
+Prosty, ale potężny transkoder wideo
 Rozmiar
-Gładki, nowoczesny pulpit od zespołu Mint
-Małe i proste narzędzie do łączenia tekstu
-programów, które chcesz zainstalować
-Przepraszam, nie znaleziono żadnej klawiatury bazującej na Twojej lokalizacji
-Arkusz kalkulacyjny od GNOME
-Stosowy menadżer okien dla X Window System
-Stosowy menadżer okien & biblioteki do zarządzania pulpitem
-Sukces!
-Swap może być dowolny od 512MiB w górę, lecz
-partycja /swap
-Parycja swap
-system nie będzie miał dostępu do tej parycji
-Pasek_zadań
-aby umożliwić partycjonowanie w inny sposób
-Testowanie
-Wszystkie przygotowania zostały ukończone
-Menadżer plików od LXDE
-Następujące dodatki zostały wybrane
+Zręczny, nowoczesny komputer od zespołu Mint
+Małe i proste narzędzie do scalania tekstu
+oprogramowanie, które chcesz zainstalować
+Niestety, nie znaleziono klawiatury na podstawie Twojej lokalizacji
+Program arkusza kalkulacyjnego od GNOME
+Układanie menedżera okien dla systemu X Window
+Układanie menedżera okien i bibliotek do zarządzania pulpitem
+Uruchom Nano, aby można ręcznie odkomentować ustawienia lokalne?
+Powodzenie!
+Zamiana może być dowolna od 512 MB w górę, ale
+Paski zadań
+Przeglądarka tekstowa
+Menedżer plików z LXDE
+Wybrano następujące dodatki
 Dostępne są następujące partycje
-Następujące partycje zostały wybrane
-grupa wysp gdze teraz jesteś
-Jądro o wydłużonym wsparciu technicznym (LTS) oferuje stabilność
-Partycja, którą wybrałeś posiada etykietę
-To są
-Nie ma żadnych partycji dostępnych dla swap
-Nie ma żadnych partycji na tym urządzeniu, a przynajmniej
-Dostępna jest opcja ręcznego partycjonowania z przewodnikiem
-Dostępna jest przestrzeń dla
-Żadna przestrzeń nie jest dostępna dla partycji /swap, lecz możesz
-Dostępna jest przestrzeń dla
-Partycja /root nie powinna być mniejsza niż 8GiB
-To są dostępne urządzenia
-To są ustawienia, które wprowadziłeś.
-Wybrana partycja
-Wybrana partycja
-Ten obiekt jest ograniczony do utworzenia
-To jest wystarczające dla
-To jest wystarczajace dla podstawowej
-To jest niewystarczające dla instalacji
-Typ tego musi być vfat i może być około 512MiB
-To powinno być w formie /dev/sdx lub podobnej
-Zostaną wyczyszczone wszystkie dane na
-Kafelkowy menadżer okien, napisany całkowicie od początku
-Aby wrócić, zostaw puste
-ręcznie uruchomić swoje środowisko graficzne
-Narzędzie do tworzenia/usuwania/zmiany rozmiaru partycji
-Zbyt wiele aby wyświetlić wszystko
-Aby ustawić zegar systemowy, proszę
-Tradycyjny pulpit od zespołu Mint
+Wybrano następujące partycje
+Najnowsze jądro ma wszystkie nowe funkcje
+Jądro wsparcia długoterminowego (LTS) zapewnia stabilność
+Tam są
+Brak dostępnych partycji do wymiany
+Brak partycji na urządzeniu
+Jest tylko miejsce na
+Nie ma miejsca na
+Jest miejsce na
+To są ustawienia, które wprowadziłeś
+To wystarcza dla
+To wystarczy dla podstawowego
+To nie wystarczy do instalacji
+Musi być typu vfat i może wynosić około 512M
+Powinno to mieć postać / dev / sdx lub podobną
+Spowoduje to usunięcie wszystkich danych
+Tiling manager okien, całkowicie napisany od zera
+Narzędzie do tworzenia / usuwania / zmiany rozmiaru partycji
+Aby ustawić zegar systemowy, proszę najpierw
+Tradycyjny pulpit z zespołu Mint
 Tradycyjny, lekki pulpit
-wymagane są dwie partycje - jedna dla EFI /boot oraz
-zrozumiałem, że nie sformatowanie /root
-Aktualizacja kluczy
-Użyj kursora aby zaznaczyć. Enter aby wybrać
+Nie można pobrać listy serwerów lustrzanych z Arch Linux
+Użyj światowego lustra
+Użyj klawiszy kursora w górę / w dół
+Skorzystaj z ręcznej partycjonowania ręcznego
 Nazwa Użytkownika
-NazwaUżytkownika (obecnie
-i dokona odpowiednich dla Ciebie ustawień
-Wektorowy edytor grafiki
-moduły gościa virtualbox
-Ostrzeżenie: Btrfs nie posiada wsparcia dla plików swap
-Zaczynamy z
-Który chcesz użyć dla tej instalacji?
-podczas gdy najnowsze jądro posiada wszystkie najnowsze udogodnienia
-nie zostanie zainstalowany, a Ty będziesz musiał zrobić
-Menadżery_Okien
-Menadżer okien, który emuluje interfejs użytkownika NeXT
-Narzędzia Bezprzewodowe
-Czy chcesz użyć jednego z wymienionych?
-
-Tak
-Możesz dodać więcej pozycji, lub wybrać pozycje do usunięcia
-Możesz wybrać nowy pulpit FelizOB,
-Możesz wybrać to w takim stanie jak jest, lecz powinno
-Możesz wybrać to w takim stanie jak jest, przez wybranie Wyjście, lecz nie
-Możesz teraz wybrać z innych list
-Możesz użyć całą pozostałą przestrzeń na tym urządzeniu jeśli chcesz
-Masz
-Wybrałeś ręczne wprowadzenie ścieżki dla Grub
-Możesz opuścić ustawienia dla partycji /home
-Musisz podać wiarygodny punkt montowania
-Musisz dołączyć M, G lub %
-Musisz dołączyć M lub G
-Teraz musisz
-Twoje urządzenie posiada
-Twoje urządzenie posiada tylko
-Twojego urządzenia w sieci. Jeśli nie podasz żadnego,
-Twojego najbliższego głównego miasta
-Będziesz miał możliwość wybrania z listy krajów, które znajdują się
-chcesz stworzyć. Kiedy bedziesz gotowy, Feliz wyczyści dysk
-Strefa/podStrefa będzie
-Afryka
-Ameryka
-Antarktyka
-Arktyka
-Azja
-Atlantyk
-Australia
-Europa
-Ocean Indyjski
-Pacyfik
-UTC
-Wprowadź_Ręcznie
---------------
-Powrót
-idealnie więcej, do 20G
-Proszę wybrać jeden
-Anuluj
-Partycja /root nie powinna być mniejsza niż 8G
-Zrobione
-Zaczynamy z
-Najnowsze jądro posiada wszystkie nowe udogodnienia
-partycja
-Feliz
-utworzy nową tablicę partycji
-ma serwery lustrzane Arch Linux
-Ranking serwerów lustrzanych
-Anuluj instalację
+Używając listy dostarczonej z Arch iso
+Edytor grafiki wektorowej
+VirtualBox
+Ostrzeżenie: Btrfs nie obsługuje plików wymiany
+Którego chcesz użyć do tej instalacji?
+Opcja Wi-Fi
+nie zostanie zainstalowany i będziesz musiał to zrobić
+Window_Managers
+Menedżer okien emulujący interfejs użytkownika NeXT
+Narzędzia bezprzewodowe
+Y
+tak
+Możesz dodać więcej elementów lub wybrać elementy do usunięcia
+Możesz przypisać plik wymiany
+Możesz wybrać nowy pulpit FelizOB, a
+możesz wprowadzić adres lustra ręcznie, lub
+Możesz teraz wybrać jedną z pozostałych list
+Jeśli chcesz, możesz użyć całego wolnego miejsca na urządzeniu
+możesz użyć jednego ze światowych serwerów lustrzanych Arch Linux
+Ty masz
+Wybrałeś ręcznie wprowadzić ścieżkę Gruba
+Możesz zostawić miejsce na
+Musisz uwzględnić M lub G
+Musisz uwzględnić M lub G lub%
+Teraz masz
+Twoje urządzenie ma
+Twoje urządzenie ma tylko
+Będziesz mógł wybrać z listy krajów, które
+chcesz utworzyć. Gdy będzie gotowy, Feliz wyczyści dysk
+Strefa / podstrefa będzie

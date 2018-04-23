@@ -1,7 +1,9 @@
 The Feliz scripts install Arch Linux
 
 This repository holds the translation files used by Feliz.
-Each line of each file translates the same line of all the other Feliz language files. 
+Each line of each file translates the same line of all the other Feliz language files.
+
+New translation lines are added at the bottom. Never insert or delete lines.
 
 Thank you to everyone who has contributed to these translations.
 
@@ -17,4 +19,4 @@ Feliz is distributed in the hope that it will be useful, but WITHOUT ANY WARRANT
 A copy of the GNU General Public License is available from the Feliz page at http://sourceforge.net/projects/feliz/files or https://github.com/angeltoast/feliz, or write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 Elizabeth Mills
-November 2017
+April 2018

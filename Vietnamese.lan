@@ -1,393 +1,295 @@
-Vietnamese language file for Feliz
-by Paul Vu NGUYEN (vunguyen.xbt@gmail.com) 31 Tháng mười hai 2017
------------------------------------------------------------
-Notes to translators (use a text editor, such as notepad, and turn Line-numbers on)
-----------------------------------------------------------------------------------
-1) Please translate line #1 to say the translation language;
-2) Please translate line #2 to say your name and email address ...
-   (it is your work and you deserve to be recognised for it);
-3) Translations start at line #19
-4) Please translate all lines at exactly the same line number as in this file,
-    and do not add or delete any lines (this is very important);
-5) If any translated line will be over 80 characters, please re-phrase to make it shorter
-6) Save your file as <Language>.lan
-   (where <Language> is the English name of the language - for example: Spanish.lan)
-7) If you have any questions or problems, please email or contact me through Facebook
--------------------------------------------------------------------------------------
-Thank you for your contribution to Feliz
-----------------------------------------
-Khởi tạo đồ hoạ 3D
-Phụ_kiện
-thêm. Chọn quốc gia khác, hoặc ''
-Đã thêm
-Thêm codec
+# Vietnamese language file for Feliz
+# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# --------------------------------------------------------------
+# Notes to translators
+# Use a text editor, such as notepad, and turn Line-numbers on
+# ------------------------------------------------------------
+# 1) Please translate line #1 (above);
+# 2) Translate line #2 (above) to change from my name and email address to yours
+#     (it is your work and you deserve to be recognised for it);
+# 3) Translations start at line #20
+# 4) Please translate all lines at exactly the same line number as in this file,
+#     and do not add or delete any lines (this is very important);
+# 5) If any translated line is over 80 characters, please re-phrase to make it shorter
+# 6) Save your file as <Language>.lan
+#    (where <Language> is the English name of the language - for example: Spanish.lan)
+#7) If you have any questions or problems, please email or contact me through Facebook
+# -------------------------------------------------------------------------------------
+# Thank you for your contribution to Feliz
+# ----------------------------------------
+Bộ tạo đồ họa 3D
+Phụ kiện
+Đã thêm từ trước đến nay
 Thêm người dùng và thiết lập nhóm
-Trình quản lý hiển thị cung cấp một màn hình đăng nhập đồ họa
-Bộ chỉnh sửa hình ảnh nâng cao
-Trình chỉnh sửa văn bản nâng cao & IDE
-Một tên máy chủ là cần thiết. Đây sẽ là một tên duy nhất để xác định
-được cấp phát cho / root
-Phân bổ kích thước của tập tin hoán đổi (swap) của bạn
-Cho phép feliz phân chia toàn bộ thiết bị
-Tất cả chúng ta cần đặt ở đây là kích thước của phân vùng / boot của bạn
-sự sắp xếp thay thế để khởi động hệ thống mới của bạn
-Ngoài ra, hãy nhập '' để bắt đầu lại
-mặc dù bạn có thể muốn để lại chỗ cho một / phân vùng hoán đổi (swap)
-và tạo một bảng phân vùng mới với các thiết lập của bạn
-và có lẽ cũng là một phân vùng / home
-và thiết lập các phân vùng bạn đã xác định
-và bạn có thể chạy ra khỏi không gian trong khi cài đặt hoặc vào một thời điểm sau
-Phân vùng cần thiết cho / root
-Bạn có ở bất kỳ nước nào trong số này?
+Trình quản lý hiển thị cung cấp màn hình đăng nhập đồ họa.
+Bộ chỉnh sửa ảnh nâng cao
+Trình soạn thảo văn bản nâng cao & IDE
+Tên máy chủ là cần thiết. Đây sẽ là tên duy nhất để
+Cho phép Feliz phân vùng thiết bị
+sắp xếp thay thế để khởi động hệ thống mới của bạn
+mặc dù điều này có thể chậm hơn so với gương địa phương
+và tạo bảng phân vùng mới với cài đặt của bạn
+và có lẽ cũng là
+và bạn có thể hết dung lượng trong khi cài đặt hoặc vào một thời gian sau đó
+Máy chủ web Apache
+Một phân vùng là cần thiết cho / root
+Bạn có ở bất kỳ quốc gia nào trong số này không?
 Bạn có chắc muốn tiếp tục không?
-Một GUI đơn giản
-gán một tập tin hoán đổi (swap). Đó là khuyến cáo để cho phép một số hoán đổi (swap)
-Tự_động
-sẵn có trên thiết bị đã chọn
-Arch_Linux_Cơ_Bản
-/ boot phân vùng khởi động
-Budgie là giao diện Desktop mặc định của Solus OS
-Xây_Dựng_Riêng_Cho_Bạn
+Giao diện GUI đơn giản
+Trở lại
+Basic_Arch_Linux
+Budgie là màn hình nền mặc định của Solus OS
+Build_My_Own
 Xây dựng hệ thống của riêng bạn, bằng cách chọn
-nhưng bạn có thể phân bổ một tập tin hoán đổi (swap), nếu bạn muốn
-Trình quản lý lịch và công việc
-dùng mặc định được gọi là 'archie' sẽ được thiết lập
+nhưng bạn có thể gán một tập tin hoán đổi
+Lịch & trình quản lý tác vụ
+Hủy bỏ
+Hủy cài đặt
 Chọn một mục
-Chọn từ các phân vùng hiện có
-Chọn một hoặc Thoát để tìm kiếm các lựa chọn thay thế
-Chọn một, hoặc '' để tìm kiếm các lựa chọn thay thế
-chọn nơi ở của bạn
-Chọn Kernel của bạn
-công cụ cli
-Lệnh thao tác hình ảnh dòng lệnh
-hoàn thành hệ thống nhẹ được xây dựng trên Openbox
-Xin chúc mừng, cài đặt đã hoàn tất
-Nền tảng IDE cho Pascal Đối tượng
-Ứng dụng của tàu con thoi và ứng dụng tùy chỉnh
-tên máy chủ mặc định của 'arch-linux' sẽ được sử dụng
-Xóa
-giao diện Desktop, vv, từ các kiểu sau
-Giao_Diện_Desktop
-Chương trình xuất bản trên máy tính
-Thời gian giao diện Desktop và thông tin hệ thống
+Chọn một hoặc Thoát để thử lại
+Chọn ngôn ngữ chính cho hệ thống của bạn
+chọn Khu vực Thế giới về vị trí của bạn
+Chọn hạt nhân của bạn
+cli công cụ
+Thao tác hình ảnh dòng lệnh
+hệ thống hoàn chỉnh nhẹ được xây dựng trên Openbox
+IDE đa nền tảng cho Object Pascal
+Ứng dụng dock & launcher tùy biến
+người dùng mặc định được gọi là 'archie' sẽ được thiết lập
+Tài liệu trên máy tính để bàn Tải xuống Hình ảnh âm nhạc Video mẫu công cộng
+môi trường máy tính để bàn, v.v., từ các danh mục sau
+Desktop_Environments
+Máy tính để bàn của dự án Deepin
+Chương trình xuất bản để bàn
+Thời gian trên máy tính và thông tin hệ thống
 thiết bị có sẵn
 Ứng dụng ghi đĩa từ Gnome
-Trình quản lý Hiển thị
-Trình quản lý hiển thị đã được đặt là
+Quản lý hiển thị
 Hiển thị thông tin về phần cứng và hệ điều hành của bạn
-Bạn có muốn chấp nhận điều này? Chọn No (Không) để tìm kiếm các lựa chọn thay thế
-Bạn có muốn phân bổ một swapfile?
-Bạn có muốn thay đổi?
-Bạn có muốn định dạng lại?
-Trình quản lý cửa sổ trình bày động (yêu cầu trình biên dịch Haskell)
-Trinh BitTorrent dễ sử dụng
-Trình chỉnh sửa video không tuyến tính dễ sử dụng
+Hiển thị tệp 'phân vùng'
+Làm xong
+tải xuống hệ thống và ứng dụng Arch Linux
+Bạn có muốn chấp nhận điều này không? Chọn Không để tìm kiếm các lựa chọn thay thế
+Bạn có muốn phân bổ một swapfile không?
+Bạn có muốn tiếp tục không?
+Trình quản lý cửa sổ ốp lát động (yêu cầu trình biên dịch Haskell)
+Trình chỉnh sửa video phi tuyến tính dễ sử dụng
 Trình chỉnh sửa video dễ sử dụng
-Ứng dụng quản lý thư viện điện tử
-Nhập 1, 2 hoặc nhãn mới
-Nhập tên máy chủ (hostname) cho máy tính của bạn
-Nhập điểm mount cho
+Ứng dụng quản lý thư viện sách điện tử
+Phân vùng EFI: 550MiB
+ví dụ: 'dvorak' hoặc 'us'
+English.lan
+Nhập tên máy chủ cho máy tính của bạn
+Nhập điểm lắp cho
 Nhập tên cho người dùng chính của hệ thống mới
 Nhập mật khẩu cho
 Bước vào giai đoạn cài đặt tự động
-Nhập tên người dùng mới (hiện tại
-Nhập số cho dữ liệu để thay đổi
-Nhập đường dẫn mà Grub sẽ được cài đặt
-nhập '' để xem danh sách
-Lối_thoát
-Thoát để cho phép bạn phân vùng thiết bị
-Thoát để kết thúc
-Trình duyệt mở rộng từ Mozilla
-Bộ soạn thảo văn bản có thể mở rộng, tùy biến
-Trình đơn động nhanh và nhẹ cho X
-Máy khách FTP, FTPS & SFTP nhanh và đáng tin cậy
-Trình phát âm thanh phong phú
+Nhập thủ công
+Nhập số để dữ liệu thay đổi
+Lối thoát
+Thoát Feliz sang dòng lệnh
+Trình duyệt có thể mở rộng từ Mozilla
+Trình chỉnh sửa văn bản có thể tùy chỉnh, mở rộng
+Menu động nhanh và nhẹ cho X
+Ứng dụng FTP, FTPS & SFTP nhanh chóng và đáng tin cậy
+Trình phát âm thanh giàu tính năng
 Ứng dụng email giàu tính năng từ Mozilla
-Feliz - kịch bản cài đặt Arch Linux
+Feliz cần ít nhất một tấm gương để từ đó
 Feliz bây giờ cung cấp cho bạn một sự lựa chọn. Bạn có thể ...
 FelizOB_desktop
-Feliz - Thử nghiệm
-Feliz sẽ tạo một bảng phân vùng mới
-Cuối cùng chúng ta cần phải đặt mật khẩu
-Hoàn thành cài đặt trong
-Trước tiên, bạn nên chọn một trong số để sử dụng cho EFI / boot
-phông_chữ
-'>' cho trang tiếp theo
-'<' cho trang trước
-cho quốc gia hoặc ngôn ngữ của bạn và một danh sách sẽ được hiển thị
-Đầy đủ, hiện đại của DE
-Bộ xử lý văn bản đầy đủ tính năng
-Ứng dụng dock đầy đủ
-Tạo mirrorlist
-Trình duyệt Gnome WebKitGTK + (aka Web)
-Đồ_họa
+Cuối cùng, chúng ta cần đặt mật khẩu
+Đã hoàn tất cài đặt trong
+Đầu tiên bạn nên chọn một cái để sử dụng cho EFI / boot
+phông chữ
+cho quốc gia hoặc ngôn ngữ của bạn và danh sách sẽ được hiển thị
+Đầy đủ tính năng, hiện đại DE
+Trình xử lý văn bản đầy đủ tính năng
+Ứng dụng dock hoàn toàn chính thức
+Trình duyệt Gnome WebKitGTK + (còn gọi là Web)
+Đồ họa
 Công cụ đồ họa
-Grub
-Grub sẽ được cài đặt vào
-Lối vào sane dựa trên GTK
-GTK + IDE với hỗ trợ plugin Python
-Ghi đĩa CD
-hướng_dẫn
-Công cụ phân chia hướng dẫn sử dụng hướng dẫn
-Giao diện Desktop tiện dụng
-Trình soạn thảo văn bản nhẹ gọn tiện dụng từ LXDE
-có gương Arch Linux. Có thể chọn nhiều hơn
-Đây là các phân vùng có sẵn
+Grub sẽ được cài đặt trên
+Mặt trước sane dựa trên GTK
+GTK + IDE với sự hỗ trợ cho các plugin Python
+Đầu ghi CD GUI
+Máy tính để bàn tiện dụng
+Trình soạn thảo văn bản gọn nhẹ tiện dụng từ LXDE
+có gương Arch Linux.
+phải khởi chạy môi trường máy tính để bàn của bạn theo cách thủ công
+Dưới đây là các phân vùng có sẵn
 Dưới đây là danh sách các phân vùng có sẵn
-Ở đây bạn có thể thiết lập kích thước và định dạng của phân vùng
-Trình quản lý cửa sổ có cấu hình cao, năng động
-/home phân vùng
-Tên_máy_chủ
-Tên máy chủ lưu trữ (hiện tại
+Ở đây bạn có thể thiết lập kích thước và định dạng của các phân vùng
+Trình quản lý cửa sổ động có thể cấu hình cao
+Tên máy chủ
 lý tưởng hơn, lên đến 20GiB
-Nếu nghi ngờ, chọn
-Nếu nghi ngờ, tham khảo
-Nếu có, feliz có thể cài đặt Virtualbox guest
-Nếu bạn không chắc chắn về phân vùng, bạn nên đọc Arch Wiki
-Nếu bạn chọn không làm gì bây giờ, kịch bản sẽ
-Nếu bạn không cài đặt một trình quản lý hiển thị, bạn sẽ có
-Nếu bạn không tạo tên người dùng ở đây, một người
-Nếu bạn biết mã cho bố cục bàn phím, hãy nhập
-Nếu bạn bỏ qua bước này, hoán đổi (swap) sẽ không được phân bổ
-Nếu bạn muốn xóa nhãn, hãy nhập 2
-Nếu bạn muốn nhập một nhãn mới, gõ nó vào dấu nhắc
-Nếu bạn muốn giữ nhãn đó, hãy nhập 1
-Nếu bạn muốn sử dụng một, hãy chọn nó từ danh sách
+xác định thiết bị của bạn trên mạng. Nếu bạn không nhập
+Nếu nghi ngờ, hãy chọn
+Nếu nghi ngờ, hãy tham khảo Arch Wiki
+Nếu bạn không cài đặt trình quản lý hiển thị, bạn sẽ
+Nếu bạn không muốn sử dụng một từ danh sách Arch
+Nếu bạn không tạo tên người dùng ở đây,
+Nếu bạn biết mã cho bố cục bàn phím của mình, vui lòng nhập
+Nếu bạn bỏ qua bước này, sẽ không có trao đổi nào được phân bổ
+Nếu bạn muốn sử dụng, hãy chọn nó từ danh sách
 Trình xem hình ảnh và trình chỉnh sửa cơ bản
-cài đặt, nhưng bạn chỉ nên chọn ứng dụng nhẹ
-Cài_đặt
-Cài đặt các tiện ích của khách Virtualbox?
+cài đặt, nhưng bạn chỉ nên chọn các ứng dụng nhẹ
+Đang cài đặt
+Cài đặt tiện ích khách Virtualbox?
+Cài đặt công cụ không dây?
 Môi trường phát triển tích hợp (IDE)
 Internet
-đã được định dạng thành phân vùng hoán đổi (swap)
-đã có trong danh sách mua sắm của bạn
-hiện đang được định dạng để
-Có vẻ như feliz đang chạy trong Virtualbox
 không cần vượt quá 4GiB
-Không nên trộn hệ thống tập tin btrfs với những định dạng khác
-ngay bây giờ. Nếu không, hãy thử nhập hai chữ cái viết tắt
-Không được nhỏ hơn 512MiB và không được lớn hơn 1GiB
-Trình quản lý cửa sổ của Joe - quản lý cửa sổ nhẹ
+Không nên trộn hệ thống tệp btrfs với người khác
+nó ngay bây giờ. Nếu không, hãy thử nhập từ viết tắt có hai chữ cái
+Nó không nên nhỏ hơn
+Tôi muốn nhập địa chỉ
+Joe's Window Manager - quản lý cửa sổ
 Chỉ cần cài đặt một Arch Linux cơ bản
-Giữ
 Kernel
-hệ thống nhân (Kernel) và lõi hệ thống
+hệ thống hạt nhân và lõi
 Bàn phím là
-rời_khỏi
-WM nhẹ, chạy nhanh
-Trình duyệt web nhẹ
-Giao diện Desktop nhẹ dựa trên Qt DE
-Stacking WM cấu hình đơn giản, nhẹ
-DE nhẹ, dễ cài đặt cấu hình
-Bảng điều khiển màn hình gọn nhẹ phù hợp với NETWM
-Trình mô phỏng thiết bị đầu cuối cấu hình nhẹ từ LXDE
-Bảng điều khiển giao diện Desktop Lightweight X11 (một phần của giao diện Desktop LXDE)
-Tải
-Tải chương trình dịch
-Địa phương sẽ được đặt thành
-Trình phát video trung vị
-phút
-Đa phương tiện
-Tiếp theo, chúng ta sẽ chọn các mirrors cho việc tải xuống hệ thống của bạn.
-Không
-Không có Trình quản lý hiển thị nào được chọn
-Không tìm thấy bàn phím nào
-Chỉnh_sửa_locale.gen 
-không_có
-Không có
-Không có khoản dự phòng cho hoán đổi (swap)
-Lưu ý rằng nếu bạn không chọn một thiết bị, Grub
-Lưu ý rằng bạn sẽ không thể
-Sử dụng trinh Nano sửa
-Bây giờ, chúng tôi cần tìm vị trí của bạn trong
-Bây giờ, bạn có tùy chọn thêm tính năng bổ sung, chẳng hạn như trình duyệt web
-Văn_phòng
-không gian đĩa cứng còn lại được phân bổ cho
-Được
-một, nhưng việc thêm quá nhiều sẽ làm chậm quá trình cài đặt của bạn
-một phân vùng là cần thiết cho thư mục gốc
-Chỉ nhập một thiết bị, không bao gồm một số phân vùng
-Chỉ có một trình quản lý hiển thị có thể hoạt động
-Chỉ tìm thấy một bàn phím dựa trên vị trí của bạn
-Desktop Documents Downloads Music Pictures Public Templates Videos
-trên thiết bị đã chọn sẽ bị xóa hoàn toàn)
-Mở cfdisk để có thể phân vùng một cách thủ công
-Trình BitTorrent mã nguồn mở
-Mã nguồn mở và nền tảng C / C ++ IDE
-Bộ phần mềm văn phòng mã nguồn mở
-Hệ thống kiểm soát phiên bản mã nguồn mở
-trình điều khiển video mã nguồn mở
-Trình duyệt web mã nguồn mở từ Google
-hoặc_là
-hoặc chọn Thoát để kết thúc phân vùng
-hoặc chọn Thoát để kết thúc phần này của thiết lập
-hoặc chọn Thoát để thoát khỏi nó vì nó là
-hoặc nhập '' để xem danh sách:
-hoặc Thoát để thử lại
-hoặc, để phân bổ tất cả không gian còn lại, nhập
-hoặc '' để thoát
-hoặc bạn có thể thoát ngay bây giờ để sử dụng một công cụ bên ngoài
-phân vùng có thể có những hậu quả bất ngờ
-Phân vùng của
-phân vùng được sử dụng bởi hệ điều hành khác, mà
-Mật khẩu không được để trống
-Mật khẩu không khớp
-Plasma 5 và phụ kiện gói
-Vui lòng kiểm tra chúng trước khi Feliz bắt đầu cài đặt
-Vui lòng chọn một quốc gia
-Vui lòng chọn ngôn ngữ chính cho hệ thống đã cài đặt
-Vui lòng chọn vị trí gần nhất của bạn
-Vui lòng nhập kích thước mong muốn
-Vui lòng nhập chữ cái đầu tiên của
-Vui lòng nhập số của bạn lựa chọn
-Vui lòng nhấn phím bất kỳ để tiếp tục
-Hãy nhấn Enter để tiếp tục
-Vui lòng chọn một thành phố từ danh sách này
-Hãy chọn một phân vùng để sử dụng cho / root
-Vui lòng chọn hệ thống tập tin cho
-Vui lòng thử lại
-Chuẩn bị xong
-Chuẩn bị và cài đặt các phân vùng
-Chuẩn bị các dịch vụ cần cài đặt
-nhấn bất kỳ nút nào
-Nhấn Enter để tiếp tục
-Nhấn Enter để cài đặt với các cài đặt này, hoặc
-Lập_trình
-Xếp hạng mirrors - vui lòng đợi ...
-Trình đọc cho PDF và các định dạng tài liệu khác
-Nhập lại mật khẩu cho
-định dạng lại một phân vùng hiện có có thể có những hậu quả bất ngờ
-Sắp xếp lại nó sẽ thay đổi UUID, và nếu swap này
-Định dạng lại sẽ xóa tất cả dữ liệu hiện có trên đó
-còn lại, hoặc bạn có thể phân bổ một tập tin hoán đổi (swap)
-(Hãy nhớ rằng đây là phân vùng tự động và bất kỳ dữ liệu nào
-Cài đặt gốc và người dùng
-/ root phân vùng gốc
-giây
-xem mật khẩu khi bạn nhập chúng
-Chọn một phân vùng để hoán đổi (swap) từ những
-Chọn thiết bị nơi Grub sẽ được cài đặt
-Chọn bàn phím của bạn, hoặc Thoát để thử lại
-x
-Tắt_máy Khởi_động_lại
-Dock đơn giản của giao diện Desktop Pantheon
-Thanh công cụ đơn giản / thanh tác vụ được phát triển đặc biệt cho Openbox
-Bộ chuyển mã video đơn giản nhưng mạnh mẽ
-Kích_thước
-Slick, giao diện Desktop từ bản phân phối Mint
-Công cụ trộn văn bản nhỏ gọn và đơn giản
-phần mềm bạn muốn cài đặt
-Rất tiếc, không có bàn phím nào được tìm thấy dựa trên vị trí của bạn
-Chương trình bảng tính từ GNOME
-Trình quản lý cửa sổ xếp chồng cho hệ thống cửa sổ X
-Quản lý cửa sổ và thư viện để quản lý giao diện Desktop 
-Thành công!
-Swap có thể là bất cứ thứ gì từ 512MiB trở lên nhưng
-/swap phân vùng hoán đổi (swap)
-Phân vùng Swap
-hệ thống sẽ không còn có thể truy cập phân vùng
-Taskbars
-chấm dứt để cho phép bạn phân vùng theo một cách khác
-Thử_nghiệm
-Đó là tất cả các chuẩn bị được thực hiện
-Trình quản lý tập tin từ LXDE
-Các tính năng bổ sung sau đã được chọn
-Các phân vùng sau có sẵn
-Các phân vùng sau đây đã được chọn
-hòn đảo hoặc nhóm nơi bạn đang ở
-Kernel hỗ trợ dài hạn (LTS) cung cấp tính ổn định
-Phân vùng bạn đã chọn được gắn nhãn
-Có
-Không có phân vùng nào có sẵn cho Swap
-Không có phân vùng trên thiết bị, và ít nhất
-Có một tùy chọn phân vùng thủ công hướng dẫn
-Chỉ có không gian cho một
-Không có không gian cho phân vùng a / swap, nhưng bạn có thể
-Có không gian cho một
-Phân vùng / root không được nhỏ hơn 8GiB
-Đây là những thiết bị có sẵn
-Đây là những cài đặt bạn đã nhập.
-Phân vùng đã chọn
-Phân vùng đã chọn
-Cơ sở này được giới hạn trong việc tạo
-Điều này đủ cho
-Chỉ là đủ cho sử dụng cơ bản
-Không đủ để cài đặt
-Đây phải là loại vfat, và có thể khoảng 512MiB
-Nên ở dạng / dev / sdx hoặc tương tự
-Thao tác này sẽ xóa mọi dữ liệu trên
-Trình quản lý cửa sổ trình bày, hoàn toàn được viết từ đầu
-Để trở lại, hãy để trống
-để khởi động môi trường giao diện Desktop của bạn một cách thủ công
-Công cụ tạo / xóa / thay đổi kích thước phân vùng
-Quá nhiều để hiển thị tất cả
-Để đặt đồng hồ hệ thống, trước hết hãy
-Desktop mặc định từ nhóm Mint
-Desktop mặc định, nhẹ
-hai phân vùng là cần thiết - một cho EFI / khởi động, và
-hiểu rằng không phải định dạng lại / root
-Đang cập nhật chìa khóa
-Sử dụng các phím mũi tên để di chuyển. Nhập để chọn
-Tên người dùng
-Tên đăng nhập (hiện tại
-tiện ích và cài đặt thích hợp cho bạn
-Trình biên tập đồ hoạ vector
-modules khách mời ảo Virtualbox
-Cảnh báo: Btrfs không hỗ trợ các tâp tin Swap
-Chúng tôi bắt đầu với
-Bạn muốn sử dụng cho cài đặt này?
-trong khi Kernel mới nhất có tất cả các tính năng mới
-sẽ không được cài đặt và bạn sẽ phải thực hiện
-Window_Managers
-Trình quản lý cửa sổ mô phỏng giao diện người dùng NeXT
-Công cụ không dây
-Bạn có muốn sử dụng một trong những điều sau?
-x
-Vâng
-Bạn có thể thêm các mục khác, hoặc chọn mục để xóa
-Bạn có thể chọn giao diện Desktop FelizOB mới, một
-Bạn có thể chọn để nó như nó là, nhưng nên
-Bạn có thể chọn để nó như nó, bằng cách chọn Thoát, nhưng không
-Bây giờ bạn có thể chọn từ bất kỳ danh sách nào khác
-Bạn có thể sử dụng tất cả khoảng trống còn lại trên thiết bị, nếu muốn
-Bạn có
-Bạn đã chọn tự nhập đường dẫn cho Grub
-Bạn có thể muốn rời khỏi chỗ cho một phân vùng / home
-Bạn phải nhập một điểm lắp hợp lệ
-Bạn phải bao gồm M, G hoặc%
-Bạn phải bao gồm M hoặc G
-Bây giờ bạn đã
-Thiết bị của bạn đã có
-Thiết bị của bạn chỉ có
-thiết bị của bạn trên mạng. Nếu bạn không nhập,sẽ chọn
-thành phố lớn gần nhất của bạn
-Bạn sẽ có thể chọn từ một danh sách các quốc gia
-bạn muốn tạo ra. Khi đã sẵn sàng, Feliz sẽ lau đĩa
-Zone / subZone sẽ được
-Châu_Phi
-Châu_Mỹ
-Nam_Cực
-Bắc_Cực
-Châu_Á
-Đại_Tây_Dương
-Châu_Úc
-Châu_Âu
-Ấn_Độ_Dương
-Thái_Bình_Dương
-UTC
-Nhập_thủ_công
---------------
-Bỏ lại
-lý tưởng hơn, lên đến 20G
-Vui lòng chọn một
-Hủy
-Phân vùng / root không được nhỏ hơn 8G
-Đã kết thúc
-Chúng tôi bắt đầu với
-Hạt nhân cuối cùng có tất cả các tính năng mới
+Light, fast and versatile WM
+Light web browser
+Lightweight and modern Qt-based DE
+Lightweight & configurable stacking WM
+Lightweight, highly configurable DE
+Lightweight, NETWM compliant desktop panel
+Lightweight terminal emulator from LXDE
+Lightweight X11 desktop panel (part of the LXDE desktop)
+Loading
+Locale will be set to
+Middleweight media player
+minutes
+Mirrors
+M = Megabytes, G = Gigabytes [ eg: 512M or 2G ]
+Multimedia
+N
+Next we will select mirrors for downloading your system.
+No
+No Display Manager selected
+No keyboards found containing
+None
+None_of_these
+No provision has been made for swap
+Note that if you do not select a device, Grub
+Note that you will not be able to
+Now select your location in
+Now you have the option to add extras, such as a web browser
+Office
+Ok
+one, the default hostname of 'arch-linux' will be used
+Only enter a device, do not include a partition number
+Only one keyboard found based on your location
+Open source BitTorrent client
+Open source & cross-platform C/C++ IDE
+Open-source office software suite
+Open source version control system
+opensource video drivers
+Open source web browser
+Or you can assign a swap file
 partition
-Feliz sẽ
-tạo một bảng phân vùng mới
-có gương Arch Linux
-Xếp hạng gương
-Huỷ cài đặt
+Partitions
+Passwords cannot be blank
+Passwords don't match
+Plasma 5 and accessories pack
+Please check them before Feliz begins the installation
+Please choose a country
+Please choose one
+Please enter the desired size
+Please read the 'partitioning' file for advice.
+Please select a city from this list
+Please select a partition to use for /root
+Please select the file system for
+Please try again
+Preparations complete
+Preparing local services
+Press Enter to install with these settings, or
+Programming
+Ranking mirrors - please wait
+Raster graphics editor from KDE
+Reader for PDF & other document formats
+Return to the list
+Root and user settings
+seconds
+see passwords as you enter them
+Select a partition for
+Select the device where Grub is to be installed
+Select your keyboard, or Exit to try again
+Set the size of your swap file
+Shutdown Reboot
+Shut down this session
+Simple, clean dock from the Pantheon desktop environment
+Simple panel/taskbar developed specifically for Openbox
+Simple yet powerful video transcoder
+Size
+Slick, modern desktop from the Mint team
+Small and simple text merge tool
+software you wish to install
+Sorry, no keyboards found based on your location
+Spreadsheet program from GNOME
+Stacking window manager for the X Window System
+Stacking window manager & libraries to manage desktop
+Start Nano so you can manually uncomment locales?
+Success!
+Swap can be anything from 512MiB upwards but
+Taskbars
+Text-based browser
+The file manager from LXDE
+The following extras have been selected
+The following partitions are available
+The following partitions have been selected
+The Latest kernel has all the new features
+The Long-Term-Support kernel (LTS) offers stabilty
+There are
+There are no partitions available for swap
+There are no partitions on the device
+There is just space for a
+There is no space for a
+There is space for a
+These are the settings you have entered
+This is enough for
+This is just enough for a basic
+This is not enough for an installation
+This must be of type vfat, and may be about 512M
+This should be in the form /dev/sdx or similar
+This will erase any data on
+Tiling window manager, completely written from scratch
+Tool to make/delete/resize partitions
+To set the system clock, please first
+Traditional desktop from the Mint team
+Traditional, lightweight desktop
+Unable to fetch list of mirrors from Arch Linux
+Use a worldwide mirror
+Use cursor keys up/down
+Use Guided Manual Partitioning
+User Name
+Using the list supplied with the Arch iso
+Vector graphics editor
+VirtualBox
+Warning: Btrfs does not support swap files
+Which do you wish to use for this installation?
+Wifi Option
+will not be installed, and you will have to make
+Window_Managers
+Window manager that emulates the NeXT user interface
+Wireless Tools
+Y
+Yes
+You can add more items, or select items to delete
+You can assign a swap-file
+You can choose the new FelizOB desktop, a
+you can enter the address of a mirror manually, or
+You can now choose from any of the other lists
+You can use all the remaining space on the device, if you wish
+you can use one of the worldwide Arch Linux mirrors
+You have
+You have chosen to manually enter the path for Grub
+You may want to leave room for a
+You must include M or G
+You must include M or G or %
+You now have
+Your device has
+Your device has only
+You will be able to choose from a list of countries which
+you wish to create. When ready, Feliz will wipe the disk
+Zone/subZone will be
