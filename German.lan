@@ -84,7 +84,7 @@ Geben Sie einen Mountpoint für ein
 Geben Sie einen Namen für den primären Benutzer des neuen Systems ein
 Geben Sie ein Passwort für ein
 Eingabe der automatischen Installationsphase
-Manuell eintragen
+Manuell_eintragen
 Geben Sie die Nummer für die zu ändernden Daten ein
 Ausgang
 Verlasse Feliz zur Kommandozeile
@@ -169,7 +169,7 @@ Nein
 Kein Display Manager ausgewählt
 Keine Tastaturen gefunden, die enthalten
 Keiner
-Keine von diesen
+Keine_von_diesen
 Für den Swap wurde keine Rückstellung gebildet
 Beachten Sie, dass wenn Sie kein Gerät auswählen, Grub
 Beachten Sie, dass Sie dies nicht können

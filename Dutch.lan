@@ -84,7 +84,7 @@ Voer een mountpoint in voor
 Voer een naam in voor de primaire gebruiker van het nieuwe systeem
 Voer een wachtwoord in voor
 Invoeren van de automatische installatiefase
-Handmatig invoeren
+Handmatig_invoeren
 Voer het nummer in dat moet worden gewijzigd
 Uitgang
 Verlaat Feliz naar de opdrachtregel
@@ -169,7 +169,7 @@ Nee
 Geen Display Manager geselecteerd
 Geen toetsenborden gevonden met
 Geen
-Geen van deze
+Geen_van_deze
 Er is geen voorziening getroffen voor swap
 Merk op dat als u geen apparaat selecteert, Grub
 Merk op dat u dit niet zult kunnen

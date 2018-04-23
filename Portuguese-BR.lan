@@ -84,7 +84,7 @@ Insira um ponto de montagem para
 Digite um nome para o usuário principal do novo sistema
 Digite uma senha para
 Entrando na fase de instalação automática
-Entre manualmente
+Entre_manualmente
 Digite o número de dados para alterar
 Saída
 Saia de Feliz para a linha de comando
@@ -169,7 +169,7 @@ Não
 Nenhum gerenciador de exibição selecionado
 Nenhum teclado encontrado contendo
 Nenhum
-Nenhum desses
+Nenhum_desses
 Nenhuma provisão foi feita para swap
 Observe que, se você não selecionar um dispositivo, o Grub
 Note que você não será capaz de

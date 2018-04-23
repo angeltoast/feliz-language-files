@@ -84,7 +84,7 @@ Ingrese un punto de montaje para
 Ingrese un nombre para el usuario principal del nuevo sistema
 Ingrese una contraseña para
 Ingreso a la fase de instalación automática
-Ingresar manualmente
+Ingresar_manualmente
 Ingrese el número para que los datos cambien
 Salida
 Salga de Feliz a la línea de comando
@@ -169,7 +169,7 @@ No
 No Display Manager seleccionado
 No se encontraron teclados que contengan
 Ninguna
-Ninguno de esos
+Ninguno_de_esos
 No se ha hecho ninguna provisión para el intercambio
 Tenga en cuenta que si no selecciona un dispositivo, Grub
 Tenga en cuenta que no podrá

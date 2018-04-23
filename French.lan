@@ -84,7 +84,7 @@ Entrez un point de montage pour
 Entrez un nom pour l'utilisateur principal du nouveau système
 Entrez un mot de passe pour
 Entrer dans la phase d'installation automatique
-Entrer manuellement
+Entrer_manuellement
 Entrez le numéro pour les données à modifier
 Sortie
 Quittez Feliz sur la ligne de commande
@@ -169,7 +169,7 @@ Non
 Aucun gestionnaire d'affichage sélectionné
 Aucun clavier trouvé contenant
 Aucun
-Aucun d'eux
+Aucun_d'eux
 Aucune disposition n'a été prise pour l'échange
 Notez que si vous ne sélectionnez pas un appareil, Grub
 Notez que vous ne pourrez pas
