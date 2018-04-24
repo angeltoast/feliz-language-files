@@ -1,11 +1,11 @@
-# Portuguese language file for Feliz
-# by Google Translate & Elizabeth Audrey Mills (elizabeth@itsliz.net) 23 April 2018
+# Portugal language file for Feliz
+# by Ricardo Santos 23 April 2018
 # --------------------------------------------------------------
 # Notes to translators
 # Use a text editor, such as notepad, and turn Line-numbers on
 # ------------------------------------------------------------
 # 1) Please translate line #1 (above);
-# 2) Translate line #2 (above) to change from my name and email address to yours
+# 2) Change line #2 (above) to change from my name and email address to yours
 #     (it is your work and you deserve to be recognised for it);
 # 3) Translations start at line #20
 # 4) Please translate all lines at exactly the same line number as in this file,
@@ -36,7 +36,7 @@ Uma partição é necessária para / root
 Você está em algum desses estados?
 Tem certeza que deseja continuar?
 Um simples scanner GUI
-Costas
+Voltar
 Basic_Arch_Linux
 Budgie é a área de trabalho padrão do Solus OS
 Build_My_Own
@@ -84,7 +84,7 @@ Insira um ponto de montagem para
 Digite um nome para o usuário principal do novo sistema
 Digite uma senha para
 Entrando na fase de instalação automática
-Entre_manualmente
+Entre manualmente
 Digite o número de dados para alterar
 Saída
 Saia de Feliz para a linha de comando
@@ -162,14 +162,14 @@ Media player médio
 minutos
 Espelhos
 M = Megabytes, G = Gigabytes [por exemplo: 512M ou 2G]
-Multimídia
+Multimédia
 N
 Em seguida, vamos selecionar espelhos para baixar seu sistema.
 Não
 Nenhum gerenciador de exibição selecionado
 Nenhum teclado encontrado contendo
 Nenhum
-Nenhum_desses
+Nenhum desses
 Nenhuma provisão foi feita para swap
 Observe que, se você não selecionar um dispositivo, o Grub
 Note que você não será capaz de
@@ -223,7 +223,7 @@ Painel simples / barra de tarefas desenvolvido especificamente para o Openbox
 Simples, mas poderoso transcodificador de vídeo
 Tamanho
 Área de trabalho moderna e elegante da equipe Mint
-Ferramenta de mesclagem de texto pequena e simples
+Ferramenta de texto pequena e simples
 software que você deseja instalar
 Desculpe, nenhum teclado encontrado com base na sua localização
 Programa de planilhas do GNOME
