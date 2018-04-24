@@ -148,148 +148,159 @@ Chỉ cần cài đặt một Arch Linux cơ bản
 Kernel
 hệ thống hạt nhân và lõi
 Bàn phím là
-Light, fast and versatile WM
-Light web browser
-Lightweight and modern Qt-based DE
-Lightweight & configurable stacking WM
-Lightweight, highly configurable DE
-Lightweight, NETWM compliant desktop panel
-Lightweight terminal emulator from LXDE
-Lightweight X11 desktop panel (part of the LXDE desktop)
-Loading
-Locale will be set to
-Middleweight media player
-minutes
-Mirrors
-M = Megabytes, G = Gigabytes [ eg: 512M or 2G ]
-Multimedia
+WM nhẹ, nhanh và linh hoạt
+Trình duyệt web nhẹ
+Trọng lượng nhẹ và hiện đại dựa trên DE
+Nhẹ và cấu hình xếp chồng WM
+Nhẹ, có thể cấu hình cao DE
+Bảng điều khiển máy tính để bàn tương thích nhẹ, NETWM
+Trình mô phỏng thiết bị đầu cuối nhẹ từ LXDE
+Bảng điều khiển máy tính để bàn X11 nhẹ (một phần của máy tính để bàn LXDE)
+Tải
+Ngôn ngữ sẽ được đặt thành
+Trình phát phương tiện trung gian
+phút
+Gương
+M = Megabyte, G = Gigabyte [ví dụ: 512M hoặc 2G]
+Đa phương tiện
 N
-Next we will select mirrors for downloading your system.
-No
-No Display Manager selected
-No keyboards found containing
-None
+Tiếp theo, chúng tôi sẽ chọn các gương để tải xuống hệ thống của bạn.
+Không
+Không có Trình quản lý hiển thị nào được chọn
+Không tìm thấy bàn phím nào có chứa
+không ai
 None_of_these
-No provision has been made for swap
-Note that if you do not select a device, Grub
-Note that you will not be able to
-Now select your location in
-Now you have the option to add extras, such as a web browser
-Office
-Ok
-one, the default hostname of 'arch-linux' will be used
-Only enter a device, do not include a partition number
-Only one keyboard found based on your location
-Open source BitTorrent client
-Open source & cross-platform C/C++ IDE
-Open-source office software suite
-Open source version control system
-opensource video drivers
-Open source web browser
-Or you can assign a swap file
-partition
-Partitions
-Passwords cannot be blank
-Passwords don't match
-Plasma 5 and accessories pack
-Please check them before Feliz begins the installation
-Please choose a country
-Please choose one
-Please enter the desired size
-Please read the 'partitioning' file for advice.
-Please select a city from this list
-Please select a partition to use for /root
-Please select the file system for
-Please try again
-Preparations complete
-Preparing local services
-Press Enter to install with these settings, or
-Programming
-Ranking mirrors - please wait
-Raster graphics editor from KDE
-Reader for PDF & other document formats
-Return to the list
-Root and user settings
-seconds
-see passwords as you enter them
-Select a partition for
-Select the device where Grub is to be installed
-Select your keyboard, or Exit to try again
-Set the size of your swap file
+Không có điều khoản nào được thực hiện để hoán đổi
+Lưu ý rằng nếu bạn không chọn một thiết bị, Grub
+Lưu ý rằng bạn sẽ không thể
+Bây giờ chọn vị trí của bạn trong
+Giờ đây, bạn có tùy chọn để thêm các tính năng bổ sung, chẳng hạn như trình duyệt web
+Văn phòng
+Được
+một, tên máy chủ mặc định của 'arch-linux' sẽ được sử dụng
+Chỉ nhập một thiết bị, không bao gồm số phân vùng
+Chỉ tìm thấy một bàn phím dựa trên vị trí của bạn
+Ứng dụng khách BitTorrent nguồn mở
+IDE nguồn mở C / C ++ đa nền tảng
+Bộ phần mềm văn phòng nguồn mở
+Hệ thống kiểm soát phiên bản mã nguồn mở
+trình điều khiển video mã nguồn mở
+Trình duyệt web nguồn mở
+Hoặc bạn có thể gán một tập tin hoán đổi
+vách ngăn
+Phân vùng
+Mật khẩu không được để trống
+Mật khẩu không khớp
+Plasma 5 và gói phụ kiện
+Vui lòng kiểm tra chúng trước khi Feliz bắt đầu cài đặt
+Vui lòng chọn một quốc gia
+Vui lòng chọn một
+Vui lòng nhập kích thước mong muốn
+Vui lòng đọc tệp 'phân vùng' để được tư vấn.
+Vui lòng chọn một thành phố từ danh sách này
+Vui lòng chọn một phân vùng để sử dụng cho / root
+Vui lòng chọn hệ thống tệp cho
+Vui lòng thử lại
+Chuẩn bị hoàn thành
+Chuẩn bị các dịch vụ địa phương
+Nhấn Enter để cài đặt với các cài đặt này hoặc
+Lập trình
+Gương xếp hạng - vui lòng đợi
+Trình soạn thảo đồ họa Raster từ KDE
+Reader cho PDF và các định dạng tài liệu khác
+Quay lại danh sách
+Cài đặt gốc và người dùng
+giây
+xem mật khẩu khi bạn nhập chúng
+Chọn phân vùng cho
+Chọn thiết bị mà Grub được cài đặt
+Chọn bàn phím của bạn hoặc Thoát để thử lại
+Đặt kích thước của tệp hoán đổi của bạn
 Shutdown Reboot
-Shut down this session
-Simple, clean dock from the Pantheon desktop environment
-Simple panel/taskbar developed specifically for Openbox
-Simple yet powerful video transcoder
-Size
-Slick, modern desktop from the Mint team
-Small and simple text merge tool
-software you wish to install
-Sorry, no keyboards found based on your location
-Spreadsheet program from GNOME
-Stacking window manager for the X Window System
-Stacking window manager & libraries to manage desktop
-Start Nano so you can manually uncomment locales?
-Success!
-Swap can be anything from 512MiB upwards but
-Taskbars
-Text-based browser
-The file manager from LXDE
-The following extras have been selected
-The following partitions are available
-The following partitions have been selected
-The Latest kernel has all the new features
-The Long-Term-Support kernel (LTS) offers stabilty
-There are
-There are no partitions available for swap
-There are no partitions on the device
-There is just space for a
-There is no space for a
-There is space for a
-These are the settings you have entered
-This is enough for
-This is just enough for a basic
-This is not enough for an installation
-This must be of type vfat, and may be about 512M
-This should be in the form /dev/sdx or similar
-This will erase any data on
-Tiling window manager, completely written from scratch
-Tool to make/delete/resize partitions
-To set the system clock, please first
-Traditional desktop from the Mint team
-Traditional, lightweight desktop
-Unable to fetch list of mirrors from Arch Linux
-Use a worldwide mirror
-Use cursor keys up/down
-Use Guided Manual Partitioning
-User Name
-Using the list supplied with the Arch iso
-Vector graphics editor
+Tắt phiên này
+Ổ cắm đơn giản, sạch sẽ từ môi trường máy tính để bàn Pantheon
+Bảng điều khiển / thanh tác vụ đơn giản được phát triển riêng cho Openbox
+Bộ chuyển mã video đơn giản nhưng mạnh mẽ
+Kích thước
+Máy tính để bàn hiện đại, mượt mà từ nhóm Mint
+Công cụ nhập văn bản nhỏ và đơn giản
+phần mềm bạn muốn cài đặt
+Rất tiếc, không tìm thấy bàn phím nào dựa trên vị trí của bạn
+Chương trình bảng tính từ GNOME
+Trình quản lý cửa sổ xếp chồng cho Hệ thống cửa sổ X
+Xếp chồng trình quản lý cửa sổ & thư viện để quản lý máy tính để bàn
+Bắt đầu Nano để bạn có thể bỏ ghi địa phương theo cách thủ công?
+Sự thành công!
+Hoán đổi có thể là bất cứ thứ gì từ 512MiB trở lên nhưng
+Thanh tác vụ
+Trình duyệt dựa trên văn bản
+Trình quản lý tệp từ LXDE
+Các tính năng bổ sung sau đã được chọn
+Các phân vùng sau có sẵn
+Các phân vùng sau đã được chọn
+Hạt nhân mới nhất có tất cả các tính năng mới
+Hạt nhân hỗ trợ dài hạn (LTS) cung cấp tính ổn định
+Có
+Không có phân vùng nào có sẵn để trao đổi
+Không có phân vùng nào trên thiết bị
+Chỉ có không gian cho một
+Không có không gian cho một
+Có không gian cho một
+Đây là những cài đặt bạn đã nhập
+Điều này là đủ cho
+Điều này là đủ cho một cơ bản
+Điều này là không đủ để cài đặt
+Đây phải là loại vfat và có thể khoảng 512 triệu
+Điều này phải ở dạng / dev / sdx hoặc tương tự
+Thao tác này sẽ xóa mọi dữ liệu trên
+Trình quản lý cửa sổ ốp lát, được viết hoàn toàn từ đầu
+Công cụ để tạo / xóa / thay đổi kích thước phân vùng
+Để đặt đồng hồ hệ thống, trước tiên hãy
+Máy tính để bàn truyền thống từ nhóm Mint
+Máy tính để bàn nhẹ, truyền thống
+Không thể tìm nạp danh sách các gương từ Arch Linux
+Sử dụng gương trên toàn thế giới
+Sử dụng phím con trỏ lên / xuống
+Sử dụng phân vùng thủ công có hướng dẫn
+Tên người dùng
+Sử dụng danh sách được cung cấp với Arch iso
+Trình soạn thảo đồ họa vector
 VirtualBox
-Warning: Btrfs does not support swap files
-Which do you wish to use for this installation?
-Wifi Option
-will not be installed, and you will have to make
+Cảnh báo: Btrfs không hỗ trợ các tệp hoán đổi
+Bạn muốn sử dụng cái nào cho cài đặt này?
+Tùy chọn Wifi
+sẽ không được cài đặt và bạn sẽ phải thực hiện
 Window_Managers
-Window manager that emulates the NeXT user interface
-Wireless Tools
+Trình quản lý cửa sổ mô phỏng giao diện người dùng NeXT
+Công cụ không dây
 Y
-Yes
-You can add more items, or select items to delete
-You can assign a swap-file
-You can choose the new FelizOB desktop, a
-you can enter the address of a mirror manually, or
-You can now choose from any of the other lists
-You can use all the remaining space on the device, if you wish
-you can use one of the worldwide Arch Linux mirrors
-You have
-You have chosen to manually enter the path for Grub
-You may want to leave room for a
-You must include M or G
-You must include M or G or %
-You now have
-Your device has
-Your device has only
-You will be able to choose from a list of countries which
-you wish to create. When ready, Feliz will wipe the disk
-Zone/subZone will be
+Vâng
+Bạn có thể thêm các mục khác hoặc chọn các mục cần xóa
+Bạn có thể gán một tệp hoán đổi
+Bạn có thể chọn máy tính để bàn mới của FelizOB,
+bạn có thể nhập địa chỉ của gương theo cách thủ công hoặc
+Bây giờ bạn có thể chọn từ bất kỳ danh sách nào khác
+Bạn có thể sử dụng tất cả dung lượng còn lại trên thiết bị, nếu bạn muốn
+bạn có thể sử dụng một trong những chiếc gương Arch Linux trên toàn thế giới
+Bạn có
+Bạn đã chọn nhập theo cách thủ công đường dẫn cho Grub
+Bạn có thể muốn rời khỏi phòng cho một
+Bạn phải bao gồm M hoặc G
+Bạn phải bao gồm M hoặc G hoặc%
+Bây giờ bạn có
+Thiết bị của bạn có
+Thiết bị của bạn chỉ có
+Bạn sẽ có thể chọn từ danh sách các quốc gia
+bạn muốn tạo. Khi sẵn sàng, Feliz sẽ xóa sạch đĩa
+Zone / subZone sẽ là
+Châu phi
+Nước Mỹ
+Nam Cực
+Bắc cực
+Châu Á
+Đại Tây Dương
+Châu Úc
+Châu Âu
+người Ấn Độ
+Thái Bình Dương
+UTC
