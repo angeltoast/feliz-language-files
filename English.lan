@@ -32,7 +32,7 @@ and create a new partition table with your settings
 and perhaps also a
 and you may run out of space during installation or at some later time
 Apache web server
-A partition is needed for /root
+A partition is needed for
 Are you in any of these States?
 Are you sure you wish to continue?
 A simple scanner GUI

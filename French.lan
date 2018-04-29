@@ -32,7 +32,7 @@ et créez une nouvelle table de partition avec vos paramètres
 et peut-être aussi un
 et vous risquez de manquer d'espace pendant l'installation ou à un moment ultérieur
 Serveur web Apache
-Une partition est nécessaire pour / root
+Une partition est nécessaire pour
 Êtes-vous dans l'un de ces États?
 Êtes-vous sûr de vouloir continuer?
 Une interface graphique simple du scanner
@@ -291,7 +291,7 @@ Vous avez maintenant
 Votre appareil a
 Votre appareil n'a que
 Vous pourrez choisir parmi une liste de pays qui
-vous souhaitez créer. Quand il sera prêt, Feliz essuiera le disque
+vous souhaitez créer. Quand il sera prêt, Feliz effacera le disque
 Zone / subZone sera
 Afrique
 Amérique
